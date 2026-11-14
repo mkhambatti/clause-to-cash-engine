@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Studios, Inc.
+Vendor: NORTHGATE SUBTITLE SERVICES INC.
+Effective Date: 2022-04-19
+Services: Subtitling
+Governing Law: Delaware
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 1 months
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $2,370,000
+Annual Price Increase: 3.5%
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (finished-minute) | To (finished-minute) | Price per finished-minute |
+|------|------|------|------|
+| 1 | 0 | 320,000 | $8.77 |
+| 2 | 320,000 | 970,000 | $8.30 |
+| 3 | 970,000 | and above | $7.87 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed
+Assignment / Change of Control: Free assignment to successors
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

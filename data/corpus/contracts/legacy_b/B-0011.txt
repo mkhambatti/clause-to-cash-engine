@@ -1,0 +1,41 @@
+ORDER FORM
+
+Customer: Halyard Digital Ventures LLC
+Vendor: DUNMORE MESSAGING CORP.
+Effective Date: 2024-05-03
+Services: Messaging
+Governing Law: California
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: No
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $1,590,000
+Annual Price Increase: 2%
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: Graduated
+| Tier | From (million-messages) | To (million-messages) | Price per million-messages |
+|------|------|------|------|
+| 1 | 0 | 15,000 | $87.92 |
+| 2 | 15,000 | 46,000 | $83.48 |
+| 3 | 46,000 | and above | $77.59 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed
+Assignment / Change of Control: Consent required
+Exclusive Requirements: No
+MFN: Yes
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

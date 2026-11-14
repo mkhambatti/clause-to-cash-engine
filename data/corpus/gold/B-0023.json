@@ -1,0 +1,201 @@
+{
+ "terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Westmere Data Services LLC",
+  "service_category": "metadata_enrichment",
+  "effective_date": "2026-04-08",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 660000.0,
+  "pricing": {
+   "unit": "title",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 15.18
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 14.35
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 13.54
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    297
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    297
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    297
+   ]
+  ],
+  "service_category": [
+   [
+    299,
+    485
+   ]
+  ],
+  "initial_term_months": [
+   [
+    487,
+    698
+   ]
+  ],
+  "auto_renew": [
+   [
+    700,
+    1026
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    700,
+    1026
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    700,
+    1026
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    1028,
+    1184
+   ]
+  ],
+  "pricing": [
+   [
+    1209,
+    1278
+   ],
+   [
+    3511,
+    4004
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1280,
+    1439
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1441,
+    1626
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1723,
+    1980
+   ]
+  ],
+  "change_of_control": [
+   [
+    1982,
+    2235
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    2260,
+    2366
+   ]
+  ],
+  "mfn": [
+   [
+    2368,
+    2481
+   ]
+  ],
+  "governing_law": [
+   [
+    3331,
+    3509
+   ]
+  ]
+ },
+ "vendor_id": "V-metadata_enrichment-0",
+ "base_terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Westmere Data Services LLC",
+  "service_category": "metadata_enrichment",
+  "effective_date": "2026-04-08",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 660000.0,
+  "pricing": {
+   "unit": "title",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 15.18
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 14.35
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 13.54
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

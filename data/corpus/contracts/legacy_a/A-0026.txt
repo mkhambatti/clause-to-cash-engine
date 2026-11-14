@@ -1,0 +1,37 @@
+Services Agreement
+
+This agreement is signed on 3rd July 2025 between Arden People Systems, Inc. ("we", "us") and Meridian Pictures Corporation ("the Customer"). The service, in plain words: software that runs paychecks and employee records.
+
+The relationship runs for two years counting from signature.
+
+Unless one side tells the other at least six months before the anniversary that it wants out, the deal rolls over for another year.
+
+Neither side gets to cancel early without cause.
+
+Pricing steps down as volume grows: the first 210,000 employee-month cost $12.97 each, the next 410,000 employee-month cost $11.95 each, and anything beyond 620,000 employee-month costs $11.56 each.
+
+The Customer is on the hook for at least US$2.24 million a year whether or not it uses that much.
+
+Prices go up 5% every year on the anniversary.
+
+Invoices are due 60 days after receipt.
+
+Only the Customer itself may use this arrangement; its sister companies cannot.
+
+If either side is acquired or merges, the contract simply moves to the new owner.
+
+The Customer remains free to use other suppliers.
+
+We make no promises about what other clients pay.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+Delaware law governs.
+
+Signed by both sides.

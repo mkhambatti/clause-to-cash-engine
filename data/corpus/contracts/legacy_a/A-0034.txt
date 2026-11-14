@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Studios, Inc.
+Vendor: NORTHGATE COMMUNICATIONS LLC
+Effective Date: 2025-01-31
+Services: Unified Communications
+Governing Law: England and Wales
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 180 days
+
+TERMINATION
+Termination for Convenience: Customer - 90 days notice; ETF 100% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $5,640,000
+Annual Price Increase: None
+Payment Terms: Net 45
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (user-month) | To (user-month) | Price per user-month |
+|------|------|------|------|
+| 1 | 0 | 200,000 | $17.55 |
+| 2 | 200,000 | 600,000 | $16.89 |
+| 3 | 600,000 | and above | $16.04 |
+
+OTHER TERMS
+Affiliate Purchasing: Not permitted
+Assignment / Change of Control: Free assignment to successors
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

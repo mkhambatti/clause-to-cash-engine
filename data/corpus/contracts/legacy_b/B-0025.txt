@@ -1,0 +1,83 @@
+MASTER SERVICES AGREEMENT
+
+THIS MASTER SERVICES AGREEMENT (this "Agreement") is made and entered into
+effective as of the 9th day of February, 2026 (the "Effective Date"), by and
+between Solstice Render Cloud, LLC, a New York corporation ("Vendor"), and
+Halyard Digital Ventures LLC ("Customer").
+
+WHEREAS, Vendor is in the business of providing render farm and compute
+services for VFX; and WHEREAS, Customer wishes to obtain such services; NOW,
+THEREFORE, the parties agree as follows:
+
+3.1 Initial Term. The term of this Agreement shall commence on the Effective
+Date and, unless earlier terminated in accordance with its terms, shall
+continue for a period of two (2) years (the "Initial Term").
+
+3.2 No Automatic Renewal. This Agreement shall expire at the end of the
+Initial Term and shall not be renewed except by written instrument executed by
+both Parties.
+
+3.3 No Termination for Convenience. Customer shall have no right to terminate
+this Agreement without cause prior to the expiration of the then-current term.
+
+CONFIDENTIAL - Page 2
+
+4.1 Fees. Customer shall pay Vendor the fees set forth in Schedule A.
+
+4.2 Minimum Fees. Customer shall pay Vendor annual minimum fees of USD
+5,910,000 irrespective of actual usage (the "Minimum Commitment"), on a take-
+or-pay basis.
+
+4.3 Adjustments. Fees shall be adjusted annually, effective on each
+anniversary of the Effective Date, by an increase of three percent (3%) over
+the fees in effect for the preceding year.
+
+4.4 Customer shall pay all undisputed invoices within sixty (60) days after
+receipt thereof.
+
+6.1 Successors. This Agreement shall be binding upon and shall inure to the
+benefit of the Parties and their respective successors and permitted assigns.
+
+6.2 Requirements. During the term of this Agreement, Customer shall purchase
+exclusively from Vendor all of Customer's requirements for the Services.
+
+CONFIDENTIAL - Page 3
+
+6.3 Pricing Warranty. Vendor makes no representation or warranty regarding the
+prices charged to other customers.
+
+7.1 The obligations of confidentiality set forth herein shall survive for a
+period of three (3) years following termination or expiration of this
+Agreement.
+
+7.2 Vendor shall defend, indemnify and hold harmless Customer, its Affiliates
+and their respective directors, officers and employees from and against any
+third-party claims arising out of Vendor's breach hereof.
+
+7.3 In no event shall either Party's aggregate liability exceed the fees paid
+in the twelve (12) months immediately preceding the event giving rise to
+liability, which shall be the Parties' exclusive remedy.
+
+7.4 Vendor shall maintain availability of 99.9% and shall credit Customer ten
+percent (10%) of the monthly fees for each month in which availability is
+below 99.5%.
+
+7.5 Any notice shall be deemed given five (5) days after deposit in the mail.
+
+CONFIDENTIAL - Page 4
+
+8.1 Governing Law. This Agreement shall be governed by and construed in
+accordance with the laws of the State of New York, without giving effect to
+conflict of laws principles.
+
+SCHEDULE A. PRICING. For Annual Volume of up to 200,000,000 core-hour, the
+Unit Price shall be $0.0580 per core-hour; for Annual Volume in excess of
+200,000,000 core-hour and up to 590,000,000 core-hour, the Unit Price shall be
+$0.0553 per core-hour; and for Annual Volume in excess of 590,000,000 core-
+hour, the Unit Price shall be $0.0536 per core-hour. The foregoing tiered Unit
+Prices shall be applied on a volume-discount basis, such that the Unit Price
+applicable to the tier in which total Annual Volume falls shall apply to all
+units of Annual Volume.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by
+their duly authorized representatives.

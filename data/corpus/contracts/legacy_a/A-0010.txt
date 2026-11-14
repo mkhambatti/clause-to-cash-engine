@@ -1,0 +1,45 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is dated as of December 22, 2025 (the "Effective Date") by and between Meridian Streaming LLC ("Customer") and Bexley Identity Systems LLC, a Delaware corporation ("Vendor").
+
+1. Services. Vendor shall provide customer identity and authentication services (the "Services") to Customer in accordance with this Agreement.
+
+2.1 Term. This Agreement commences on the Effective Date and continues for an initial term of forty-eight (48) months (the "Initial Term").
+
+2.2 Renewal. Upon expiration of the Initial Term, this Agreement will automatically renew for successive renewal terms of twenty-four (24) months each, unless either party provides written notice of non-renewal at least three (3) months prior to the end of the then-current term.
+
+3.1 Fees. Customer shall pay the fees set forth in Schedule A.
+
+3.2 Fee Adjustments. Fees are fixed for the Term.
+
+3.3 Minimum Commitment. Customer commits to purchase not less than $1,270,000 of Services in each contract year (the "Annual Minimum Commitment"). Any shortfall will be invoiced at the end of the contract year.
+
+3.4 Payment Terms. Customer will pay undisputed invoices within sixty (60) days of receipt.
+
+4.1 Affiliates. Customer's Affiliates may purchase Services under this Agreement at the rates set forth in Schedule A, and all such purchases will count toward Annual Volume.
+
+5.1 Assignment. Either party may assign this Agreement without the other party's consent to an Affiliate or to a successor in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+6.1 Exclusivity. Nothing in this Agreement obligates Customer to purchase the Services exclusively from Vendor.
+
+7. Confidentiality. Each party's confidentiality obligations survive for three (3) years after termination of this Agreement.
+
+7. Indemnification. Vendor will indemnify Customer, its Affiliates, and their respective officers and directors against third-party claims arising from Vendor's breach of this Agreement.
+
+7. Limitation of Liability. Each party's total liability will not exceed the fees paid in the twelve (12) months preceding the claim. This Section states each party's exclusive remedy for such claims.
+
+7. Service Levels. Vendor will maintain 99.9% availability and will issue service credits of ten percent (10%) of the monthly fees for any month in which availability falls below 99.5%.
+
+7. Notices. Notices are deemed given five (5) days after mailing.
+
+8. Governing Law. This Agreement is governed by the laws of England and Wales, without regard to conflict of law principles.
+
+SCHEDULE A - PRICING
+Unit: MAU-month
+Tier 1: 0 to 92,000,000 MAU-month per year at $0.0222 per MAU-month
+Tier 2: 92,000,000 to 280,000,000 MAU-month per year at $0.0210 per MAU-month
+Tier 3: Above 280,000,000 MAU-month per year at $0.0198 per MAU-month
+Tiered pricing applies on an all-units basis: the rate for the tier in which total Annual Volume falls applies to all units.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+Customer: ____________________  Vendor: ____________________

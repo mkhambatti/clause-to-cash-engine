@@ -1,0 +1,195 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Solstice Render Cloud LLC",
+  "service_category": "render_services",
+  "effective_date": "2024-07-09",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 45,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "core-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000000.0,
+     "unit_price": 0.058
+    },
+    {
+     "lower": 200000000.0,
+     "upper": 590000000.0,
+     "unit_price": 0.0553
+    },
+    {
+     "lower": 590000000.0,
+     "upper": null,
+     "unit_price": 0.0536
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    247
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    247
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    247
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    247
+   ]
+  ],
+  "initial_term_months": [
+   [
+    249,
+    310
+   ]
+  ],
+  "auto_renew": [
+   [
+    312,
+    440
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    312,
+    440
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    312,
+    440
+   ],
+   [
+    1481,
+    1515
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    442,
+    490
+   ]
+  ],
+  "pricing": [
+   [
+    492,
+    690
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    692,
+    738
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    781,
+    861
+   ]
+  ],
+  "change_of_control": [
+   [
+    863,
+    954
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    956,
+    1005
+   ]
+  ],
+  "mfn": [
+   [
+    1007,
+    1056
+   ]
+  ],
+  "governing_law": [
+   [
+    1394,
+    1415
+   ]
+  ]
+ },
+ "vendor_id": "V-render_services-2",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Solstice Render Cloud LLC",
+  "service_category": "render_services",
+  "effective_date": "2024-07-09",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 60,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "core-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000000.0,
+     "unit_price": 0.058
+    },
+    {
+     "lower": 200000000.0,
+     "upper": 590000000.0,
+     "unit_price": 0.0553
+    },
+    {
+     "lower": 590000000.0,
+     "upper": null,
+     "unit_price": 0.0536
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ }
+}

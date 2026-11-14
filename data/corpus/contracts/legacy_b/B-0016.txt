@@ -1,0 +1,47 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is dated as of September 18, 2022 (the "Effective Date") by and between Halyard Digital Ventures LLC ("Customer") and Arden Fiber Networks Corp., a New York corporation ("Vendor").
+
+1. Services. Vendor shall provide live video fiber transport services (the "Services") to Customer in accordance with this Agreement.
+
+2.1 Term. This Agreement commences on the Effective Date and continues for an initial term of sixty (60) months (the "Initial Term").
+
+2.2 Renewal. This Agreement will not renew automatically; any renewal requires a written amendment signed by both parties.
+
+2.3 Termination for Convenience. Customer may terminate this Agreement for convenience upon sixty (60) days' prior written notice, subject to payment of an early termination fee equal to fifty percent (50%) of the fees that would have been payable for the remainder of the then-current term.
+
+3.1 Fees. Customer shall pay the fees set forth in Schedule A.
+
+3.3 Minimum Commitment. Customer commits to purchase not less than $2,410,000 of Services in each contract year (the "Annual Minimum Commitment"). Any shortfall will be invoiced at the end of the contract year.
+
+3.4 Payment Terms. Customer will pay undisputed invoices within thirty (30) days of receipt.
+
+4.1 Affiliates. Customer's Affiliates may purchase Services under this Agreement at the rates set forth in Schedule A, and all such purchases will count toward Annual Volume.
+
+5.1 Assignment. Either party may assign this Agreement without the other party's consent to an Affiliate or to a successor in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+6.1 Exclusivity. During the Term, Customer will purchase all of its requirements for the Services exclusively from Vendor.
+
+6.2 Pricing Protection. Vendor makes no representation regarding prices charged to its other customers.
+
+7. Confidentiality. Each party's confidentiality obligations survive for three (3) years after termination of this Agreement.
+
+7. Indemnification. Vendor will indemnify Customer, its Affiliates, and their respective officers and directors against third-party claims arising from Vendor's breach of this Agreement.
+
+7. Limitation of Liability. Each party's total liability will not exceed the fees paid in the twelve (12) months preceding the claim. This Section states each party's exclusive remedy for such claims.
+
+7. Service Levels. Vendor will maintain 99.9% availability and will issue service credits of ten percent (10%) of the monthly fees for any month in which availability falls below 99.5%.
+
+7. Notices. Notices are deemed given five (5) days after mailing.
+
+8. Governing Law. This Agreement is governed by the laws of the State of Delaware, without regard to conflict of law principles.
+
+SCHEDULE A - PRICING
+Unit: circuit-month
+Tier 1: 0 to 700 circuit-month per year at $6,078 per circuit-month
+Tier 2: 700 to 2,100 circuit-month per year at $5,668 per circuit-month
+Tier 3: Above 2,100 circuit-month per year at $5,301 per circuit-month
+Tiered pricing applies on a graduated basis: each unit is charged at the rate of the tier in which it falls.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+Customer: ____________________  Vendor: ____________________

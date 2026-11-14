@@ -1,0 +1,185 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Arden Data Services, LLC",
+  "service_category": "metadata_enrichment",
+  "effective_date": "2025-09-07",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 880000.0,
+  "pricing": {
+   "unit": "title",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 14.96
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 13.93
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 13.22
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    249
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    249
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    249
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    249
+   ]
+  ],
+  "initial_term_months": [
+   [
+    251,
+    312
+   ]
+  ],
+  "auto_renew": [
+   [
+    314,
+    443
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    314,
+    443
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    314,
+    443
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    445,
+    493
+   ]
+  ],
+  "pricing": [
+   [
+    495,
+    666
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    668,
+    758
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    760,
+    805
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    848,
+    927
+   ]
+  ],
+  "change_of_control": [
+   [
+    929,
+    1020
+   ]
+  ],
+  "governing_law": [
+   [
+    1358,
+    1379
+   ]
+  ]
+ },
+ "vendor_id": "V-metadata_enrichment-1",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Arden Data Services, LLC",
+  "service_category": "metadata_enrichment",
+  "effective_date": "2025-09-07",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 880000.0,
+  "pricing": {
+   "unit": "title",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 14.96
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 13.93
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 13.22
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

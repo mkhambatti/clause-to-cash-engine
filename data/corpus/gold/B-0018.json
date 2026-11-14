@@ -1,0 +1,195 @@
+{
+ "terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Tidewater Caption Services, Ltd.",
+  "service_category": "closed_captioning",
+  "effective_date": "2025-03-28",
+  "initial_term_months": 24,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "program-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 14000.0,
+     "unit_price": 137.03
+    },
+    {
+     "lower": 14000.0,
+     "upper": 41000.0,
+     "unit_price": 132.27
+    },
+    {
+     "lower": 41000.0,
+     "upper": null,
+     "unit_price": 122.16
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    263
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    263
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    263
+   ]
+  ],
+  "service_category": [
+   [
+    265,
+    409
+   ]
+  ],
+  "initial_term_months": [
+   [
+    411,
+    550
+   ]
+  ],
+  "auto_renew": [
+   [
+    552,
+    674
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    552,
+    674
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    552,
+    674
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    676,
+    768
+   ]
+  ],
+  "pricing": [
+   [
+    770,
+    832
+   ],
+   [
+    2527,
+    2891
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    834,
+    883
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    885,
+    970
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1065,
+    1187
+   ]
+  ],
+  "change_of_control": [
+   [
+    1189,
+    1404
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1406,
+    1517
+   ]
+  ],
+  "mfn": [
+   [
+    1519,
+    1622
+   ]
+  ],
+  "governing_law": [
+   [
+    2395,
+    2525
+   ]
+  ]
+ },
+ "vendor_id": "V-closed_captioning-1",
+ "base_terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Tidewater Caption Services, Ltd.",
+  "service_category": "closed_captioning",
+  "effective_date": "2025-03-28",
+  "initial_term_months": 24,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "program-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 14000.0,
+     "unit_price": 137.03
+    },
+    {
+     "lower": 14000.0,
+     "upper": 41000.0,
+     "unit_price": 132.27
+    },
+    {
+     "lower": 41000.0,
+     "upper": null,
+     "unit_price": 122.16
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

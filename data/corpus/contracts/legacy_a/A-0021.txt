@@ -1,0 +1,37 @@
+Services Agreement
+
+This agreement is signed on 18th February 2023 between Juniper Data Services, LLC ("we", "us") and Meridian Pictures Corporation ("the Customer"). The service, in plain words: describing and tagging titles so viewers can find them.
+
+The relationship runs for four years counting from signature.
+
+Unless one side tells the other at least 60 days before the anniversary that it wants out, the deal rolls over for another year.
+
+Neither side gets to cancel early without cause.
+
+Pricing steps down with volume, applied to everything: up to 100,000 title a year each title costs $14.63; once volume passes 100,000 every title is repriced at $13.90; past 310,000 it drops to $13.44 for every title.
+
+The Customer is on the hook for at least US$1.18 million a year whether or not it uses that much.
+
+Prices go up 2% every year on the anniversary.
+
+Invoices are due 60 days after receipt.
+
+Sister companies of the Customer can also buy at these rates, and their volume counts toward the tiers.
+
+If either side is acquired or merges, the contract simply moves to the new owner.
+
+The Customer remains free to use other suppliers.
+
+We make no promises about what other clients pay.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+Delaware law governs.
+
+Signed by both sides.

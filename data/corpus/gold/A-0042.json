@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Halden Insights Inc.",
+  "service_category": "audience_research",
+  "effective_date": "2022-09-11",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 6840000.0,
+  "pricing": {
+   "unit": "seat-year",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 240.0,
+     "unit_price": 23266.0
+    },
+    {
+     "lower": 240.0,
+     "upper": 730.0,
+     "unit_price": 22191.0
+    },
+    {
+     "lower": 730.0,
+     "upper": null,
+     "unit_price": 21257.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    164
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    164
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    164
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    164
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    164
+   ]
+  ],
+  "initial_term_months": [
+   [
+    166,
+    274
+   ]
+  ],
+  "auto_renew": [
+   [
+    166,
+    274
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    166,
+    274
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    166,
+    274
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    276,
+    330
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    276,
+    330
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    276,
+    330
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    332,
+    429
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    332,
+    429
+   ]
+  ],
+  "pricing": [
+   [
+    431,
+    644
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    646,
+    768
+   ]
+  ],
+  "change_of_control": [
+   [
+    646,
+    768
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    646,
+    768
+   ]
+  ],
+  "mfn": [
+   [
+    646,
+    768
+   ]
+  ]
+ },
+ "vendor_id": "V-audience_research-0",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Halden Insights Inc.",
+  "service_category": "audience_research",
+  "effective_date": "2022-09-11",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 6840000.0,
+  "pricing": {
+   "unit": "seat-year",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 240.0,
+     "unit_price": 23266.0
+    },
+    {
+     "lower": 240.0,
+     "upper": 730.0,
+     "unit_price": 22191.0
+    },
+    {
+     "lower": 730.0,
+     "upper": null,
+     "unit_price": 21257.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ }
+}

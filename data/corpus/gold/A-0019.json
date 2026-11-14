@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Northgate Subtitle Services Inc.",
+  "service_category": "subtitling",
+  "effective_date": "2022-04-19",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2370000.0,
+  "pricing": {
+   "unit": "finished-minute",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 320000.0,
+     "unit_price": 8.77
+    },
+    {
+     "lower": 320000.0,
+     "upper": 970000.0,
+     "unit_price": 8.3
+    },
+    {
+     "lower": 970000.0,
+     "upper": null,
+     "unit_price": 7.87
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    157
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    157
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    157
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    157
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    157
+   ]
+  ],
+  "initial_term_months": [
+   [
+    159,
+    268
+   ]
+  ],
+  "auto_renew": [
+   [
+    159,
+    268
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    159,
+    268
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    159,
+    268
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    270,
+    324
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    270,
+    324
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    270,
+    324
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    326,
+    425
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    326,
+    425
+   ]
+  ],
+  "pricing": [
+   [
+    427,
+    668
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    670,
+    808
+   ]
+  ],
+  "change_of_control": [
+   [
+    670,
+    808
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    670,
+    808
+   ]
+  ],
+  "mfn": [
+   [
+    670,
+    808
+   ]
+  ]
+ },
+ "vendor_id": "V-subtitling-0",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Northgate Subtitle Services Inc.",
+  "service_category": "subtitling",
+  "effective_date": "2022-04-19",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2370000.0,
+  "pricing": {
+   "unit": "finished-minute",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 320000.0,
+     "unit_price": 8.77
+    },
+    {
+     "lower": 320000.0,
+     "upper": 970000.0,
+     "unit_price": 8.3
+    },
+    {
+     "lower": 970000.0,
+     "upper": null,
+     "unit_price": 7.87
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

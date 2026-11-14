@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Juniper Legal Technologies Corporation",
+  "service_category": "ediscovery_hosting",
+  "effective_date": "2023-02-05",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2110000.0,
+  "pricing": {
+   "unit": "GB-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 12.96
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 12.42
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 11.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    172
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    172
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    172
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    172
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    172
+   ]
+  ],
+  "initial_term_months": [
+   [
+    174,
+    283
+   ]
+  ],
+  "auto_renew": [
+   [
+    174,
+    283
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    174,
+    283
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    174,
+    283
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    285,
+    339
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    285,
+    339
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    285,
+    339
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    341,
+    440
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    341,
+    440
+   ]
+  ],
+  "pricing": [
+   [
+    442,
+    665
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    667,
+    759
+   ]
+  ],
+  "change_of_control": [
+   [
+    667,
+    759
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    667,
+    759
+   ]
+  ],
+  "mfn": [
+   [
+    667,
+    759
+   ]
+  ]
+ },
+ "vendor_id": "V-ediscovery_hosting-1",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Juniper Legal Technologies Corporation",
+  "service_category": "ediscovery_hosting",
+  "effective_date": "2023-02-05",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2110000.0,
+  "pricing": {
+   "unit": "GB-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 12.96
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 12.42
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 11.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ }
+}

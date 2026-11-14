@@ -1,0 +1,33 @@
+Services Agreement
+
+This agreement is signed on 13th January 2021 between Solstice Workplace Software, Ltd. ("we", "us") and Halyard Digital Ventures LLC ("the Customer"). The service, in plain words: office apps and device management for staff.
+
+The relationship runs for two years counting from signature.
+
+Unless one side tells the other at least 90 days before the anniversary that it wants out, the deal rolls over for another year.
+
+The Customer can walk away early on 30 days' notice, but owes three quarters of what is left on the commitment.
+
+Pricing steps down as volume grows: the first 290,000 user-month cost $28.52 each, the next 590,000 user-month cost $26.58 each, and anything beyond 880,000 user-month costs $25.56 each.
+
+The Customer is on the hook for at least US$9.96 million a year whether or not it uses that much.
+
+Invoices are due 45 days after receipt.
+
+The contract cannot be transferred unless the other side agrees, and if the Customer is bought by someone else we may end the deal on 30 days' notice.
+
+The Customer remains free to use other suppliers.
+
+We make no promises about what other clients pay.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+New York law governs.
+
+Signed by both sides.

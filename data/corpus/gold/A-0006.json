@@ -1,0 +1,189 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Vantor Shield Technologies, LLC",
+  "service_category": "drm_licensing",
+  "effective_date": "2026-03-03",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "million-licenses",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 13000.0,
+     "unit_price": 221.77
+    },
+    {
+     "lower": 13000.0,
+     "upper": 38000.0,
+     "unit_price": 210.16
+    },
+    {
+     "lower": 38000.0,
+     "upper": null,
+     "unit_price": 196.94
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    253
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    253
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    253
+   ]
+  ],
+  "service_category": [
+   [
+    255,
+    401
+   ]
+  ],
+  "initial_term_months": [
+   [
+    403,
+    541
+   ]
+  ],
+  "auto_renew": [
+   [
+    543,
+    815
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    543,
+    815
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    543,
+    815
+   ]
+  ],
+  "pricing": [
+   [
+    817,
+    879
+   ],
+   [
+    2679,
+    3071
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    881,
+    985
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1080,
+    1254
+   ]
+  ],
+  "change_of_control": [
+   [
+    1256,
+    1478
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1480,
+    1591
+   ]
+  ],
+  "mfn": [
+   [
+    1593,
+    1776
+   ]
+  ],
+  "governing_law": [
+   [
+    2549,
+    2677
+   ]
+  ]
+ },
+ "vendor_id": "V-drm_licensing-0",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Vantor Shield Technologies, LLC",
+  "service_category": "drm_licensing",
+  "effective_date": "2026-03-03",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "million-licenses",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 13000.0,
+     "unit_price": 221.77
+    },
+    {
+     "lower": 13000.0,
+     "upper": 38000.0,
+     "unit_price": 210.16
+    },
+    {
+     "lower": 38000.0,
+     "upper": null,
+     "unit_price": 196.94
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "New York"
+ }
+}

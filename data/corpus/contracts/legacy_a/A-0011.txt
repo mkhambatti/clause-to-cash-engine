@@ -1,0 +1,106 @@
+MASTER SERVICES AGREEMENT
+
+THIS MASTER SERVICES AGREEMENT (this "Agreement") is made and entered into
+effective as of the 6th day of July, 2020 (the "Effective Date"), by and
+between Ingram Messaging Corporation, a Delaware corporation ("Vendor"), and
+Meridian Studios, Inc. ("Customer").
+
+WHEREAS, Vendor is in the business of providing customer messaging delivery
+services; and WHEREAS, Customer wishes to obtain such services; NOW,
+THEREFORE, the parties agree as follows:
+
+3.1 Initial Term. The term of this Agreement shall commence on the Effective
+Date and, unless earlier terminated in accordance with its terms, shall
+continue for a period of two (2) years (the "Initial Term").
+
+3.2 Renewal. Following the Initial Term, this Agreement shall be automatically
+extended for successive periods of one (1) year (each, a "Renewal Term")
+unless either Party gives the other written notice of its intention not to
+renew not less than ninety (90) days prior to the expiration of the then-
+current term.
+
+3.3 Termination Without Cause. Customer shall have the right, exercisable at
+any time upon not less than thirty (30) days' written notice, to terminate
+this Agreement without cause; provided that Customer shall pay Vendor an early
+termination charge equal to twenty-five percent (25%) of the fees payable for
+the balance of the then-current term.
+
+CONFIDENTIAL - Page 2
+
+4.1 Fees. Customer shall pay Vendor the fees set forth in Schedule A.
+
+4.2 Minimum Fees. Customer shall pay Vendor annual minimum fees of USD
+1,940,000 irrespective of actual usage (the "Minimum Commitment"), on a take-
+or-pay basis.
+
+4.3 Adjustments. Fees shall be adjusted annually, effective on each
+anniversary of the Effective Date, by an increase of three percent (3%) over
+the fees in effect for the preceding year.
+
+4.4 Customer shall pay all undisputed invoices within sixty (60) days after
+receipt thereof.
+
+6.1 Successors. This Agreement shall be binding upon and shall inure to the
+benefit of the Parties and their respective successors and permitted assigns.
+
+6.3 Pricing Warranty. Vendor makes no representation or warranty regarding the
+prices charged to other customers.
+
+CONFIDENTIAL - Page 3
+
+7.1 The obligations of confidentiality set forth herein shall survive for a
+period of three (3) years following termination or expiration of this
+Agreement.
+
+7.2 Vendor shall defend, indemnify and hold harmless Customer, its Affiliates
+and their respective directors, officers and employees from and against any
+third-party claims arising out of Vendor's breach hereof.
+
+7.3 In no event shall either Party's aggregate liability exceed the fees paid
+in the twelve (12) months immediately preceding the event giving rise to
+liability, which shall be the Parties' exclusive remedy.
+
+7.4 Vendor shall maintain availability of 99.9% and shall credit Customer ten
+percent (10%) of the monthly fees for each month in which availability is
+below 99.5%.
+
+7.5 Any notice shall be deemed given five (5) days after deposit in the mail.
+
+8.1 Governing Law. This Agreement shall be governed by and construed in
+accordance with the laws of the State of California, without giving effect to
+conflict of laws principles.
+
+CONFIDENTIAL - Page 4
+
+SCHEDULE A. PRICING. For Annual Volume of up to 15,000 million-messages, the
+Unit Price shall be $100.51 per million-messages; for Annual Volume in excess
+of 15,000 million-messages and up to 46,000 million-messages, the Unit Price
+shall be $97.29 per million-messages; and for Annual Volume in excess of
+46,000 million-messages, the Unit Price shall be $94.20 per million-messages.
+The foregoing tiered Unit Prices shall be applied on a marginal basis, such
+that each unit of Annual Volume shall be priced at the rate applicable to the
+tier in which such unit falls.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by
+their duly authorized representatives.
+
+FIRST AMENDMENT TO MASTER SERVICES AGREEMENT
+
+This First Amendment is made as of the 4th day of February, 2021. The Initial
+Term set forth in Section 3.1 is hereby extended by a period of six (6)
+months. In all other respects the Agreement is ratified and confirmed.
+
+SECOND AMENDMENT TO MASTER SERVICES AGREEMENT
+
+This Second Amendment is made as of the 5th day of September, 2021. Schedule A
+is hereby deleted in its entirety and replaced with the following: For Annual
+Volume of up to 15,000 million-messages, the Unit Price shall be $92.55 per
+million-messages; for Annual Volume in excess of 15,000 million-messages and
+up to 46,000 million-messages, the Unit Price shall be $89.59 per million-
+messages; and for Annual Volume in excess of 46,000 million-messages, the Unit
+Price shall be $86.75 per million-messages. The foregoing tiered Unit Prices
+shall be applied on a marginal basis, such that each unit of Annual Volume
+shall be priced at the rate applicable to the tier in which such unit falls.
+In all other respects the Agreement is ratified and confirmed.
+
+CONFIDENTIAL - Page 5

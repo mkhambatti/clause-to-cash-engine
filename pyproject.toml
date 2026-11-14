@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clause-to-cash-engine"
+version = "0.1.0"
+description = "Guardrailed contract intelligence: LLM extraction with evidence, a deterministic verification gate, date/price engines, an exact planner, and an MCP server that refuses on unverified input."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = ["pydantic>=2.5", "numpy>=1.24", "scipy>=1.11"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "mypy>=1.8"]
+
+[project.urls]
+Homepage = "https://mkhambatti.github.io/clause-to-cash-engine/"
+Source = "https://github.com/mkhambatti/clause-to-cash-engine"
+
+[project.scripts]
+clause-to-cash = "clause_to_cash.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+clause_to_cash = ["web/*.html"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["src"]
+
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true
+warn_unused_ignores = false
+check_untyped_defs = true

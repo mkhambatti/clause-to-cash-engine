@@ -1,0 +1,189 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Halden Playback Labs LLC",
+  "service_category": "video_player_sdk",
+  "effective_date": "2024-11-25",
+  "initial_term_months": 48,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "million-hours",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470.0,
+     "unit_price": 5101.0
+    },
+    {
+     "lower": 470.0,
+     "upper": 1400.0,
+     "unit_price": 4846.0
+    },
+    {
+     "lower": 1400.0,
+     "upper": null,
+     "unit_price": 4473.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    250
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    250
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    250
+   ]
+  ],
+  "service_category": [
+   [
+    252,
+    398
+   ]
+  ],
+  "initial_term_months": [
+   [
+    400,
+    539
+   ]
+  ],
+  "auto_renew": [
+   [
+    541,
+    663
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    541,
+    663
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    541,
+    663
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    665,
+    757
+   ]
+  ],
+  "pricing": [
+   [
+    759,
+    821
+   ],
+   [
+    2515,
+    2891
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    823,
+    926
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    928,
+    1013
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1109,
+    1283
+   ]
+  ],
+  "change_of_control": [
+   [
+    1285,
+    1507
+   ]
+  ],
+  "mfn": [
+   [
+    1509,
+    1612
+   ]
+  ],
+  "governing_law": [
+   [
+    2385,
+    2513
+   ]
+  ]
+ },
+ "vendor_id": "V-video_player_sdk-2",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Halden Playback Labs LLC",
+  "service_category": "video_player_sdk",
+  "effective_date": "2024-11-25",
+  "initial_term_months": 48,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "million-hours",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470.0,
+     "unit_price": 5101.0
+    },
+    {
+     "lower": 470.0,
+     "upper": 1400.0,
+     "unit_price": 4846.0
+    },
+    {
+     "lower": 1400.0,
+     "upper": null,
+     "unit_price": 4473.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ }
+}

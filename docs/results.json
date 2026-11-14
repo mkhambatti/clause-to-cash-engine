@@ -1,0 +1,728 @@
+{
+ "protocol": {
+  "dev_seed": 7,
+  "fresh_seeds": [
+   2001,
+   2002,
+   2003
+  ],
+  "held_out_style": 3
+ },
+ "extraction_gate_dev": {
+  "0": {
+   "docs": 21,
+   "docs_all_correct": 21,
+   "docs_accepted": 21,
+   "docs_accepted_with_error": 0,
+   "fields": 252,
+   "fields_correct": 252,
+   "fields_accepted": 252,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "1": {
+   "docs": 17,
+   "docs_all_correct": 17,
+   "docs_accepted": 17,
+   "docs_accepted_with_error": 0,
+   "fields": 204,
+   "fields_correct": 204,
+   "fields_accepted": 204,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "2": {
+   "docs": 26,
+   "docs_all_correct": 25,
+   "docs_accepted": 23,
+   "docs_accepted_with_error": 0,
+   "fields": 312,
+   "fields_correct": 311,
+   "fields_accepted": 309,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 1,
+   "fields_wrong_flagged": 1,
+   "field_accuracy_pct": 99.7,
+   "doc_auto_accept_pct": 88.5,
+   "field_auto_accept_pct": 99.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 100.0
+  },
+  "3": {
+   "docs": 20,
+   "docs_all_correct": 0,
+   "docs_accepted": 0,
+   "docs_accepted_with_error": 0,
+   "fields": 240,
+   "fields_correct": 65,
+   "fields_accepted": 0,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 175,
+   "fields_wrong_flagged": 175,
+   "field_accuracy_pct": 27.1,
+   "doc_auto_accept_pct": 0.0,
+   "field_auto_accept_pct": 0.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 100.0
+  }
+ },
+ "extraction_gate_fresh": {
+  "0": {
+   "docs": 51,
+   "docs_all_correct": 51,
+   "docs_accepted": 51,
+   "docs_accepted_with_error": 0,
+   "fields": 612,
+   "fields_correct": 612,
+   "fields_accepted": 612,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "1": {
+   "docs": 72,
+   "docs_all_correct": 72,
+   "docs_accepted": 72,
+   "docs_accepted_with_error": 0,
+   "fields": 864,
+   "fields_correct": 864,
+   "fields_accepted": 864,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "2": {
+   "docs": 69,
+   "docs_all_correct": 64,
+   "docs_accepted": 58,
+   "docs_accepted_with_error": 0,
+   "fields": 828,
+   "fields_correct": 823,
+   "fields_accepted": 817,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 5,
+   "fields_wrong_flagged": 5,
+   "field_accuracy_pct": 99.4,
+   "doc_auto_accept_pct": 84.1,
+   "field_auto_accept_pct": 98.7,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 100.0
+  },
+  "3": {
+   "docs": 54,
+   "docs_all_correct": 0,
+   "docs_accepted": 0,
+   "docs_accepted_with_error": 0,
+   "fields": 648,
+   "fields_correct": 187,
+   "fields_accepted": 0,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 461,
+   "fields_wrong_flagged": 461,
+   "field_accuracy_pct": 28.9,
+   "doc_auto_accept_pct": 0.0,
+   "field_auto_accept_pct": 0.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 100.0
+  }
+ },
+ "extraction_gate_fresh_no_canary": {
+  "0": {
+   "docs": 51,
+   "docs_all_correct": 51,
+   "docs_accepted": 51,
+   "docs_accepted_with_error": 0,
+   "fields": 612,
+   "fields_correct": 612,
+   "fields_accepted": 612,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "1": {
+   "docs": 72,
+   "docs_all_correct": 72,
+   "docs_accepted": 72,
+   "docs_accepted_with_error": 0,
+   "fields": 864,
+   "fields_correct": 864,
+   "fields_accepted": 864,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "2": {
+   "docs": 69,
+   "docs_all_correct": 64,
+   "docs_accepted": 58,
+   "docs_accepted_with_error": 0,
+   "fields": 828,
+   "fields_correct": 823,
+   "fields_accepted": 817,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 5,
+   "fields_wrong_flagged": 5,
+   "field_accuracy_pct": 99.4,
+   "doc_auto_accept_pct": 84.1,
+   "field_auto_accept_pct": 98.7,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 100.0
+  },
+  "3": {
+   "docs": 54,
+   "docs_all_correct": 0,
+   "docs_accepted": 0,
+   "docs_accepted_with_error": 0,
+   "fields": 648,
+   "fields_correct": 187,
+   "fields_accepted": 340,
+   "fields_accepted_wrong": 207,
+   "fields_wrong": 461,
+   "fields_wrong_flagged": 254,
+   "field_accuracy_pct": 28.9,
+   "doc_auto_accept_pct": 0.0,
+   "field_auto_accept_pct": 52.5,
+   "silent_error_rate_pct": 60.9,
+   "error_recall_pct": 55.1
+  }
+ },
+ "extraction_gate_fresh_ungated": {
+  "0": {
+   "docs": 51,
+   "docs_all_correct": 51,
+   "docs_accepted": 51,
+   "docs_accepted_with_error": 0,
+   "fields": 612,
+   "fields_correct": 612,
+   "fields_accepted": 612,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "1": {
+   "docs": 72,
+   "docs_all_correct": 72,
+   "docs_accepted": 72,
+   "docs_accepted_with_error": 0,
+   "fields": 864,
+   "fields_correct": 864,
+   "fields_accepted": 864,
+   "fields_accepted_wrong": 0,
+   "fields_wrong": 0,
+   "fields_wrong_flagged": 0,
+   "field_accuracy_pct": 100.0,
+   "doc_auto_accept_pct": 100.0,
+   "field_auto_accept_pct": 100.0,
+   "silent_error_rate_pct": 0.0,
+   "error_recall_pct": 0.0
+  },
+  "2": {
+   "docs": 69,
+   "docs_all_correct": 64,
+   "docs_accepted": 67,
+   "docs_accepted_with_error": 3,
+   "fields": 828,
+   "fields_correct": 823,
+   "fields_accepted": 826,
+   "fields_accepted_wrong": 3,
+   "fields_wrong": 5,
+   "fields_wrong_flagged": 2,
+   "field_accuracy_pct": 99.4,
+   "doc_auto_accept_pct": 97.1,
+   "field_auto_accept_pct": 99.8,
+   "silent_error_rate_pct": 0.4,
+   "error_recall_pct": 40.0
+  },
+  "3": {
+   "docs": 54,
+   "docs_all_correct": 0,
+   "docs_accepted": 0,
+   "docs_accepted_with_error": 0,
+   "fields": 648,
+   "fields_correct": 187,
+   "fields_accepted": 594,
+   "fields_accepted_wrong": 407,
+   "fields_wrong": 461,
+   "fields_wrong_flagged": 54,
+   "field_accuracy_pct": 28.9,
+   "doc_auto_accept_pct": 0.0,
+   "field_auto_accept_pct": 91.7,
+   "silent_error_rate_pct": 68.5,
+   "error_recall_pct": 11.7
+  }
+ },
+ "gate_perfect_extractor": {
+  "0": {
+   "docs": 51,
+   "docs_accepted": 51,
+   "fields": 612,
+   "fields_accepted": 612,
+   "field_auto_accept_pct": 100.0,
+   "doc_auto_accept_pct": 100.0
+  },
+  "1": {
+   "docs": 72,
+   "docs_accepted": 36,
+   "fields": 864,
+   "fields_accepted": 828,
+   "field_auto_accept_pct": 95.8,
+   "doc_auto_accept_pct": 50.0
+  },
+  "2": {
+   "docs": 69,
+   "docs_accepted": 67,
+   "fields": 828,
+   "fields_accepted": 826,
+   "field_auto_accept_pct": 99.8,
+   "doc_auto_accept_pct": 97.1
+  },
+  "3": {
+   "docs": 54,
+   "docs_accepted": 0,
+   "fields": 648,
+   "fields_accepted": 371,
+   "field_auto_accept_pct": 57.3,
+   "doc_auto_accept_pct": 0.0
+  }
+ },
+ "faults": {
+  "clean_docs": 250,
+  "trials": 8786,
+  "per_fault": {
+   "WRONG_CLAUSE": 1842,
+   "WRONG_VALUE": 1841,
+   "FALSE_ABSENCE": 1101,
+   "FABRICATED_QUOTE": 911,
+   "BROKEN_STRUCTURE": 423,
+   "NO_EVIDENCE": 1825,
+   "PHANTOM_CLAUSE": 787,
+   "STALE_BASE_VALUE": 56
+  },
+  "catch_pct": {
+   "full": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 100.0,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 100.0,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 100.0,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 100.0
+   },
+   "confidence_only": {
+    "WRONG_VALUE": 0.0,
+    "WRONG_CLAUSE": 0.0,
+    "FABRICATED_QUOTE": 0.0,
+    "NO_EVIDENCE": 0.0,
+    "FALSE_ABSENCE": 0.0,
+    "PHANTOM_CLAUSE": 0.0,
+    "STALE_BASE_VALUE": 0.0,
+    "BROKEN_STRUCTURE": 0.0,
+    "ALL": 0.0
+   },
+   "only_grounding": {
+    "WRONG_VALUE": 0.0,
+    "WRONG_CLAUSE": 0.0,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 84.5,
+    "FALSE_ABSENCE": 0.0,
+    "PHANTOM_CLAUSE": 0.0,
+    "STALE_BASE_VALUE": 0.0,
+    "BROKEN_STRUCTURE": 0.0,
+    "ALL": 27.9
+   },
+   "only_corroboration": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 85.5,
+    "FABRICATED_QUOTE": 0.0,
+    "NO_EVIDENCE": 0.0,
+    "FALSE_ABSENCE": 0.0,
+    "PHANTOM_CLAUSE": 99.7,
+    "STALE_BASE_VALUE": 32.1,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 52.8
+   },
+   "only_invariants": {
+    "WRONG_VALUE": 11.5,
+    "WRONG_CLAUSE": 11.6,
+    "FABRICATED_QUOTE": 13.6,
+    "NO_EVIDENCE": 11.3,
+    "FALSE_ABSENCE": 23.3,
+    "PHANTOM_CLAUSE": 41.0,
+    "STALE_BASE_VALUE": 0.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 20.0
+   },
+   "only_cues": {
+    "WRONG_VALUE": 15.7,
+    "WRONG_CLAUSE": 15.7,
+    "FABRICATED_QUOTE": 0.0,
+    "NO_EVIDENCE": 15.5,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 22.4,
+    "STALE_BASE_VALUE": 0.0,
+    "BROKEN_STRUCTURE": 0.0,
+    "ALL": 24.3
+   },
+   "only_supersession": {
+    "WRONG_VALUE": 0.0,
+    "WRONG_CLAUSE": 5.6,
+    "FABRICATED_QUOTE": 0.0,
+    "NO_EVIDENCE": 0.0,
+    "FALSE_ABSENCE": 0.0,
+    "PHANTOM_CLAUSE": 0.0,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 0.0,
+    "ALL": 1.8
+   },
+   "only_confidence": {
+    "WRONG_VALUE": 0.0,
+    "WRONG_CLAUSE": 0.0,
+    "FABRICATED_QUOTE": 0.0,
+    "NO_EVIDENCE": 0.0,
+    "FALSE_ABSENCE": 0.0,
+    "PHANTOM_CLAUSE": 0.0,
+    "STALE_BASE_VALUE": 0.0,
+    "BROKEN_STRUCTURE": 0.0,
+    "ALL": 0.0
+   },
+   "without_grounding": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 100.0,
+    "FABRICATED_QUOTE": 13.6,
+    "NO_EVIDENCE": 22.2,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 100.0,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 74.9
+   },
+   "without_corroboration": {
+    "WRONG_VALUE": 22.5,
+    "WRONG_CLAUSE": 27.3,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 100.0,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 42.8,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 63.4
+   },
+   "without_invariants": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 99.9,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 100.0,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 99.7,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 100.0
+   },
+   "without_cues": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 89.8,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 89.0,
+    "FALSE_ABSENCE": 23.3,
+    "PHANTOM_CLAUSE": 100.0,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 86.0
+   },
+   "without_supersession": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 100.0,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 100.0,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 100.0,
+    "STALE_BASE_VALUE": 32.1,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 99.6
+   },
+   "without_confidence": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 100.0,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 100.0,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 100.0,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 100.0
+   },
+   "without_canary": {
+    "WRONG_VALUE": 100.0,
+    "WRONG_CLAUSE": 100.0,
+    "FABRICATED_QUOTE": 100.0,
+    "NO_EVIDENCE": 100.0,
+    "FALSE_ABSENCE": 100.0,
+    "PHANTOM_CLAUSE": 100.0,
+    "STALE_BASE_VALUE": 100.0,
+    "BROKEN_STRUCTURE": 100.0,
+    "ALL": 100.0
+   }
+  },
+  "escapes": 0,
+  "escape_examples": []
+ },
+ "entity_resolution": {
+  "resolver": {
+   "precision": 1.0,
+   "recall": 1.0,
+   "f1": 1.0,
+   "false_merges": 0,
+   "missed_merges": 0
+  },
+  "normalised_exact_match": {
+   "precision": 1.0,
+   "recall": 0.857,
+   "f1": 0.923,
+   "false_merges": 0,
+   "missed_merges": 19
+  }
+ },
+ "e2e_seen_styles": {
+  "seeds": [
+   2001,
+   2002,
+   2003
+  ],
+  "gold": {
+   "npv": 332753027.3120649,
+   "run_rate": 249155797.74796075,
+   "contracts": 246
+  },
+  "rates": {
+   "0.0": {
+    "trust_all": {
+     "realized_pct_of_gold_npv": 96.4,
+     "claimed_pct_of_gold_npv": 96.4,
+     "invalid_actions": 0,
+     "actions": 79,
+     "wrong_critical_fields_in_plan": 1,
+     "critical_fields_in_plan": 2928,
+     "contracts_in_plan_pct": 99.2,
+     "fields_flagged_pct": 0.0,
+     "docs_flagged_pct": 0.0
+    },
+    "gate_quarantine": {
+     "realized_pct_of_gold_npv": 90.0,
+     "claimed_pct_of_gold_npv": 90.0,
+     "invalid_actions": 0,
+     "actions": 78,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2856,
+     "contracts_in_plan_pct": 96.7,
+     "fields_flagged_pct": 0.3,
+     "docs_flagged_pct": 3.3
+    },
+    "gate_review": {
+     "realized_pct_of_gold_npv": 100.0,
+     "claimed_pct_of_gold_npv": 100.0,
+     "invalid_actions": 0,
+     "actions": 81,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2952,
+     "contracts_in_plan_pct": 100.0,
+     "fields_flagged_pct": 0.3,
+     "docs_flagged_pct": 3.3
+    }
+   },
+   "0.02": {
+    "trust_all": {
+     "realized_pct_of_gold_npv": 73.6,
+     "claimed_pct_of_gold_npv": 121.8,
+     "invalid_actions": 2,
+     "actions": 77,
+     "wrong_critical_fields_in_plan": 58,
+     "critical_fields_in_plan": 2928,
+     "contracts_in_plan_pct": 99.2,
+     "fields_flagged_pct": 0.0,
+     "docs_flagged_pct": 0.0
+    },
+    "gate_quarantine": {
+     "realized_pct_of_gold_npv": 48.8,
+     "claimed_pct_of_gold_npv": 48.8,
+     "invalid_actions": 0,
+     "actions": 60,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2244,
+     "contracts_in_plan_pct": 76.0,
+     "fields_flagged_pct": 2.5,
+     "docs_flagged_pct": 24.0
+    },
+    "gate_review": {
+     "realized_pct_of_gold_npv": 100.0,
+     "claimed_pct_of_gold_npv": 100.0,
+     "invalid_actions": 0,
+     "actions": 81,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2952,
+     "contracts_in_plan_pct": 100.0,
+     "fields_flagged_pct": 2.5,
+     "docs_flagged_pct": 24.0
+    }
+   },
+   "0.05": {
+    "trust_all": {
+     "realized_pct_of_gold_npv": 66.6,
+     "claimed_pct_of_gold_npv": 241.2,
+     "invalid_actions": 6,
+     "actions": 78,
+     "wrong_critical_fields_in_plan": 133,
+     "critical_fields_in_plan": 2928,
+     "contracts_in_plan_pct": 99.2,
+     "fields_flagged_pct": 0.0,
+     "docs_flagged_pct": 0.0
+    },
+    "gate_quarantine": {
+     "realized_pct_of_gold_npv": 31.9,
+     "claimed_pct_of_gold_npv": 31.9,
+     "invalid_actions": 0,
+     "actions": 39,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 1572,
+     "contracts_in_plan_pct": 53.3,
+     "fields_flagged_pct": 5.5,
+     "docs_flagged_pct": 46.7
+    },
+    "gate_review": {
+     "realized_pct_of_gold_npv": 100.0,
+     "claimed_pct_of_gold_npv": 100.0,
+     "invalid_actions": 0,
+     "actions": 81,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2952,
+     "contracts_in_plan_pct": 100.0,
+     "fields_flagged_pct": 5.5,
+     "docs_flagged_pct": 46.7
+    }
+   },
+   "0.1": {
+    "trust_all": {
+     "realized_pct_of_gold_npv": 55.4,
+     "claimed_pct_of_gold_npv": 350.5,
+     "invalid_actions": 11,
+     "actions": 77,
+     "wrong_critical_fields_in_plan": 268,
+     "critical_fields_in_plan": 2928,
+     "contracts_in_plan_pct": 99.2,
+     "fields_flagged_pct": 0.0,
+     "docs_flagged_pct": 0.0
+    },
+    "gate_quarantine": {
+     "realized_pct_of_gold_npv": 10.3,
+     "claimed_pct_of_gold_npv": 10.3,
+     "invalid_actions": 0,
+     "actions": 19,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 960,
+     "contracts_in_plan_pct": 32.5,
+     "fields_flagged_pct": 10.4,
+     "docs_flagged_pct": 67.5
+    },
+    "gate_review": {
+     "realized_pct_of_gold_npv": 100.0,
+     "claimed_pct_of_gold_npv": 100.0,
+     "invalid_actions": 0,
+     "actions": 81,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2952,
+     "contracts_in_plan_pct": 100.0,
+     "fields_flagged_pct": 10.4,
+     "docs_flagged_pct": 67.5
+    }
+   }
+  }
+ },
+ "e2e_with_held_out_style": {
+  "seeds": [
+   2001,
+   2002,
+   2003
+  ],
+  "gold": {
+   "npv": 332753027.3120649,
+   "run_rate": 249155797.74796075,
+   "contracts": 246
+  },
+  "rates": {
+   "0.0": {
+    "trust_all": {
+     "realized_pct_of_gold_npv": 65.6,
+     "claimed_pct_of_gold_npv": 65.6,
+     "invalid_actions": 0,
+     "actions": 64,
+     "wrong_critical_fields_in_plan": 3,
+     "critical_fields_in_plan": 2280,
+     "contracts_in_plan_pct": 77.2,
+     "fields_flagged_pct": 0.0,
+     "docs_flagged_pct": 0.0
+    },
+    "gate_quarantine": {
+     "realized_pct_of_gold_npv": 59.6,
+     "claimed_pct_of_gold_npv": 59.6,
+     "invalid_actions": 0,
+     "actions": 60,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2172,
+     "contracts_in_plan_pct": 73.6,
+     "fields_flagged_pct": 22.3,
+     "docs_flagged_pct": 26.4
+    },
+    "gate_review": {
+     "realized_pct_of_gold_npv": 100.0,
+     "claimed_pct_of_gold_npv": 100.0,
+     "invalid_actions": 0,
+     "actions": 81,
+     "wrong_critical_fields_in_plan": 0,
+     "critical_fields_in_plan": 2952,
+     "contracts_in_plan_pct": 100.0,
+     "fields_flagged_pct": 22.3,
+     "docs_flagged_pct": 26.4
+    }
+   }
+  }
+ },
+ "elapsed_s": 160.2
+}

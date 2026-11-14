@@ -1,0 +1,211 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Quillon IT Services Limited",
+  "service_category": "it_managed_services",
+  "effective_date": "2023-05-05",
+  "initial_term_months": 60,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": 17040000.0,
+  "pricing": {
+   "unit": "ticket",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 29.91
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 28.64
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 26.51
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    158
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    158
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    158
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    158
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    158
+   ]
+  ],
+  "initial_term_months": [
+   [
+    160,
+    227
+   ],
+   [
+    1086,
+    1152
+   ]
+  ],
+  "auto_renew": [
+   [
+    160,
+    227
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    160,
+    227
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    160,
+    227
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    229,
+    323
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    229,
+    323
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    229,
+    323
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    325,
+    425
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    325,
+    425
+   ]
+  ],
+  "pricing": [
+   [
+    427,
+    648
+   ],
+   [
+    1167,
+    1469
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    650,
+    775
+   ]
+  ],
+  "change_of_control": [
+   [
+    650,
+    775
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    650,
+    775
+   ]
+  ],
+  "mfn": [
+   [
+    650,
+    775
+   ]
+  ]
+ },
+ "vendor_id": "V-it_managed_services-2",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Quillon IT Services Limited",
+  "service_category": "it_managed_services",
+  "effective_date": "2023-05-05",
+  "initial_term_months": 48,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": 17040000.0,
+  "pricing": {
+   "unit": "ticket",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 31.85
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 30.49
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 28.22
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

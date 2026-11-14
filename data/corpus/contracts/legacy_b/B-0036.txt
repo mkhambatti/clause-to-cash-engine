@@ -1,0 +1,41 @@
+ORDER FORM
+
+Customer: Halyard Broadcasting Group, Inc.
+Vendor: MARLOW PROTECTIVE SERVICES, INC.
+Effective Date: 2024-03-29
+Services: Security Guard Services
+Governing Law: Delaware
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 6 months
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $2,370,000
+Annual Price Increase: None
+Payment Terms: Net 60
+
+PRICING
+Tier Mode: Graduated
+| Tier | From (guard-hour) | To (guard-hour) | Price per guard-hour |
+|------|------|------|------|
+| 1 | 0 | 100,000 | $38.44 |
+| 2 | 100,000 | 310,000 | $36.07 |
+| 3 | 310,000 | and above | $34.36 |
+
+OTHER TERMS
+Assignment / Change of Control: Consent required
+Exclusive Requirements: Yes
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

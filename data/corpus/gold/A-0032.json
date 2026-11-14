@@ -1,0 +1,201 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Solstice Workplace Corp.",
+  "service_category": "endpoint_software",
+  "effective_date": "2025-11-10",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 8240000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 290000.0,
+     "unit_price": 28.52
+    },
+    {
+     "lower": 290000.0,
+     "upper": 880000.0,
+     "unit_price": 26.58
+    },
+    {
+     "lower": 880000.0,
+     "upper": null,
+     "unit_price": 25.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    250
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    250
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    250
+   ]
+  ],
+  "service_category": [
+   [
+    252,
+    393
+   ]
+  ],
+  "initial_term_months": [
+   [
+    395,
+    534
+   ]
+  ],
+  "auto_renew": [
+   [
+    536,
+    810
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    536,
+    810
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    536,
+    810
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    812,
+    904
+   ]
+  ],
+  "pricing": [
+   [
+    906,
+    968
+   ],
+   [
+    2843,
+    3210
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    970,
+    1019
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1021,
+    1231
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1327,
+    1501
+   ]
+  ],
+  "change_of_control": [
+   [
+    1503,
+    1711
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1713,
+    1835
+   ]
+  ],
+  "mfn": [
+   [
+    1837,
+    1940
+   ]
+  ],
+  "governing_law": [
+   [
+    2713,
+    2841
+   ]
+  ]
+ },
+ "vendor_id": "V-endpoint_software-1",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Solstice Workplace Corp.",
+  "service_category": "endpoint_software",
+  "effective_date": "2025-11-10",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 8240000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 290000.0,
+     "unit_price": 28.52
+    },
+    {
+     "lower": 290000.0,
+     "upper": 880000.0,
+     "unit_price": 26.58
+    },
+    {
+     "lower": 880000.0,
+     "upper": null,
+     "unit_price": 25.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

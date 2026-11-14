@@ -1,0 +1,195 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Sablewood Cloudworks, LLC",
+  "service_category": "cloud_compute",
+  "effective_date": "2025-10-13",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "vCPU-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 830000000.0,
+     "unit_price": 0.0435
+    },
+    {
+     "lower": 830000000.0,
+     "upper": 2500000000.0,
+     "unit_price": 0.0403
+    },
+    {
+     "lower": 2500000000.0,
+     "upper": null,
+     "unit_price": 0.0375
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    256
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    256
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    256
+   ]
+  ],
+  "service_category": [
+   [
+    258,
+    380
+   ]
+  ],
+  "initial_term_months": [
+   [
+    382,
+    520
+   ]
+  ],
+  "auto_renew": [
+   [
+    522,
+    809
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    522,
+    809
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    522,
+    809
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    811,
+    903
+   ]
+  ],
+  "pricing": [
+   [
+    905,
+    967
+   ],
+   [
+    2655,
+    3022
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    969,
+    1073
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1075,
+    1160
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1256,
+    1430
+   ]
+  ],
+  "change_of_control": [
+   [
+    1432,
+    1647
+   ]
+  ],
+  "mfn": [
+   [
+    1649,
+    1752
+   ]
+  ],
+  "governing_law": [
+   [
+    2525,
+    2653
+   ]
+  ]
+ },
+ "vendor_id": "V-cloud_compute-0",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Sablewood Cloudworks, LLC",
+  "service_category": "cloud_compute",
+  "effective_date": "2025-10-13",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "vCPU-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 830000000.0,
+     "unit_price": 0.0435
+    },
+    {
+     "lower": 830000000.0,
+     "upper": 2500000000.0,
+     "unit_price": 0.0403
+    },
+    {
+     "lower": 2500000000.0,
+     "upper": null,
+     "unit_price": 0.0375
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ }
+}

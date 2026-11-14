@@ -1,0 +1,195 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Corvid Satcom Corporation",
+  "service_category": "satellite_distribution",
+  "effective_date": "2023-06-10",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "transponder-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 260.0,
+     "unit_price": 44328.0
+    },
+    {
+     "lower": 260.0,
+     "upper": 780.0,
+     "unit_price": 42624.0
+    },
+    {
+     "lower": 780.0,
+     "upper": null,
+     "unit_price": 39673.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": true,
+  "mfn": true,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    254
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    254
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    254
+   ]
+  ],
+  "service_category": [
+   [
+    256,
+    396
+   ]
+  ],
+  "initial_term_months": [
+   [
+    398,
+    537
+   ]
+  ],
+  "auto_renew": [
+   [
+    539,
+    813
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    539,
+    813
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    539,
+    813
+   ]
+  ],
+  "pricing": [
+   [
+    815,
+    877
+   ],
+   [
+    2740,
+    3143
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    879,
+    983
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    985,
+    1070
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1165,
+    1318
+   ]
+  ],
+  "change_of_control": [
+   [
+    1320,
+    1528
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1530,
+    1652
+   ]
+  ],
+  "mfn": [
+   [
+    1654,
+    1837
+   ]
+  ],
+  "governing_law": [
+   [
+    2610,
+    2738
+   ]
+  ]
+ },
+ "vendor_id": "V-satellite_distribution-0",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Corvid Satcom Corporation",
+  "service_category": "satellite_distribution",
+  "effective_date": "2023-06-10",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "transponder-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 260.0,
+     "unit_price": 44328.0
+    },
+    {
+     "lower": 260.0,
+     "upper": 780.0,
+     "unit_price": 42624.0
+    },
+    {
+     "lower": 780.0,
+     "upper": null,
+     "unit_price": 39673.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": true,
+  "mfn": true,
+  "governing_law": "New York"
+ }
+}

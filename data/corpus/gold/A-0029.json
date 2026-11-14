@@ -1,0 +1,189 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Dunmore Relationship Software, Inc.",
+  "service_category": "crm_saas",
+  "effective_date": "2024-10-13",
+  "initial_term_months": 60,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 116.74
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 109.1
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 100.84
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    258
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    258
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    258
+   ]
+  ],
+  "service_category": [
+   [
+    260,
+    405
+   ]
+  ],
+  "initial_term_months": [
+   [
+    407,
+    540
+   ]
+  ],
+  "auto_renew": [
+   [
+    542,
+    664
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    542,
+    664
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    542,
+    664
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    666,
+    758
+   ]
+  ],
+  "pricing": [
+   [
+    760,
+    822
+   ],
+   [
+    2389,
+    2755
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    824,
+    873
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    875,
+    960
+   ]
+  ],
+  "change_of_control": [
+   [
+    1060,
+    1268
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1270,
+    1381
+   ]
+  ],
+  "mfn": [
+   [
+    1383,
+    1486
+   ]
+  ],
+  "governing_law": [
+   [
+    2259,
+    2387
+   ]
+  ]
+ },
+ "vendor_id": "V-crm_saas-1",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Dunmore Relationship Software, Inc.",
+  "service_category": "crm_saas",
+  "effective_date": "2024-10-13",
+  "initial_term_months": 60,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 116.74
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 109.1
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 100.84
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

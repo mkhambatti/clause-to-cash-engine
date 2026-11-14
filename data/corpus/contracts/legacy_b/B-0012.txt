@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Halyard Digital Ventures LLC
+Vendor: NORTHGATE PAYMENTS LLC
+Effective Date: 2024-12-13
+Services: Payments
+Governing Law: California
+
+TERM & RENEWAL
+Term: 24 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 30 days
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $2,960,000
+Annual Price Increase: None
+Payment Terms: Net 60
+
+PRICING
+Tier Mode: Graduated
+| Tier | From (transaction) | To (transaction) | Price per transaction |
+|------|------|------|------|
+| 1 | 0 | 12,000,000 | $0.2909 |
+| 2 | 12,000,000 | 37,000,000 | $0.2764 |
+| 3 | 37,000,000 | and above | $0.2605 |
+
+OTHER TERMS
+Affiliate Purchasing: Not permitted
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

@@ -1,0 +1,47 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is dated as of June 10, 2023 (the "Effective Date") by and between Meridian Pictures Corporation ("Customer") and Corvid Satcom Corporation, a California corporation ("Vendor").
+
+1. Services. Vendor shall provide satellite uplink and distribution services (the "Services") to Customer in accordance with this Agreement.
+
+2.1 Term. This Agreement commences on the Effective Date and continues for an initial term of twenty-four (24) months (the "Initial Term").
+
+2.2 Renewal. Upon expiration of the Initial Term, this Agreement will automatically renew for successive renewal terms of twelve (12) months each, unless either party provides written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.
+
+3.1 Fees. Customer shall pay the fees set forth in Schedule A.
+
+3.2 Fee Adjustments. Fees will increase by three percent (3%) on each anniversary of the Effective Date.
+
+3.3 Minimum Commitment. There is no minimum purchase commitment under this Agreement.
+
+3.4 Payment Terms. Customer will pay undisputed invoices within sixty (60) days of receipt.
+
+4.1 Affiliates. The Services are for Customer's internal use only, and no Affiliate or third party may use or purchase the Services under this Agreement.
+
+5.1 Assignment. Neither party may assign this Agreement, whether by operation of law, change of control, or otherwise, without the other party's prior written consent, which will not be unreasonably withheld.
+
+6.1 Exclusivity. During the Term, Customer will purchase all of its requirements for the Services exclusively from Vendor.
+
+6.2 Pricing Protection. Vendor represents that the unit prices in Schedule A are no less favorable than those offered to any similarly situated customer purchasing comparable volumes.
+
+7. Confidentiality. Each party's confidentiality obligations survive for three (3) years after termination of this Agreement.
+
+7. Indemnification. Vendor will indemnify Customer, its Affiliates, and their respective officers and directors against third-party claims arising from Vendor's breach of this Agreement.
+
+7. Limitation of Liability. Each party's total liability will not exceed the fees paid in the twelve (12) months preceding the claim. This Section states each party's exclusive remedy for such claims.
+
+7. Service Levels. Vendor will maintain 99.9% availability and will issue service credits of ten percent (10%) of the monthly fees for any month in which availability falls below 99.5%.
+
+7. Notices. Notices are deemed given five (5) days after mailing.
+
+8. Governing Law. This Agreement is governed by the laws of the State of New York, without regard to conflict of law principles.
+
+SCHEDULE A - PRICING
+Unit: transponder-month
+Tier 1: 0 to 260 transponder-month per year at $44,328 per transponder-month
+Tier 2: 260 to 780 transponder-month per year at $42,624 per transponder-month
+Tier 3: Above 780 transponder-month per year at $39,673 per transponder-month
+Tiered pricing applies on an all-units basis: the rate for the tier in which total Annual Volume falls applies to all units.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+Customer: ____________________  Vendor: ____________________

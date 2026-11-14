@@ -1,0 +1,40 @@
+ORDER FORM
+
+Customer: Halyard Digital Ventures LLC
+Vendor: SOLSTICE ENCODE CORPORATION
+Effective Date: 2026-05-16
+Services: Transcoding
+Governing Law: California
+
+TERM & RENEWAL
+Term: 12 months from Effective Date
+Auto-Renewal: No
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: None
+Annual Price Increase: 3%
+Payment Terms: Net 45
+
+PRICING
+Tier Mode: Graduated
+| Tier | From (output-hour) | To (output-hour) | Price per output-hour |
+|------|------|------|------|
+| 1 | 0 | 6,500,000 | $0.8502 |
+| 2 | 6,500,000 | 19,000,000 | $0.8048 |
+| 3 | 19,000,000 | and above | $0.7506 |
+
+OTHER TERMS
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: Yes
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

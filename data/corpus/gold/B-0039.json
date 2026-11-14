@@ -1,0 +1,197 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Juniper Legal LLC",
+  "service_category": "ediscovery_hosting",
+  "effective_date": "2024-01-11",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "GB-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 11.39
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 10.91
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 10.15
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    287
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    287
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    287
+   ]
+  ],
+  "service_category": [
+   [
+    289,
+    489
+   ]
+  ],
+  "initial_term_months": [
+   [
+    491,
+    702
+   ],
+   [
+    3616,
+    3831
+   ]
+  ],
+  "auto_renew": [
+   [
+    704,
+    1031
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    704,
+    1031
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    704,
+    1031
+   ]
+  ],
+  "pricing": [
+   [
+    1033,
+    1102
+   ],
+   [
+    2936,
+    3451
+   ],
+   [
+    3880,
+    4582
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1127,
+    1207
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1209,
+    1302
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1403,
+    1526
+   ]
+  ],
+  "change_of_control": [
+   [
+    1528,
+    1777
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1779,
+    1885
+   ]
+  ],
+  "governing_law": [
+   [
+    2735,
+    2911
+   ]
+  ]
+ },
+ "vendor_id": "V-ediscovery_hosting-1",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Juniper Legal LLC",
+  "service_category": "ediscovery_hosting",
+  "effective_date": "2024-01-11",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "GB-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 12.96
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 12.42
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 11.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

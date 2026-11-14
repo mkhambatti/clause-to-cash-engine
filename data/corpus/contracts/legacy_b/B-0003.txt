@@ -1,0 +1,47 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is dated as of October 13, 2025 (the "Effective Date") by and between Halyard Networks Corporation ("Customer") and Sablewood Cloudworks, LLC, a California corporation ("Vendor").
+
+1. Services. Vendor shall provide cloud computing services (the "Services") to Customer in accordance with this Agreement.
+
+2.1 Term. This Agreement commences on the Effective Date and continues for an initial term of thirty-six (36) months (the "Initial Term").
+
+2.2 Renewal. Upon expiration of the Initial Term, this Agreement will automatically renew for successive renewal terms of twelve (12) months each, unless either party provides written notice of non-renewal at least one hundred twenty (120) days prior to the end of the then-current term.
+
+2.3 Termination for Convenience. Neither party may terminate this Agreement for convenience.
+
+3.1 Fees. Customer shall pay the fees set forth in Schedule A.
+
+3.2 Fee Adjustments. Fees will increase by 3.5 percent (3.5%) on each anniversary of the Effective Date.
+
+3.3 Minimum Commitment. There is no minimum purchase commitment under this Agreement.
+
+3.4 Payment Terms. Customer will pay undisputed invoices within thirty (30) days of receipt.
+
+4.1 Affiliates. Customer's Affiliates may purchase Services under this Agreement at the rates set forth in Schedule A, and all such purchases will count toward Annual Volume.
+
+5.1 Assignment. Either party may assign this Agreement without the other party's consent to an Affiliate or to a successor in connection with a merger, acquisition, or sale of all or substantially all of its assets.
+
+6.2 Pricing Protection. Vendor makes no representation regarding prices charged to its other customers.
+
+7. Confidentiality. Each party's confidentiality obligations survive for three (3) years after termination of this Agreement.
+
+7. Indemnification. Vendor will indemnify Customer, its Affiliates, and their respective officers and directors against third-party claims arising from Vendor's breach of this Agreement.
+
+7. Limitation of Liability. Each party's total liability will not exceed the fees paid in the twelve (12) months preceding the claim. This Section states each party's exclusive remedy for such claims.
+
+7. Service Levels. Vendor will maintain 99.9% availability and will issue service credits of ten percent (10%) of the monthly fees for any month in which availability falls below 99.5%.
+
+7. Notices. Notices are deemed given five (5) days after mailing.
+
+8. Governing Law. This Agreement is governed by the laws of the State of New York, without regard to conflict of law principles.
+
+SCHEDULE A - PRICING
+Unit: vCPU-hour
+Tier 1: 0 to 830,000,000 vCPU-hour per year at $0.0435 per vCPU-hour
+Tier 2: 830,000,000 to 2,500,000,000 vCPU-hour per year at $0.0403 per vCPU-hour
+Tier 3: Above 2,500,000,000 vCPU-hour per year at $0.0375 per vCPU-hour
+Tiered pricing applies on a graduated basis: each unit is charged at the rate of the tier in which it falls.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+Customer: ____________________  Vendor: ____________________

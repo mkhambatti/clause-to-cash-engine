@@ -1,0 +1,183 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Westmere Workplace Software Corp.",
+  "service_category": "endpoint_software",
+  "effective_date": "2024-05-30",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 5110000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 290000.0,
+     "unit_price": 29.12
+    },
+    {
+     "lower": 290000.0,
+     "upper": 880000.0,
+     "unit_price": 27.37
+    },
+    {
+     "lower": 880000.0,
+     "upper": null,
+     "unit_price": 25.92
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    300
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    300
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    300
+   ]
+  ],
+  "service_category": [
+   [
+    302,
+    508
+   ]
+  ],
+  "initial_term_months": [
+   [
+    510,
+    721
+   ]
+  ],
+  "auto_renew": [
+   [
+    723,
+    1034
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    723,
+    1034
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    723,
+    1034
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    1036,
+    1192
+   ]
+  ],
+  "pricing": [
+   [
+    1217,
+    1286
+   ],
+   [
+    3091,
+    3638
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1288,
+    1450
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1551,
+    1808
+   ]
+  ],
+  "change_of_control": [
+   [
+    1810,
+    2063
+   ]
+  ],
+  "governing_law": [
+   [
+    2913,
+    3089
+   ]
+  ]
+ },
+ "vendor_id": "V-endpoint_software-2",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Westmere Workplace Software Corp.",
+  "service_category": "endpoint_software",
+  "effective_date": "2024-05-30",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 5110000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 290000.0,
+     "unit_price": 29.12
+    },
+    {
+     "lower": 290000.0,
+     "upper": 880000.0,
+     "unit_price": 27.37
+    },
+    {
+     "lower": 880000.0,
+     "upper": null,
+     "unit_price": 25.92
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

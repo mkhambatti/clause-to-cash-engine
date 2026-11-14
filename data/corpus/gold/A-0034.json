@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Northgate Communications LLC",
+  "service_category": "ucaas_telephony",
+  "effective_date": "2025-01-31",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 5640000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000.0,
+     "unit_price": 17.55
+    },
+    {
+     "lower": 200000.0,
+     "upper": 600000.0,
+     "unit_price": 16.89
+    },
+    {
+     "lower": 600000.0,
+     "upper": null,
+     "unit_price": 16.04
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    174
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    174
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    174
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    174
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    174
+   ]
+  ],
+  "initial_term_months": [
+   [
+    176,
+    285
+   ]
+  ],
+  "auto_renew": [
+   [
+    176,
+    285
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    176,
+    285
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    176,
+    285
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    287,
+    381
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    287,
+    381
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    287,
+    381
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    383,
+    482
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    383,
+    482
+   ]
+  ],
+  "pricing": [
+   [
+    484,
+    713
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    715,
+    859
+   ]
+  ],
+  "change_of_control": [
+   [
+    715,
+    859
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    715,
+    859
+   ]
+  ],
+  "mfn": [
+   [
+    715,
+    859
+   ]
+  ]
+ },
+ "vendor_id": "V-ucaas_telephony-2",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Northgate Communications LLC",
+  "service_category": "ucaas_telephony",
+  "effective_date": "2025-01-31",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 5640000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000.0,
+     "unit_price": 17.55
+    },
+    {
+     "lower": 200000.0,
+     "upper": 600000.0,
+     "unit_price": 16.89
+    },
+    {
+     "lower": 600000.0,
+     "upper": null,
+     "unit_price": 16.04
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ }
+}

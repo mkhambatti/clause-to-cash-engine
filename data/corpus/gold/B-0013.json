@@ -1,0 +1,197 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Northgate Payments Limited",
+  "service_category": "payments_processing",
+  "effective_date": "2025-11-26",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 12000000.0,
+     "unit_price": 0.2909
+    },
+    {
+     "lower": 12000000.0,
+     "upper": 37000000.0,
+     "unit_price": 0.2764
+    },
+    {
+     "lower": 37000000.0,
+     "upper": null,
+     "unit_price": 0.2605
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    234
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    234
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    234
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    234
+   ]
+  ],
+  "initial_term_months": [
+   [
+    236,
+    298
+   ]
+  ],
+  "auto_renew": [
+   [
+    300,
+    434
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    300,
+    434
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    300,
+    434
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    436,
+    484
+   ]
+  ],
+  "pricing": [
+   [
+    486,
+    687
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    689,
+    713
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    715,
+    763
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    806,
+    885
+   ]
+  ],
+  "change_of_control": [
+   [
+    887,
+    978
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    980,
+    1029
+   ]
+  ],
+  "mfn": [
+   [
+    1031,
+    1100
+   ]
+  ],
+  "governing_law": [
+   [
+    1438,
+    1468
+   ]
+  ]
+ },
+ "vendor_id": "V-payments_processing-2",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Northgate Payments Limited",
+  "service_category": "payments_processing",
+  "effective_date": "2025-11-26",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 12000000.0,
+     "unit_price": 0.2909
+    },
+    {
+     "lower": 12000000.0,
+     "upper": 37000000.0,
+     "unit_price": 0.2764
+    },
+    {
+     "lower": 37000000.0,
+     "upper": null,
+     "unit_price": 0.2605
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.5,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "England and Wales"
+ }
+}

@@ -1,0 +1,33 @@
+Services Agreement
+
+This agreement is signed on 25th September 2025 between Arden Archive Systems Corp. ("we", "us") and Meridian Pictures Corporation ("the Customer"). The service, in plain words: somewhere to keep petabytes of masters and backups.
+
+The relationship runs for three years counting from signature.
+
+Unless one side tells the other at least six months before the anniversary that it wants out, the deal rolls over for another year.
+
+Pricing steps down as volume grows: the first 410 PB-month cost $21,952 each, the next 790 PB-month cost $21,007 each, and anything beyond 1,200 PB-month costs $19,992 each.
+
+The Customer is on the hook for at least US$5.94 million a year whether or not it uses that much.
+
+Prices go up 3% every year on the anniversary.
+
+Invoices are due 30 days after receipt.
+
+Sister companies of the Customer can only buy under this deal if we agree first.
+
+The contract cannot be transferred, including to an acquirer, unless the other side agrees.
+
+We make no promises about what other clients pay.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+California law governs.
+
+Signed by both sides.

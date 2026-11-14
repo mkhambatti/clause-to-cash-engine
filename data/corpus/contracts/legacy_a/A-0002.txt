@@ -1,0 +1,33 @@
+Services Agreement
+
+This agreement is signed on 24th July 2021 between Arden Archive Systems LLC ("we", "us") and Meridian Streaming LLC ("the Customer"). The service, in plain words: somewhere to keep petabytes of masters and backups.
+
+The relationship runs for two years counting from signature.
+
+Unless one side tells the other at least 90 days before the anniversary that it wants out, the deal rolls over for another year.
+
+Pricing steps down as volume grows: the first 410 PB-month cost $21,952 each, the next 790 PB-month cost $21,007 each, and anything beyond 1,200 PB-month costs $19,992 each.
+
+There is no spend floor.
+
+Prices are locked for the whole relationship.
+
+Invoices are due 45 days after receipt.
+
+Only the Customer itself may use this arrangement; its sister companies cannot.
+
+The contract cannot be transferred, including to an acquirer, unless the other side agrees.
+
+We promise the prices here are as good as any comparable client gets.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+California law governs.
+
+Signed by both sides.

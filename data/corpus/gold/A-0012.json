@@ -1,0 +1,197 @@
+{
+ "terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Ingram Messaging Corporation",
+  "service_category": "push_messaging",
+  "effective_date": "2023-09-17",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1150000.0,
+  "pricing": {
+   "unit": "million-messages",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 15000.0,
+     "unit_price": 100.51
+    },
+    {
+     "lower": 15000.0,
+     "upper": 46000.0,
+     "unit_price": 97.29
+    },
+    {
+     "lower": 46000.0,
+     "upper": null,
+     "unit_price": 94.2
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    240
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    240
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    240
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    240
+   ]
+  ],
+  "initial_term_months": [
+   [
+    242,
+    302
+   ]
+  ],
+  "auto_renew": [
+   [
+    304,
+    433
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    304,
+    433
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    304,
+    433
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    435,
+    483
+   ]
+  ],
+  "pricing": [
+   [
+    485,
+    687
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    689,
+    786
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    788,
+    833
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    876,
+    955
+   ]
+  ],
+  "change_of_control": [
+   [
+    957,
+    1012
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1014,
+    1063
+   ]
+  ],
+  "mfn": [
+   [
+    1065,
+    1134
+   ]
+  ],
+  "governing_law": [
+   [
+    1472,
+    1493
+   ]
+  ]
+ },
+ "vendor_id": "V-push_messaging-1",
+ "base_terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Ingram Messaging Corporation",
+  "service_category": "push_messaging",
+  "effective_date": "2023-09-17",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1150000.0,
+  "pricing": {
+   "unit": "million-messages",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 15000.0,
+     "unit_price": 100.51
+    },
+    {
+     "lower": 15000.0,
+     "upper": 46000.0,
+     "unit_price": 97.29
+    },
+    {
+     "lower": 46000.0,
+     "upper": null,
+     "unit_price": 94.2
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ }
+}

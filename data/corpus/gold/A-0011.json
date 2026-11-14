@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Ingram Messaging Corporation",
+  "service_category": "push_messaging",
+  "effective_date": "2020-07-06",
+  "initial_term_months": 30,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 25.0,
+  "min_annual_commit_usd": 1940000.0,
+  "pricing": {
+   "unit": "million-messages",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 15000.0,
+     "unit_price": 92.55
+    },
+    {
+     "lower": 15000.0,
+     "upper": 46000.0,
+     "unit_price": 89.59
+    },
+    {
+     "lower": 46000.0,
+     "upper": null,
+     "unit_price": 86.75
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    288
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    288
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    288
+   ]
+  ],
+  "service_category": [
+   [
+    290,
+    475
+   ]
+  ],
+  "initial_term_months": [
+   [
+    477,
+    686
+   ],
+   [
+    3946,
+    4166
+   ]
+  ],
+  "auto_renew": [
+   [
+    688,
+    1002
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    688,
+    1002
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    688,
+    1002
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    1004,
+    1350
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    1004,
+    1350
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    1004,
+    1350
+   ]
+  ],
+  "pricing": [
+   [
+    1375,
+    1444
+   ],
+   [
+    3214,
+    3781
+   ],
+   [
+    4215,
+    4970
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1446,
+    1608
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1610,
+    1797
+   ]
+  ],
+  "change_of_control": [
+   [
+    1893,
+    2046
+   ]
+  ],
+  "mfn": [
+   [
+    2048,
+    2161
+   ]
+  ],
+  "governing_law": [
+   [
+    3011,
+    3189
+   ]
+  ]
+ },
+ "vendor_id": "V-push_messaging-1",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Ingram Messaging Corporation",
+  "service_category": "push_messaging",
+  "effective_date": "2020-07-06",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 25.0,
+  "min_annual_commit_usd": 1940000.0,
+  "pricing": {
+   "unit": "million-messages",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 15000.0,
+     "unit_price": 100.51
+    },
+    {
+     "lower": 15000.0,
+     "upper": 46000.0,
+     "unit_price": 97.29
+    },
+    {
+     "lower": 46000.0,
+     "upper": null,
+     "unit_price": 94.2
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

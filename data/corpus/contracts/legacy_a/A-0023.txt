@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Studios, Inc.
+Vendor: SOLSTICE RENDER CLOUD INC.
+Effective Date: 2025-07-22
+Services: VFX Rendering
+Governing Law: England and Wales
+
+TERM & RENEWAL
+Term: 60 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 120 days
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $9,430,000
+Annual Price Increase: None
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (core-hour) | To (core-hour) | Price per core-hour |
+|------|------|------|------|
+| 1 | 0 | 200,000,000 | $0.0580 |
+| 2 | 200,000,000 | 590,000,000 | $0.0553 |
+| 3 | 590,000,000 | and above | $0.0536 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed with Vendor consent
+Assignment / Change of Control: Free assignment to successors
+Exclusive Requirements: Yes
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Kestrel Travel Systems, Inc.",
+  "service_category": "travel_expense",
+  "effective_date": "2025-05-07",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1290000.0,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 2.99
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 2.75
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 2.64
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    159
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    159
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    159
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    159
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    159
+   ]
+  ],
+  "initial_term_months": [
+   [
+    161,
+    269
+   ]
+  ],
+  "auto_renew": [
+   [
+    161,
+    269
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    161,
+    269
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    161,
+    269
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    271,
+    325
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    271,
+    325
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    271,
+    325
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    327,
+    424
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    327,
+    424
+   ]
+  ],
+  "pricing": [
+   [
+    426,
+    659
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    661,
+    799
+   ]
+  ],
+  "change_of_control": [
+   [
+    661,
+    799
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    661,
+    799
+   ]
+  ],
+  "mfn": [
+   [
+    661,
+    799
+   ]
+  ]
+ },
+ "vendor_id": "V-travel_expense-2",
+ "base_terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Kestrel Travel Systems, Inc.",
+  "service_category": "travel_expense",
+  "effective_date": "2025-05-07",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1290000.0,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 2.99
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 2.75
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 2.64
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ }
+}

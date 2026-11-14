@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>clause-to-cash: a guardrailed contract-reading pipeline</title>
+<meta name="description" content="Pulls the terms that move money out of vendor contracts, and refuses to act on any of them until deterministic code has checked the evidence. Runs offline on synthetic contracts; exposed to agents over MCP.">
+<meta property="og:title" content="clause-to-cash">
+<meta property="og:description" content="A model can read a contract. It shouldn't get to decide what the contract says.">
+<meta property="og:image" content="https://mkhambatti.github.io/clause-to-cash-engine/img/overview.png">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+:root{
+  color-scheme:light;
+  --bg:#f7f4ee; --surface:#fbf9f5; --surface-2:#efebe2; --line:#d8d2c4;
+  --ink:#1d1b17; --ink-2:#55514a; --ink-3:#7c776c; --link:#1f4e8c; --rust:#a8491a; --good:#2f6f4f;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root{
+  color-scheme:dark;
+  --bg:#171510; --surface:#1d1b15; --surface-2:#27241c; --line:#3b372d;
+  --ink:#ece7da; --ink-2:#c2bcab; --ink-3:#958f7f; --link:#8db8ee; --rust:#e08a55; --good:#6fbf93;}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.62 var(--serif)}
+a{color:var(--link);text-underline-offset:2px;text-decoration-thickness:1px}
+.wrap{max-width:44rem;margin:0 auto;padding:0 20px}
+.wide{max-width:60rem;margin:0 auto;padding:0 20px}
+header.top{border-bottom:1px solid var(--line)}
+header.top .wide{display:flex;justify-content:space-between;align-items:baseline;padding-top:16px;padding-bottom:12px;gap:16px;flex-wrap:wrap}
+.mark{font:600 19px var(--serif);color:var(--ink);text-decoration:none;letter-spacing:.1px}
+header.top nav{font:14px var(--sans);display:flex;gap:20px}
+header.top nav a{color:var(--ink-2);text-decoration:none;border-bottom:1px solid var(--line)}
+header.top nav a:hover{color:var(--ink);border-bottom-color:var(--ink)}
+.hero{padding-top:64px;padding-bottom:40px}
+@media(max-width:600px){.hero{padding-top:36px;padding-bottom:28px}.facts th{width:8rem}.cta a.primary{width:100%;text-align:center}}
+.eyebrow{font:13px var(--sans);color:var(--ink-3);margin:0 0 14px;letter-spacing:.02em}
+h1{font:600 clamp(32px,5.4vw,46px)/1.12 var(--serif);margin:0 0 22px;letter-spacing:-.01em}
+.lede{font-size:20px;line-height:1.55;color:var(--ink);margin:0 0 26px}
+.cta{display:flex;flex-wrap:wrap;gap:12px 22px;font:15px var(--sans);align-items:center}
+.cta a.primary{background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:2px;text-decoration:none}
+.cta a.primary:hover{opacity:.88}
+.cta span{color:var(--ink-3)}
+.shot{margin:8px 0 0;border:1px solid var(--line);background:var(--surface)}
+.shot img{display:block;width:100%;height:auto}
+.shot figcaption{font:13px/1.45 var(--sans);color:var(--ink-3);padding:8px 12px;border-top:1px solid var(--line)}
+section{padding:44px 0 6px}
+section>.wrap>h2, section>.wide>h2{font:600 26px/1.2 var(--serif);margin:0 0 14px;padding-top:18px;border-top:1px solid var(--ink)}
+section .wrap>h2{max-width:100%}
+p{margin:0 0 1.05em}
+.small{font:14px/1.5 var(--sans);color:var(--ink-2)}
+.nw{white-space:nowrap}
+.excerpt{font:13px/1.65 var(--mono);background:var(--surface);border:1px solid var(--line);padding:14px 16px;margin:18px 0 8px;white-space:pre-wrap;overflow-wrap:anywhere}
+.excerpt b{font-weight:600;background:#f2c14e55}
+.excerpt .cap{display:block;font:12px var(--sans);color:var(--ink-3);margin-bottom:6px}
+.cases{margin:26px 0 12px;border-top:1px solid var(--line)}
+.case{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:0 28px;padding:18px 0;border-bottom:1px solid var(--line)}
+@media(max-width:760px){.case{grid-template-columns:1fr;gap:12px}}
+.case h3{font:600 12px var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3);margin:0 0 6px}
+.case .num{font:600 12px var(--sans);color:var(--ink-3);grid-column:1/-1;margin-bottom:8px}
+.case code{font:13px var(--mono)}
+.case .said{font:14px/1.55 var(--sans)}
+.case .said .q{display:block;font:12.5px/1.55 var(--mono);color:var(--ink-2);margin-top:6px;overflow-wrap:anywhere}
+.case .ruled{font:14px/1.55 var(--sans);border-left:3px solid var(--rust);padding-left:12px}
+.case .ruled .code{font:600 12.5px var(--mono);color:var(--rust);display:block;margin-bottom:3px;overflow-wrap:anywhere}
+.facts{width:100%;border-collapse:collapse;font:14.5px/1.45 var(--sans);margin:18px 0 12px}
+.facts th{font-weight:400;color:var(--ink-2);text-align:left;padding:7px 18px 7px 0;border-bottom:1px solid var(--line);width:15rem;vertical-align:top}
+.facts td{padding:7px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.facts td b{font-weight:600}
+pre.code{font:13px/1.6 var(--mono);background:var(--surface);border:1px solid var(--line);padding:14px 16px;margin:18px 0 12px;overflow-x:auto;white-space:pre}
+pre.code .c{color:var(--ink-3)}
+figure.arch{margin:26px 0 8px}
+figure.arch svg{display:block;width:100%;height:auto}
+figure.arch .narrow{display:none;font:15px/1.5 var(--sans);padding-left:1.2em;margin:0}
+figure.arch .narrow li{margin-bottom:6px}
+figure.arch figcaption{font:13px/1.45 var(--sans);color:var(--ink-3);margin-top:8px}
+@media(max-width:700px){figure.arch svg{display:none} figure.arch .narrow{display:block}}
+svg .box{fill:var(--surface);stroke:var(--ink-3);stroke-width:1.2}
+svg .box.key{stroke:var(--ink);stroke-width:2}
+svg .h{font:600 15px var(--serif);fill:var(--ink)}
+svg .s{font:12px var(--sans);fill:var(--ink-2)}
+svg .lbl{font:11.5px var(--sans);fill:var(--ink-3)}
+svg .ar{stroke:var(--ink-2);stroke-width:1.4;fill:none}
+svg .ar.dash{stroke-dasharray:4 3}
+svg .tip{fill:var(--ink-2)}
+dl.checks{margin:16px 0 8px;font:15px/1.5 var(--sans)}
+dl.checks dt{font-weight:600;margin-top:14px}
+dl.checks dd{margin:2px 0 0;color:var(--ink-2)}
+dl.checks dt code, dl.checks dd code{font:13px var(--mono)}
+.scroll{overflow-x:auto;margin:18px 0 10px}
+table.res{border-collapse:collapse;width:100%;min-width:640px;font:14px/1.5 var(--sans)}
+table.res th{text-align:left;font-weight:600;color:var(--ink-2);font-size:12.5px;padding:7px 14px 7px 0;border-bottom:1px solid var(--ink-3)}
+table.res td{padding:10px 14px 10px 0;border-bottom:1px solid var(--line);vertical-align:top}
+table.res td.big{font:600 17px var(--serif);white-space:nowrap}
+table.res td.bad{color:var(--rust)}
+table.res td.ok{color:var(--good)}
+ul.plain{padding-left:1.15em;margin:0 0 1.05em}
+ul.plain li{margin-bottom:.5em}
+code{font:.86em var(--mono);background:var(--surface-2);padding:1px 4px;border-radius:2px}
+footer{margin-top:56px;border-top:1px solid var(--line);padding:22px 0 44px;font:13.5px/1.6 var(--sans);color:var(--ink-3)}
+footer a{color:var(--ink-2)}
+</style>
+</head>
+<body>
+
+<header class="top"><div class="wide">
+  <a class="mark" href="./">clause-to-cash</a>
+  <nav><a href="demo/">Demo</a><a href="https://github.com/mkhambatti/clause-to-cash-engine">Source</a><a href="https://github.com/mkhambatti/clause-to-cash-engine/blob/main/docs/EVALUATION.md">Evaluation</a><a href="https://github.com/mkhambatti/clause-to-cash-engine/blob/main/docs/PRODUCT_BRIEF.md">Product brief</a></nav>
+</div></header>
+
+<main>
+<div class="wrap hero">
+  <p class="eyebrow">A working prototype for merger integration, built around vendor contracts</p>
+  <h1>A model can read a contract. It shouldn&rsquo;t get to decide what the contract says.</h1>
+  <p class="lede">clause-to-cash pulls the terms that move money out of vendor agreements (renewal dates, notice periods, minimum commitments, price tiers) and won&rsquo;t act on a single one until deterministic code has checked the evidence for it. Verified terms feed the date math, the price math and a consolidation planner. Agents reach all of it through an MCP server that is built to say no.</p>
+  <div class="cta">
+    <a class="primary" href="demo/">Open the interactive demo</a>
+    <a href="https://github.com/mkhambatti/clause-to-cash-engine">Read the code</a>
+    <span>84 synthetic contracts &middot; runs offline &middot; no API key</span>
+  </div>
+</div>
+
+<div class="wide">
+  <figure class="shot">
+    <a href="demo/"><img src="img/overview.png" alt="The demo's overview tab: headline numbers, a run-rate chart comparing the plan with a friction-free ideal, and a table of upcoming notice deadlines." width="1360" height="1422"></a>
+    <figcaption>The demo, overview tab. Every contract, vendor and price in it is made up.</figcaption>
+  </figure>
+</div>
+
+<section><div class="wrap">
+  <h2>The hard part isn&rsquo;t extraction</h2>
+  <p>Contracts hold the facts that decide when merger savings can start. A non-renewal notice that goes out a day late commits a vendor line for another term. A purchasing clause decides whether two companies are allowed to pool volume at all. A change-of-control clause can hand a vendor a termination right on closing day.</p>
+  <p>Template OCR and RPA break on the first unfamiliar layout. A plain LLM prompt reads any layout and is wrong in the same calm voice, so a confident 36 where the contract says 24 gets scheduled, priced and acted on. The goal here is narrower than &ldquo;extract well&rdquo;: make every wrong answer visible before anything downstream touches it.</p>
+</div></section>
+
+<section><div class="wrap">
+  <h2>One contract, three confident mistakes</h2>
+  <p>Contract <span class="nw">A-0015</span> is a satellite-distribution agreement worth about $9.6M a year (synthetic, like all of them). These are the three clauses that matter here:</p>
+  <div class="excerpt"><span class="cap">A-0015, excerpts</span><b>2.1 Term.</b> This Agreement commences on the Effective Date and continues for an initial term of <b>twenty-four (24) months</b> (the "Initial Term").
+
+<b>2.2 Renewal.</b> Upon expiration of the Initial Term, this Agreement will automatically renew for successive renewal terms of twelve (12) months each, unless either party provides written notice of non-renewal at least <b>ninety (90) days</b> prior to the end of the then-current term.
+
+<b>5.1 Assignment.</b> Neither party may assign this Agreement, whether by operation of law, <b>change of control</b>, or otherwise, without the other party's prior written consent, which will not be unreasonably withheld.</div>
+  <p>Start from a correct reading of the document, then corrupt one field at a time the way a real extractor plausibly would. Each wrong answer below arrives with 90&ndash;95% self-reported confidence.</p>
+
+  <div class="cases">
+    <div class="case">
+      <div class="num">1 &middot; Invented evidence</div>
+      <div class="said"><h3>The extractor returned</h3><code>initial_term_months = 36</code>, confidence 0.95<span class="q">&ldquo;The initial term of this Agreement shall be 36 months from the Effective Date.&rdquo;</span></div>
+      <div class="ruled"><h3>The gate</h3><span class="code">UNGROUNDED</span>That sentence is not in the document. Section 2.1 says twenty-four months.</div>
+    </div>
+    <div class="case">
+      <div class="num">2 &middot; The silent miss</div>
+      <div class="said"><h3>The extractor returned</h3><code>change_of_control = "silent"</code>, no quote, confidence 0.90</div>
+      <div class="ruled"><h3>The gate</h3><span class="code">CUE_MISSED</span>&ldquo;Silent&rdquo; needs explicit negative evidence, or a document with no change-of-control language at all. Section 5.1 conditions assignment &ldquo;by &hellip; change of control&rdquo; on consent.</div>
+    </div>
+    <div class="case">
+      <div class="num">3 &middot; Right sentence, wrong unit</div>
+      <div class="said"><h3>The extractor returned</h3><code>nonrenewal_notice = 90 months</code>, confidence 0.95<span class="q">&ldquo;&hellip; written notice of non-renewal at least ninety (90) days prior to the end of the then-current term.&rdquo;</span></div>
+      <div class="ruled"><h3>The gate</h3><span class="code">CONTRADICTED &middot; INVARIANT:IMPLAUSIBLE_NOTICE &middot; INVARIANT:NOTICE_EXCEEDS_TERM</span>The quote is real but says days. A 90-month notice period is also longer than the 24-month term.</div>
+    </div>
+  </div>
+  <p class="small">A confidence threshold of 0.70 passes all three. Reproduce this exactly with <code>python scripts/worked_example.py</code>.</p>
+
+  <p>When the terms do verify, nothing downstream involves a model. Dates and dollars come from plain code:</p>
+  <table class="facts">
+    <tr><th>Current term ends</th><td>2027-06-09 <span class="small">(24 months from 2023-06-10, then renewals of 12)</span></td></tr>
+    <tr><th>Non-renewal notice due</th><td><b>2027-03-11</b> <span class="small">(90 days before the end, a Thursday)</span></td></tr>
+    <tr><th>Internal deadline</th><td>2027-02-25 <span class="small">(two-week safety buffer)</span></td></tr>
+    <tr><th>Committed if missed</th><td>about $9.58M a year at current volume, 3% escalator included</td></tr>
+  </table>
+</div></section>
+
+<section><div class="wide">
+  <h2>How it fits together</h2>
+  <figure class="arch">
+    <svg viewBox="0 36 880 262" role="img" aria-labelledby="arch-t arch-d">
+      <title id="arch-t">Pipeline</title>
+      <desc id="arch-d">Contracts go to an extractor that proposes values with quotes. A verification gate accepts or flags each field. Accepted fields feed deterministic engines for dates, pricing and planning. Flagged fields go to human review with the evidence highlighted, and resolved fields rejoin the engines. Results are exposed through a dashboard and an MCP server.</desc>
+      <defs><marker id="ah" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path class="tip" d="M0 0L8 4L0 8z"/></marker></defs>
+      <rect class="box" x="4" y="60" width="140" height="110" rx="2"/>
+      <text class="h" x="18" y="92">Contracts</text>
+      <text class="s" x="18" y="114">plain text,</text>
+      <text class="s" x="18" y="130">any drafting</text>
+      <text class="s" x="18" y="146">style</text>
+
+      <rect class="box" x="174" y="60" width="140" height="110" rx="2"/>
+      <text class="h" x="188" y="92">Extractor</text>
+      <text class="s" x="188" y="114">proposes a value,</text>
+      <text class="s" x="188" y="130">a verbatim quote</text>
+      <text class="s" x="188" y="146">and a confidence</text>
+
+      <rect class="box key" x="344" y="48" width="196" height="134" rx="2"/>
+      <text class="h" x="358" y="80">Verification gate</text>
+      <text class="s" x="358" y="102">grounding</text>
+      <text class="s" x="358" y="118">corroboration</text>
+      <text class="s" x="358" y="134">invariants &#183; cue guard</text>
+      <text class="s" x="358" y="150">supersession</text>
+      <text class="s" x="358" y="166">document canary</text>
+
+      <rect class="box" x="596" y="60" width="134" height="110" rx="2"/>
+      <text class="h" x="610" y="92">Engines</text>
+      <text class="s" x="610" y="114">notice dates</text>
+      <text class="s" x="610" y="130">tier pricing</text>
+      <text class="s" x="610" y="146">exact MILP plan</text>
+
+      <rect class="box" x="758" y="60" width="118" height="110" rx="2"/>
+      <text class="h" x="770" y="92">Surfaces</text>
+      <text class="s" x="770" y="114">dashboard</text>
+      <text class="s" x="770" y="130">MCP server that</text>
+      <text class="s" x="770" y="146">refuses on doubt</text>
+
+      <path class="ar" d="M144 115H172" marker-end="url(#ah)"/>
+      <path class="ar" d="M314 115H342" marker-end="url(#ah)"/>
+      <path class="ar" d="M540 115H594" marker-end="url(#ah)"/>
+      <path class="ar" d="M730 115H756" marker-end="url(#ah)"/>
+      <text class="lbl" x="568" y="105" text-anchor="middle">accepted</text>
+
+      <path class="ar" d="M442 182V222" marker-end="url(#ah)"/>
+      <text class="lbl" x="452" y="206">flagged fields</text>
+      <rect class="box" x="344" y="224" width="196" height="70" rx="2"/>
+      <text class="h" x="358" y="250">Human review</text>
+      <text class="s" x="358" y="268">evidence highlighted</text>
+      <text class="s" x="358" y="283">in the source</text>
+      <path class="ar dash" d="M540 259H663V172" marker-end="url(#ah)"/>
+      <text class="lbl" x="673" y="253">resolved</text>
+    </svg>
+    <ol class="narrow">
+      <li><b>Contracts</b> arrive as plain text in any drafting style.</li>
+      <li>The <b>extractor</b> proposes a value, a verbatim quote and a confidence for each field.</li>
+      <li>The <b>verification gate</b> accepts or flags every field.</li>
+      <li>Accepted fields feed the <b>engines</b>: notice dates, tier pricing and an exact MILP plan. Flagged fields go to <b>human review</b> with the evidence highlighted, then rejoin.</li>
+      <li><b>Surfaces</b>: a dashboard and an MCP server that refuses when its inputs are unverified.</li>
+    </ol>
+    <figcaption>The extractor is a one-method interface, so a different model, a vendor API or a human abstraction service can replace it without touching anything downstream.</figcaption>
+  </figure>
+</div></section>
+
+<section><div class="wrap">
+  <h2>What the gate checks</h2>
+  <p>A field is auto-accepted only if every check passes. &ldquo;I can&rsquo;t tell&rdquo; counts as a reason to review, never as a pass.</p>
+  <dl class="checks">
+    <dt>Grounding</dt><dd>The quoted evidence has to exist in the document, verbatim, tolerating whitespace and line-end hyphenation.</dd>
+    <dt>Corroboration</dt><dd>An independent, generic parser reads the quote and answers whether it supports the claimed value. This catches misread numbers and dates, and evidence lifted from the wrong clause.</dd>
+    <dt>Invariants</dt><dd>Cross-field sanity: price tiers are contiguous and discounted, an auto-renewing contract has a notice period, a notice period fits inside the term.</dd>
+    <dt>Cue guard</dt><dd>An answer of &ldquo;absent&rdquo; or &ldquo;silent&rdquo; needs explicit negative evidence, or the document must contain none of that clause&rsquo;s vocabulary. This is the check for the silent miss, the dangerous one.</dd>
+    <dt>Supersession</dt><dd>A value cited only from the base agreement is suspect when a later amendment discusses the same term.</dd>
+    <dt>Document canary</dt><dd>If the effective date, term or pricing can&rsquo;t be found, the extractor didn&rsquo;t understand the document, so every &ldquo;absent&rdquo; answer in it is distrusted.</dd>
+    <dt>Confidence floor</dt><dd>Cheap triage at 0.70. It catches nothing on its own in the fault study below, because wrong answers arrive confident.</dd>
+  </dl>
+</div></section>
+
+<section><div class="wide">
+  <h2>Does it work?</h2>
+  <p style="max-width:44rem">On synthetic data, yes, and the evaluation says where that stops. Headline numbers use corpora generated after development was frozen.</p>
+  <div class="scroll">
+  <table class="res">
+    <tr><th>Test</th><th>Baseline</th><th>Baseline result</th><th>With the gate</th></tr>
+    <tr><td>8,786 injected single-field faults across eight failure modes, each at 90&ndash;95% confidence</td><td>confidence floor only</td><td class="big bad">0.0% caught</td><td class="big ok">100.0% caught</td></tr>
+    <tr><td>Whole pipeline with a 5% field-error extractor; every chosen action re-priced under the true terms</td><td>trust the extractor</td><td class="bad">66.6% of true plan value realized; 6 of 78 actions invalid</td><td class="ok">100% realized; 0 of 81 invalid; 5.5% of fields sent to a reviewer</td></tr>
+    <tr><td>A drafting style held out from every rule and lexicon</td><td>gate without its document canary</td><td class="bad">207 wrong fields auto-accepted (61% of those accepted)</td><td class="ok">0 wrong accepted; every document of that style goes to review</td></tr>
+  </table>
+  </div>
+  <div class="wrap" style="padding:0">
+  <p>The third row has a cost: on unfamiliar phrasing the gate fails safe, and automation drops. Even a perfect extractor citing the right sentence gets only 57% of that style&rsquo;s fields auto-accepted, because the corroboration parsers don&rsquo;t recognise the paraphrase.</p>
+  <p><strong>What this doesn&rsquo;t show.</strong> The contracts, the rules extractor, the gate and the fault catalogue all come from one author, so high accuracy on the styles the rules were written for isn&rsquo;t evidence of real-world accuracy. The fault study did find a real bug in the gate (a hard-wrapped clause slipping past the affiliate cue), which is why the headline seeds were regenerated afterwards. The reviewer in the end-to-end test is a perfect oracle. There is no live-LLM run: the Claude adapter is tested against a fake transport only. The full protocol, including what was tuned on what, is in <a href="https://github.com/mkhambatti/clause-to-cash-engine/blob/main/docs/EVALUATION.md">EVALUATION.md</a>.</p>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <h2>What an agent gets</h2>
+  <p>A stdlib MCP server exposes five tools: <code>list_deadlines</code>, <code>get_contract</code>, <code>check_notice</code>, <code>review_queue</code> and <code>savings_plan</code>. The rule for anything an agent can act on is that unverified inputs produce a refusal with reasons, not a confident number. <span class="nw">A-0002</span> is written in a style the offline extractor wasn&rsquo;t built for:</p>
+<pre class="code"><span class="c">// check_notice(contract_id="A-0002", send_on="2027-03-12")</span>
+{
+  "safe_to_act": false,
+  "verdict": "REFUSED",
+  "needs_review": {
+    "effective_date":      ["DOC_UNREADABLE", "INVARIANT:MISSING_EFFECTIVE_DATE"],
+    "initial_term_months": ["DOC_UNREADABLE", "INVARIANT:MISSING_TERM"],
+    "auto_renew":          ["DOC_UNREADABLE"],
+    "nonrenewal_notice":   ["DOC_UNREADABLE"]
+  },
+  "message": "Notice-relevant fields are not verified; a human must review &hellip;"
+}</pre>
+  <p>Add it to Claude Code with <code>claude mcp add clause-to-cash -- python -m clause_to_cash.mcp_server</code>.</p>
+</div></section>
+
+<section><div class="wrap">
+  <h2>Run it</h2>
+<pre class="code">git clone https://github.com/mkhambatti/clause-to-cash-engine.git
+cd clause-to-cash-engine
+pip install -e ".[dev]"
+pytest                          <span class="c"># 47 tests, about 20 s</span>
+python -m clause_to_cash demo   <span class="c"># writes out/dashboard.html</span></pre>
+  <p class="small">Python 3.12 or newer. The offline path needs no API key and no network. <code>python -m clause_to_cash eval</code> regenerates every number on this page in about three minutes.</p>
+</div></section>
+
+<section><div class="wrap">
+  <h2>Where it stops</h2>
+  <ul class="plain">
+    <li>Synthetic data only. Real vendor contracts are confidential, so the corpus is generated, with ground truth. Dollar figures follow from the generator&rsquo;s assumptions and aren&rsquo;t a forecast.</li>
+    <li>The corroboration layer is keyword-based and conservative. A production version would be calibrated on labelled real contracts and learn from reviewer corrections. None of that is built.</li>
+    <li>The planner is deliberately simple: contract-level pricing, one volume per contract, assumed switching costs, no negotiation dynamics. Its job is to show why contract timing changes the answer, not to forecast savings.</li>
+    <li>Not legal advice. It&rsquo;s a prioritisation and verification tool for the people who are.</li>
+  </ul>
+</div></section>
+</main>
+
+<footer><div class="wrap">
+  clause-to-cash &middot; MIT licensed &middot; <a href="https://github.com/mkhambatti/clause-to-cash-engine">source</a> &middot; <a href="https://github.com/mkhambatti/clause-to-cash-engine/blob/main/docs/ARCHITECTURE.md">architecture</a> &middot; <a href="demo/">demo</a><br>
+  A personal prototype. It isn&rsquo;t affiliated with, or built on data from, any company it mentions.
+</div></footer>
+
+</body>
+</html>

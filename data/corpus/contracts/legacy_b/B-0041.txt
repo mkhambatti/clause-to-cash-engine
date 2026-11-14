@@ -1,0 +1,41 @@
+ORDER FORM
+
+Customer: Halyard Networks Corporation
+Vendor: HALDEN INSIGHTS LLC
+Effective Date: 2022-09-06
+Services: Audience Data
+Governing Law: Delaware
+
+TERM & RENEWAL
+Term: 24 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 6 months
+
+TERMINATION
+Termination for Convenience: Customer - 90 days notice; ETF 100% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: None
+Annual Price Increase: 3%
+Payment Terms: Net 45
+
+PRICING
+Tier Mode: Graduated
+| Tier | From (seat-year) | To (seat-year) | Price per seat-year |
+|------|------|------|------|
+| 1 | 0 | 240 | $23,266 |
+| 2 | 240 | 730 | $22,191 |
+| 3 | 730 | and above | $21,257 |
+
+OTHER TERMS
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

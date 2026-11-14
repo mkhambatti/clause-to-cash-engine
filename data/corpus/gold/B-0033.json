@@ -1,0 +1,197 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Solstice Workplace Software, Ltd.",
+  "service_category": "endpoint_software",
+  "effective_date": "2021-01-13",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": 9960000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 290000.0,
+     "unit_price": 28.52
+    },
+    {
+     "lower": 290000.0,
+     "upper": 880000.0,
+     "unit_price": 26.58
+    },
+    {
+     "lower": 880000.0,
+     "upper": null,
+     "unit_price": 25.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    245
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    245
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    245
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    245
+   ]
+  ],
+  "initial_term_months": [
+   [
+    247,
+    307
+   ]
+  ],
+  "auto_renew": [
+   [
+    309,
+    437
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    309,
+    437
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    309,
+    437
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    439,
+    550
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    439,
+    550
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    439,
+    550
+   ]
+  ],
+  "pricing": [
+   [
+    552,
+    738
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    740,
+    837
+   ]
+  ],
+  "change_of_control": [
+   [
+    880,
+    1030
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1032,
+    1081
+   ]
+  ],
+  "mfn": [
+   [
+    1083,
+    1132
+   ]
+  ],
+  "governing_law": [
+   [
+    1470,
+    1491
+   ]
+  ]
+ },
+ "vendor_id": "V-endpoint_software-1",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Solstice Workplace Software, Ltd.",
+  "service_category": "endpoint_software",
+  "effective_date": "2021-01-13",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": 9960000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 290000.0,
+     "unit_price": 28.52
+    },
+    {
+     "lower": 290000.0,
+     "upper": 880000.0,
+     "unit_price": 26.58
+    },
+    {
+     "lower": 880000.0,
+     "upper": null,
+     "unit_price": 25.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ }
+}

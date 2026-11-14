@@ -1,0 +1,213 @@
+{
+ "terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Corvid Encode Corporation",
+  "service_category": "transcoding",
+  "effective_date": "2025-02-24",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 8560000.0,
+  "pricing": {
+   "unit": "output-hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 6500000.0,
+     "unit_price": 0.8432
+    },
+    {
+     "lower": 6500000.0,
+     "upper": 19000000.0,
+     "unit_price": 0.7806
+    },
+    {
+     "lower": 19000000.0,
+     "upper": null,
+     "unit_price": 0.7508
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    292
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    292
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    292
+   ]
+  ],
+  "service_category": [
+   [
+    294,
+    480
+   ]
+  ],
+  "initial_term_months": [
+   [
+    482,
+    690
+   ]
+  ],
+  "auto_renew": [
+   [
+    692,
+    1007
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    692,
+    1007
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    692,
+    1007
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    1009,
+    1356
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    1009,
+    1356
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    1009,
+    1356
+   ]
+  ],
+  "pricing": [
+   [
+    1381,
+    1450
+   ],
+   [
+    3587,
+    4154
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1452,
+    1614
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1616,
+    1803
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1899,
+    2156
+   ]
+  ],
+  "change_of_control": [
+   [
+    2158,
+    2311
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    2336,
+    2442
+   ]
+  ],
+  "mfn": [
+   [
+    2444,
+    2557
+   ]
+  ],
+  "governing_law": [
+   [
+    3407,
+    3585
+   ]
+  ]
+ },
+ "vendor_id": "V-transcoding-1",
+ "base_terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Corvid Encode Corporation",
+  "service_category": "transcoding",
+  "effective_date": "2025-02-24",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 8560000.0,
+  "pricing": {
+   "unit": "output-hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 6500000.0,
+     "unit_price": 0.8432
+    },
+    {
+     "lower": 6500000.0,
+     "upper": 19000000.0,
+     "unit_price": 0.7806
+    },
+    {
+     "lower": 19000000.0,
+     "upper": null,
+     "unit_price": 0.7508
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

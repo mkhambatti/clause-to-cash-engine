@@ -1,0 +1,57 @@
+ORDER FORM
+
+Customer: Halyard Networks Corporation
+Vendor: QUILLON IT SERVICES LIMITED
+Effective Date: 2023-05-05
+Services: Managed IT
+Governing Law: Delaware
+
+TERM & RENEWAL
+Term: 48 months from Effective Date
+Auto-Renewal: No
+
+TERMINATION
+Termination for Convenience: Customer - 180 days notice; ETF 75% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $17,040,000
+Annual Price Increase: None
+Payment Terms: Net 60
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (ticket) | To (ticket) | Price per ticket |
+|------|------|------|------|
+| 1 | 0 | 450,000 | $31.85 |
+| 2 | 450,000 | 1,400,000 | $30.49 |
+| 3 | 1,400,000 | and above | $28.22 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed
+Assignment / Change of Control: Consent required
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________
+
+AMENDMENT 1
+
+Effective Date of Amendment: 2024-03-28
+Term extension: +12 months
+
+AMENDMENT 2
+
+Effective Date of Amendment: 2025-09-04
+Replacement Pricing (supersedes prior schedule):
+Tier Mode: All-Units
+| Tier | From (ticket) | To (ticket) | Price per ticket |
+|------|------|------|------|
+| 1 | 0 | 450,000 | $29.91 |
+| 2 | 450,000 | 1,400,000 | $28.64 |
+| 3 | 1,400,000 | and above | $26.51 |

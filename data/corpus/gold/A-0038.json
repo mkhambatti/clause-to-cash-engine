@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Solstice Talent Solutions, LLC",
+  "service_category": "temp_staffing",
+  "effective_date": "2024-07-07",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 3,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": 15600000.0,
+  "pricing": {
+   "unit": "hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470000.0,
+     "unit_price": 42.29
+    },
+    {
+     "lower": 470000.0,
+     "upper": 1400000.0,
+     "unit_price": 39.3
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 37.18
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    155
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    155
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    155
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    155
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    155
+   ]
+  ],
+  "initial_term_months": [
+   [
+    157,
+    266
+   ]
+  ],
+  "auto_renew": [
+   [
+    157,
+    266
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    157,
+    266
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    157,
+    266
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    268,
+    361
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    268,
+    361
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    268,
+    361
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    363,
+    461
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    363,
+    461
+   ]
+  ],
+  "pricing": [
+   [
+    463,
+    678
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    680,
+    825
+   ]
+  ],
+  "change_of_control": [
+   [
+    680,
+    825
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    680,
+    825
+   ]
+  ],
+  "mfn": [
+   [
+    680,
+    825
+   ]
+  ]
+ },
+ "vendor_id": "V-temp_staffing-1",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Solstice Talent Solutions, LLC",
+  "service_category": "temp_staffing",
+  "effective_date": "2024-07-07",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 3,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": 15600000.0,
+  "pricing": {
+   "unit": "hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470000.0,
+     "unit_price": 42.29
+    },
+    {
+     "lower": 470000.0,
+     "upper": 1400000.0,
+     "unit_price": 39.3
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 37.18
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

@@ -1,0 +1,207 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Opaline Edge, Ltd.",
+  "service_category": "cdn_delivery",
+  "effective_date": "2023-07-30",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 9700000.0,
+  "pricing": {
+   "unit": "PB",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 3300.0,
+     "unit_price": 6662.0
+    },
+    {
+     "lower": 3300.0,
+     "upper": 10000.0,
+     "unit_price": 6159.0
+    },
+    {
+     "lower": 10000.0,
+     "upper": null,
+     "unit_price": 5908.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    246
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    246
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    246
+   ]
+  ],
+  "service_category": [
+   [
+    248,
+    385
+   ]
+  ],
+  "initial_term_months": [
+   [
+    387,
+    525
+   ]
+  ],
+  "auto_renew": [
+   [
+    527,
+    814
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    527,
+    814
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    527,
+    814
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    816,
+    1121
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    816,
+    1121
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    816,
+    1121
+   ]
+  ],
+  "pricing": [
+   [
+    1123,
+    1185
+   ],
+   [
+    3056,
+    3361
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1187,
+    1291
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1293,
+    1503
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1598,
+    1751
+   ]
+  ],
+  "change_of_control": [
+   [
+    1753,
+    1968
+   ]
+  ],
+  "mfn": [
+   [
+    1970,
+    2153
+   ]
+  ],
+  "governing_law": [
+   [
+    2926,
+    3054
+   ]
+  ]
+ },
+ "vendor_id": "V-cdn_delivery-1",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Opaline Edge, Ltd.",
+  "service_category": "cdn_delivery",
+  "effective_date": "2023-07-30",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 9700000.0,
+  "pricing": {
+   "unit": "PB",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 3300.0,
+     "unit_price": 6662.0
+    },
+    {
+     "lower": 3300.0,
+     "upper": 10000.0,
+     "unit_price": 6159.0
+    },
+    {
+     "lower": 10000.0,
+     "upper": null,
+     "unit_price": 5908.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ }
+}

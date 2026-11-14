@@ -1,0 +1,203 @@
+{
+ "terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Valence Talent Solutions, LLC",
+  "service_category": "temp_staffing",
+  "effective_date": "2020-09-09",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470000.0,
+     "unit_price": 44.96
+    },
+    {
+     "lower": 470000.0,
+     "upper": 1400000.0,
+     "unit_price": 42.32
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 40.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    241
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    241
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    241
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    241
+   ]
+  ],
+  "initial_term_months": [
+   [
+    243,
+    302
+   ]
+  ],
+  "auto_renew": [
+   [
+    304,
+    435
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    304,
+    435
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    304,
+    435
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    437,
+    538
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    437,
+    538
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    437,
+    538
+   ]
+  ],
+  "pricing": [
+   [
+    540,
+    755
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    757,
+    781
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    824,
+    904
+   ]
+  ],
+  "change_of_control": [
+   [
+    906,
+    997
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    999,
+    1048
+   ]
+  ],
+  "mfn": [
+   [
+    1050,
+    1099
+   ]
+  ],
+  "governing_law": [
+   [
+    1437,
+    1460
+   ]
+  ]
+ },
+ "vendor_id": "V-temp_staffing-0",
+ "base_terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Valence Talent Solutions, LLC",
+  "service_category": "temp_staffing",
+  "effective_date": "2020-09-09",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470000.0,
+     "unit_price": 44.96
+    },
+    {
+     "lower": 470000.0,
+     "upper": 1400000.0,
+     "unit_price": 42.32
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 40.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Umbra Identity, Ltd.",
+  "service_category": "identity_auth",
+  "effective_date": "2023-03-09",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 2230000.0,
+  "pricing": {
+   "unit": "MAU-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 92000000.0,
+     "unit_price": 0.0229
+    },
+    {
+     "lower": 92000000.0,
+     "upper": 280000000.0,
+     "unit_price": 0.0214
+    },
+    {
+     "lower": 280000000.0,
+     "upper": null,
+     "unit_price": 0.0201
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    152
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    152
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    152
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    152
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    152
+   ]
+  ],
+  "initial_term_months": [
+   [
+    154,
+    263
+   ]
+  ],
+  "auto_renew": [
+   [
+    154,
+    263
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    154,
+    263
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    154,
+    263
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    265,
+    358
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    265,
+    358
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    265,
+    358
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    360,
+    457
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    360,
+    457
+   ]
+  ],
+  "pricing": [
+   [
+    459,
+    702
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    704,
+    833
+   ]
+  ],
+  "change_of_control": [
+   [
+    704,
+    833
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    704,
+    833
+   ]
+  ],
+  "mfn": [
+   [
+    704,
+    833
+   ]
+  ]
+ },
+ "vendor_id": "V-identity_auth-0",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Umbra Identity, Ltd.",
+  "service_category": "identity_auth",
+  "effective_date": "2023-03-09",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 2230000.0,
+  "pricing": {
+   "unit": "MAU-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 92000000.0,
+     "unit_price": 0.0229
+    },
+    {
+     "lower": 92000000.0,
+     "upper": 280000000.0,
+     "unit_price": 0.0214
+    },
+    {
+     "lower": 280000000.0,
+     "upper": null,
+     "unit_price": 0.0201
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ }
+}

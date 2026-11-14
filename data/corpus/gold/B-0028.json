@@ -1,0 +1,191 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Dunmore Relationship Software, Inc.",
+  "service_category": "crm_saas",
+  "effective_date": "2023-11-09",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 2010000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 116.74
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 109.1
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 100.84
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    273
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    273
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    273
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    273
+   ]
+  ],
+  "initial_term_months": [
+   [
+    275,
+    337
+   ]
+  ],
+  "auto_renew": [
+   [
+    339,
+    458
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    339,
+    458
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    339,
+    458
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    460,
+    561
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    460,
+    561
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    460,
+    561
+   ]
+  ],
+  "pricing": [
+   [
+    563,
+    800
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    802,
+    899
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    901,
+    946
+   ]
+  ],
+  "change_of_control": [
+   [
+    989,
+    1044
+   ]
+  ],
+  "mfn": [
+   [
+    1046,
+    1115
+   ]
+  ],
+  "governing_law": [
+   [
+    1453,
+    1483
+   ]
+  ]
+ },
+ "vendor_id": "V-crm_saas-1",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Dunmore Relationship Software, Inc.",
+  "service_category": "crm_saas",
+  "effective_date": "2023-11-09",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 2010000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 116.74
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 109.1
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 100.84
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "England and Wales"
+ }
+}

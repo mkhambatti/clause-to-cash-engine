@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Ironbark Fiber Networks Corp.",
+  "service_category": "fiber_transport",
+  "effective_date": "2022-06-26",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 25.0,
+  "min_annual_commit_usd": 2750000.0,
+  "pricing": {
+   "unit": "circuit-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 700.0,
+     "unit_price": 6322.0
+    },
+    {
+     "lower": 700.0,
+     "upper": 2100.0,
+     "unit_price": 5995.0
+    },
+    {
+     "lower": 2100.0,
+     "upper": null,
+     "unit_price": 5579.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    165
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    165
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    165
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    165
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    165
+   ]
+  ],
+  "initial_term_months": [
+   [
+    167,
+    276
+   ]
+  ],
+  "auto_renew": [
+   [
+    167,
+    276
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    167,
+    276
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    167,
+    276
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    278,
+    371
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    278,
+    371
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    278,
+    371
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    373,
+    470
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    373,
+    470
+   ]
+  ],
+  "pricing": [
+   [
+    472,
+    698
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    700,
+    825
+   ]
+  ],
+  "change_of_control": [
+   [
+    700,
+    825
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    700,
+    825
+   ]
+  ],
+  "mfn": [
+   [
+    700,
+    825
+   ]
+  ]
+ },
+ "vendor_id": "V-fiber_transport-2",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Ironbark Fiber Networks Corp.",
+  "service_category": "fiber_transport",
+  "effective_date": "2022-06-26",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 25.0,
+  "min_annual_commit_usd": 2750000.0,
+  "pricing": {
+   "unit": "circuit-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 700.0,
+     "unit_price": 6322.0
+    },
+    {
+     "lower": 700.0,
+     "upper": 2100.0,
+     "unit_price": 5995.0
+    },
+    {
+     "lower": 2100.0,
+     "upper": null,
+     "unit_price": 5579.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

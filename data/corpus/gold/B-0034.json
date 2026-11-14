@@ -1,0 +1,201 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Bexley Communications, Ltd.",
+  "service_category": "ucaas_telephony",
+  "effective_date": "2026-03-12",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000.0,
+     "unit_price": 17.22
+    },
+    {
+     "lower": 200000.0,
+     "upper": 600000.0,
+     "unit_price": 16.33
+    },
+    {
+     "lower": 600000.0,
+     "upper": null,
+     "unit_price": 15.4
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    256
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    256
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    256
+   ]
+  ],
+  "service_category": [
+   [
+    258,
+    401
+   ]
+  ],
+  "initial_term_months": [
+   [
+    403,
+    542
+   ]
+  ],
+  "auto_renew": [
+   [
+    544,
+    831
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    544,
+    831
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    544,
+    831
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    833,
+    925
+   ]
+  ],
+  "pricing": [
+   [
+    927,
+    989
+   ],
+   [
+    2826,
+    3193
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    991,
+    1094
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1096,
+    1181
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1277,
+    1399
+   ]
+  ],
+  "change_of_control": [
+   [
+    1401,
+    1623
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1625,
+    1736
+   ]
+  ],
+  "mfn": [
+   [
+    1738,
+    1921
+   ]
+  ],
+  "governing_law": [
+   [
+    2694,
+    2824
+   ]
+  ]
+ },
+ "vendor_id": "V-ucaas_telephony-1",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Bexley Communications, Ltd.",
+  "service_category": "ucaas_telephony",
+  "effective_date": "2026-03-12",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000.0,
+     "unit_price": 17.22
+    },
+    {
+     "lower": 200000.0,
+     "upper": 600000.0,
+     "unit_price": 16.33
+    },
+    {
+     "lower": 600000.0,
+     "upper": null,
+     "unit_price": 15.4
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ }
+}

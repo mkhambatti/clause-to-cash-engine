@@ -1,0 +1,37 @@
+Services Agreement
+
+This agreement is signed on 20th June 2020 between Solstice Enterprise Analytics Limited ("we", "us") and Meridian Studios, Inc. ("the Customer"). The service, in plain words: the finance and procurement system of record, hosted by the vendor.
+
+The relationship runs for three years counting from signature.
+
+Unless one side tells the other at least 90 days before the anniversary that it wants out, the deal rolls over for another year.
+
+The Customer can walk away early on 180 days' notice, but owes three quarters of what is left on the commitment.
+
+Pricing steps down as volume grows: the first 71,000 user-month cost $99.48 each, the next 139,000 user-month cost $93.37 each, and anything beyond 210,000 user-month costs $89.67 each.
+
+Invoices are due 30 days after receipt.
+
+If either side is acquired or merges, the contract simply moves to the new owner.
+
+The Customer remains free to use other suppliers.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+New York law governs.
+
+Signed by both sides.
+
+Side Letter 1 - dated 6th April 2021
+
+The parties agree to add two years to the initial period.
+
+Side Letter 2 - dated 19th March 2022
+
+Replacing the pricing above, from now on: the first 71,000 user-month cost $91.17 each, the next 139,000 user-month cost $85.57 each, and anything beyond 210,000 user-month costs $82.18 each.

@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Halyard Digital Ventures LLC
+Vendor: IRONBARK RELATIONSHIP SOFTWARE INC.
+Effective Date: 2023-05-29
+Services: CRM Subscription
+Governing Law: California
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 1 months
+
+TERMINATION
+Termination for Convenience: Customer - 180 days notice; ETF 75% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: None
+Annual Price Increase: 5%
+Payment Terms: Net 45
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (user-month) | To (user-month) | Price per user-month |
+|------|------|------|------|
+| 1 | 0 | 22,000 | $115.92 |
+| 2 | 22,000 | 66,000 | $108.04 |
+| 3 | 66,000 | and above | $102.23 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed
+Assignment / Change of Control: Vendor may terminate on Customer change of control (30 days)
+Exclusive Requirements: No
+MFN: Yes
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

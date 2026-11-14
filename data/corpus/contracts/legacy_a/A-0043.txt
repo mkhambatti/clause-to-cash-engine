@@ -1,0 +1,52 @@
+ORDER FORM
+
+Customer: Meridian Pictures Corporation
+Vendor: CALLOWAY INSIGHTS, INC.
+Effective Date: 2021-04-12
+Services: Audience Data
+Governing Law: England and Wales
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 90 days
+
+TERMINATION
+Termination for Convenience: Customer - 30 days notice; ETF 50% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $3,470,000
+Annual Price Increase: 3%
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (seat-year) | To (seat-year) | Price per seat-year |
+|------|------|------|------|
+| 1 | 0 | 240 | $25,683 |
+| 2 | 240 | 730 | $24,795 |
+| 3 | 730 | and above | $23,262 |
+
+OTHER TERMS
+Assignment / Change of Control: Vendor may terminate on Customer change of control (30 days)
+Exclusive Requirements: Yes
+MFN: Yes
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________
+
+AMENDMENT 1
+
+Effective Date of Amendment: 2023-05-29
+Replacement Pricing (supersedes prior schedule):
+Tier Mode: All-Units
+| Tier | From (seat-year) | To (seat-year) | Price per seat-year |
+|------|------|------|------|
+| 1 | 0 | 240 | $22,484 |
+| 2 | 240 | 730 | $21,707 |
+| 3 | 730 | and above | $20,365 |

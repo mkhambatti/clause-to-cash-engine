@@ -1,0 +1,101 @@
+MASTER SERVICES AGREEMENT
+
+THIS MASTER SERVICES AGREEMENT (this "Agreement") is made and entered into
+effective as of the 16th day of February, 2025 (the "Effective Date"), by and
+between Bexley Identity Systems Inc., a New York corporation ("Vendor"), and
+Halyard Networks Corporation ("Customer").
+
+WHEREAS, Vendor is in the business of providing consumer sign-in and identity
+management services; and WHEREAS, Customer wishes to obtain such services;
+NOW, THEREFORE, the parties agree as follows:
+
+3.1 Initial Term. The term of this Agreement shall commence on the Effective
+Date and, unless earlier terminated in accordance with its terms, shall
+continue for a period of four (4) years (the "Initial Term").
+
+3.2 No Automatic Renewal. This Agreement shall expire at the end of the
+Initial Term and shall not be renewed except by written instrument executed by
+both Parties.
+
+3.3 Termination Without Cause. Customer shall have the right, exercisable at
+any time upon not less than one hundred eighty (180) days' written notice, to
+terminate this Agreement without cause; provided that Customer shall pay
+Vendor an early termination charge equal to twenty-five percent (25%) of the
+fees payable for the balance of the then-current term.
+
+CONFIDENTIAL - Page 2
+
+4.1 Fees. Customer shall pay Vendor the fees set forth in Schedule A.
+
+4.2 No Minimum. Customer is not subject to any minimum fee or volume
+commitment.
+
+4.4 Customer shall pay all undisputed invoices within forty-five (45) days
+after receipt thereof.
+
+5.1 Affiliate Orders. Affiliates of Customer may order Services hereunder
+solely with the prior written approval of Vendor.
+
+6.1 Assignment. Either Party may, without the consent of the other Party,
+assign this Agreement in its entirety to an Affiliate or to any successor to
+all or substantially all of its business or assets, whether by merger,
+consolidation or otherwise.
+
+6.2 Requirements. During the term of this Agreement, Customer shall purchase
+exclusively from Vendor all of Customer's requirements for the Services.
+
+CONFIDENTIAL - Page 3
+
+6.3 Pricing Warranty. Vendor hereby represents and warrants that the prices
+set forth in Schedule A are, and shall remain during the term, no less
+favorable than the prices offered by Vendor to any similarly situated customer
+for comparable volumes.
+
+7.1 The obligations of confidentiality set forth herein shall survive for a
+period of three (3) years following termination or expiration of this
+Agreement.
+
+7.2 Vendor shall defend, indemnify and hold harmless Customer, its Affiliates
+and their respective directors, officers and employees from and against any
+third-party claims arising out of Vendor's breach hereof.
+
+7.3 In no event shall either Party's aggregate liability exceed the fees paid
+in the twelve (12) months immediately preceding the event giving rise to
+liability, which shall be the Parties' exclusive remedy.
+
+7.4 Vendor shall maintain availability of 99.9% and shall credit Customer ten
+percent (10%) of the monthly fees for each month in which availability is
+below 99.5%.
+
+7.5 Any notice shall be deemed given five (5) days after deposit in the mail.
+
+CONFIDENTIAL - Page 4
+
+8.1 Governing Law. This Agreement shall be governed by and construed in
+accordance with the laws of the State of California, without giving effect to
+conflict of laws principles.
+
+SCHEDULE A. PRICING. For Annual Volume of up to 92,000,000 MAU-month, the Unit
+Price shall be $0.0222 per MAU-month; for Annual Volume in excess of
+92,000,000 MAU-month and up to 280,000,000 MAU-month, the Unit Price shall be
+$0.0210 per MAU-month; and for Annual Volume in excess of 280,000,000 MAU-
+month, the Unit Price shall be $0.0198 per MAU-month. The foregoing tiered
+Unit Prices shall be applied on a volume-discount basis, such that the Unit
+Price applicable to the tier in which total Annual Volume falls shall apply to
+all units of Annual Volume.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by
+their duly authorized representatives.
+
+FIRST AMENDMENT TO MASTER SERVICES AGREEMENT
+
+This First Amendment is made as of the 21st day of November, 2025. Schedule A
+is hereby deleted in its entirety and replaced with the following: For Annual
+Volume of up to 92,000,000 MAU-month, the Unit Price shall be $0.0199 per MAU-
+month; for Annual Volume in excess of 92,000,000 MAU-month and up to
+280,000,000 MAU-month, the Unit Price shall be $0.0188 per MAU-month; and for
+Annual Volume in excess of 280,000,000 MAU-month, the Unit Price shall be
+$0.0177 per MAU-month. The foregoing tiered Unit Prices shall be applied on a
+volume-discount basis, such that the Unit Price applicable to the tier in
+which total Annual Volume falls shall apply to all units of Annual Volume. In
+all other respects the Agreement is ratified and confirmed.

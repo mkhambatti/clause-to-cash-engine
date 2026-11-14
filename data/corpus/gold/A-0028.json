@@ -1,0 +1,195 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Hollis Relationship Software, LLC",
+  "service_category": "crm_saas",
+  "effective_date": "2024-09-07",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2650000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 103.72
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 96.09
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 93.19
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    257
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    257
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    257
+   ]
+  ],
+  "service_category": [
+   [
+    259,
+    404
+   ]
+  ],
+  "initial_term_months": [
+   [
+    406,
+    539
+   ]
+  ],
+  "auto_renew": [
+   [
+    541,
+    833
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    541,
+    833
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    541,
+    833
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    835,
+    927
+   ]
+  ],
+  "pricing": [
+   [
+    929,
+    991
+   ],
+   [
+    2728,
+    3092
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    993,
+    1042
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1044,
+    1254
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1350,
+    1503
+   ]
+  ],
+  "change_of_control": [
+   [
+    1505,
+    1720
+   ]
+  ],
+  "mfn": [
+   [
+    1722,
+    1825
+   ]
+  ],
+  "governing_law": [
+   [
+    2598,
+    2726
+   ]
+  ]
+ },
+ "vendor_id": "V-crm_saas-2",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Hollis Relationship Software, LLC",
+  "service_category": "crm_saas",
+  "effective_date": "2024-09-07",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2650000.0,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 103.72
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 96.09
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 93.19
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Pictures Corporation
+Vendor: MARLOW SATCOM, INC.
+Effective Date: 2023-12-03
+Services: Satellite Distribution
+Governing Law: California
+
+TERM & RENEWAL
+Term: 48 months from Effective Date
+Auto-Renewal: Yes - 24 months
+Non-Renewal Notice: 120 days
+
+TERMINATION
+Termination for Convenience: Customer - 90 days notice; ETF 25% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $7,680,000
+Annual Price Increase: None
+Payment Terms: Net 45
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (transponder-month) | To (transponder-month) | Price per transponder-month |
+|------|------|------|------|
+| 1 | 0 | 260 | $40,375 |
+| 2 | 260 | 780 | $37,401 |
+| 3 | 780 | and above | $35,241 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

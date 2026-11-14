@@ -1,0 +1,201 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Marlow Satcom, Inc.",
+  "service_category": "satellite_distribution",
+  "effective_date": "2025-10-10",
+  "initial_term_months": 24,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 13720000.0,
+  "pricing": {
+   "unit": "transponder-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 260.0,
+     "unit_price": 40375.0
+    },
+    {
+     "lower": 260.0,
+     "upper": 780.0,
+     "unit_price": 37401.0
+    },
+    {
+     "lower": 780.0,
+     "upper": null,
+     "unit_price": 35241.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    289
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    289
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    289
+   ]
+  ],
+  "service_category": [
+   [
+    291,
+    496
+   ]
+  ],
+  "initial_term_months": [
+   [
+    498,
+    707
+   ]
+  ],
+  "auto_renew": [
+   [
+    709,
+    873
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    709,
+    873
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    709,
+    873
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    875,
+    1221
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    875,
+    1221
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    875,
+    1221
+   ]
+  ],
+  "pricing": [
+   [
+    1246,
+    1315
+   ],
+   [
+    3439,
+    4003
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1317,
+    1480
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1482,
+    1669
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1765,
+    2022
+   ]
+  ],
+  "change_of_control": [
+   [
+    2024,
+    2277
+   ]
+  ],
+  "mfn": [
+   [
+    2302,
+    2415
+   ]
+  ],
+  "governing_law": [
+   [
+    3265,
+    3437
+   ]
+  ]
+ },
+ "vendor_id": "V-satellite_distribution-2",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Marlow Satcom, Inc.",
+  "service_category": "satellite_distribution",
+  "effective_date": "2025-10-10",
+  "initial_term_months": 24,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 13720000.0,
+  "pricing": {
+   "unit": "transponder-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 260.0,
+     "unit_price": 40375.0
+    },
+    {
+     "lower": 260.0,
+     "upper": 780.0,
+     "unit_price": 37401.0
+    },
+    {
+     "lower": 780.0,
+     "upper": null,
+     "unit_price": 35241.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ }
+}

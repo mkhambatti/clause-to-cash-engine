@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Studios, Inc.
+Vendor: QUILLON IT SERVICES CORP.
+Effective Date: 2021-10-18
+Services: Managed IT
+Governing Law: California
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 24 months
+Non-Renewal Notice: 2 months
+
+TERMINATION
+Termination for Convenience: Customer - 60 days notice; ETF 50% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $24,480,000
+Annual Price Increase: 3%
+Payment Terms: Net 45
+
+PRICING
+Tier Mode: Graduated
+| Tier | From (ticket) | To (ticket) | Price per ticket |
+|------|------|------|------|
+| 1 | 0 | 450,000 | $31.85 |
+| 2 | 450,000 | 1,400,000 | $30.49 |
+| 3 | 1,400,000 | and above | $28.22 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed with Vendor consent
+Assignment / Change of Control: Consent required
+Exclusive Requirements: No
+MFN: Yes
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

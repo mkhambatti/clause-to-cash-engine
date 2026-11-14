@@ -1,0 +1,41 @@
+ORDER FORM
+
+Customer: Meridian Studios, Inc.
+Vendor: JUNIPER LEGAL TECHNOLOGIES CORPORATION
+Effective Date: 2023-02-05
+Services: eDiscovery
+Governing Law: England and Wales
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 24 months
+Non-Renewal Notice: 180 days
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $2,110,000
+Annual Price Increase: 3.5%
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (GB-month) | To (GB-month) | Price per GB-month |
+|------|------|------|------|
+| 1 | 0 | 210,000 | $12.96 |
+| 2 | 210,000 | 620,000 | $12.42 |
+| 3 | 620,000 | and above | $11.56 |
+
+OTHER TERMS
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

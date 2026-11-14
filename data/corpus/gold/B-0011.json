@@ -1,0 +1,203 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Dunmore Messaging Corp.",
+  "service_category": "push_messaging",
+  "effective_date": "2024-05-03",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1590000.0,
+  "pricing": {
+   "unit": "million-messages",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 15000.0,
+     "unit_price": 87.92
+    },
+    {
+     "lower": 15000.0,
+     "upper": 46000.0,
+     "unit_price": 83.48
+    },
+    {
+     "lower": 46000.0,
+     "upper": null,
+     "unit_price": 77.59
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    155
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    155
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    155
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    155
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    155
+   ]
+  ],
+  "initial_term_months": [
+   [
+    157,
+    224
+   ]
+  ],
+  "auto_renew": [
+   [
+    157,
+    224
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    157,
+    224
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    157,
+    224
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    226,
+    280
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    226,
+    280
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    226,
+    280
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    282,
+    379
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    282,
+    379
+   ]
+  ],
+  "pricing": [
+   [
+    381,
+    624
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    626,
+    752
+   ]
+  ],
+  "change_of_control": [
+   [
+    626,
+    752
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    626,
+    752
+   ]
+  ],
+  "mfn": [
+   [
+    626,
+    752
+   ]
+  ]
+ },
+ "vendor_id": "V-push_messaging-0",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Dunmore Messaging Corp.",
+  "service_category": "push_messaging",
+  "effective_date": "2024-05-03",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1590000.0,
+  "pricing": {
+   "unit": "million-messages",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 15000.0,
+     "unit_price": 87.92
+    },
+    {
+     "lower": 15000.0,
+     "upper": 46000.0,
+     "unit_price": 83.48
+    },
+    {
+     "lower": 46000.0,
+     "upper": null,
+     "unit_price": 77.59
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ }
+}

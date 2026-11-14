@@ -1,0 +1,37 @@
+Services Agreement
+
+This agreement is signed on 17th January 2024 between Tidewater Shield Technologies Corporation ("we", "us") and Meridian Pictures Corporation ("the Customer"). The service, in plain words: issuing the keys that let paying viewers decrypt protected video.
+
+The relationship runs for one year counting from signature.
+
+Unless one side tells the other at least 30 days before the anniversary that it wants out, the deal rolls over for another year.
+
+The Customer can walk away early on 180 days' notice, but owes all of what is left on the commitment.
+
+Pricing steps down as volume grows: the first 13,000 million-licenses cost $248.39 each, the next 25,000 million-licenses cost $228.89 each, and anything beyond 38,000 million-licenses costs $218.50 each.
+
+The Customer is on the hook for at least US$2.97 million a year whether or not it uses that much.
+
+Prices go up 3% every year on the anniversary.
+
+Invoices are due 30 days after receipt.
+
+Sister companies of the Customer can also buy at these rates, and their volume counts toward the tiers.
+
+The contract cannot be transferred, including to an acquirer, unless the other side agrees.
+
+The Customer remains free to use other suppliers.
+
+We make no promises about what other clients pay.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+Delaware law governs.
+
+Signed by both sides.

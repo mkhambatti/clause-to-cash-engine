@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Northgate Payments LLC",
+  "service_category": "payments_processing",
+  "effective_date": "2024-12-13",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2960000.0,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 12000000.0,
+     "unit_price": 0.2909
+    },
+    {
+     "lower": 12000000.0,
+     "upper": 37000000.0,
+     "unit_price": 0.2764
+    },
+    {
+     "lower": 37000000.0,
+     "upper": null,
+     "unit_price": 0.2605
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    153
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    153
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    153
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    153
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    153
+   ]
+  ],
+  "initial_term_months": [
+   [
+    155,
+    263
+   ]
+  ],
+  "auto_renew": [
+   [
+    155,
+    263
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    155,
+    263
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    155,
+    263
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    265,
+    319
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    265,
+    319
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    265,
+    319
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    321,
+    420
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    321,
+    420
+   ]
+  ],
+  "pricing": [
+   [
+    422,
+    669
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    671,
+    799
+   ]
+  ],
+  "change_of_control": [
+   [
+    671,
+    799
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    671,
+    799
+   ]
+  ],
+  "mfn": [
+   [
+    671,
+    799
+   ]
+  ]
+ },
+ "vendor_id": "V-payments_processing-2",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Northgate Payments LLC",
+  "service_category": "payments_processing",
+  "effective_date": "2024-12-13",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2960000.0,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 12000000.0,
+     "unit_price": 0.2909
+    },
+    {
+     "lower": 12000000.0,
+     "upper": 37000000.0,
+     "unit_price": 0.2764
+    },
+    {
+     "lower": 37000000.0,
+     "upper": null,
+     "unit_price": 0.2605
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

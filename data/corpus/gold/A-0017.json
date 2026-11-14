@@ -1,0 +1,203 @@
+{
+ "terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Tidewater Caption Services LLC",
+  "service_category": "closed_captioning",
+  "effective_date": "2026-04-09",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 3780000.0,
+  "pricing": {
+   "unit": "program-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 14000.0,
+     "unit_price": 137.03
+    },
+    {
+     "lower": 14000.0,
+     "upper": 41000.0,
+     "unit_price": 132.27
+    },
+    {
+     "lower": 41000.0,
+     "upper": null,
+     "unit_price": 122.16
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    255
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    255
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    255
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    255
+   ]
+  ],
+  "initial_term_months": [
+   [
+    257,
+    319
+   ]
+  ],
+  "auto_renew": [
+   [
+    321,
+    440
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    321,
+    440
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    321,
+    440
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    442,
+    543
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    442,
+    543
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    442,
+    543
+   ]
+  ],
+  "pricing": [
+   [
+    545,
+    737
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    739,
+    836
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    838,
+    883
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    926,
+    1029
+   ]
+  ],
+  "change_of_control": [
+   [
+    1031,
+    1122
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1124,
+    1173
+   ]
+  ],
+  "mfn": [
+   [
+    1175,
+    1224
+   ]
+  ],
+  "governing_law": [
+   [
+    1562,
+    1585
+   ]
+  ]
+ },
+ "vendor_id": "V-closed_captioning-1",
+ "base_terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Tidewater Caption Services LLC",
+  "service_category": "closed_captioning",
+  "effective_date": "2026-04-09",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 3780000.0,
+  "pricing": {
+   "unit": "program-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 14000.0,
+     "unit_price": 137.03
+    },
+    {
+     "lower": 14000.0,
+     "upper": 41000.0,
+     "unit_price": 132.27
+    },
+    {
+     "lower": 41000.0,
+     "upper": null,
+     "unit_price": 122.16
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

@@ -1,0 +1,599 @@
+{
+ "meta": {
+  "seed": 7,
+  "asof": "2026-11-12",
+  "n_contracts": 84,
+  "synthetic": true,
+  "note": "All vendors, customers and contracts are fictional."
+ },
+ "contracts": [
+  {
+   "contract_id": "A-0001",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0001.txt",
+   "sha256": "89e5a9a295ad008d65d11b85ac3e79c3f6594afa4863fef62f92260fa480a4bb"
+  },
+  {
+   "contract_id": "A-0002",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0002.txt",
+   "sha256": "7d07176236978ae3863a3a2d91bd1009b6c1130edee38a4c75dd5427a5e643fd"
+  },
+  {
+   "contract_id": "A-0003",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0003.txt",
+   "sha256": "2dece1953ab6313fd0cb35eb565a2af1761986ff172005eefa7be1060c3cfd14"
+  },
+  {
+   "contract_id": "A-0004",
+   "entity": "A",
+   "style": 1,
+   "path": "contracts/legacy_a/A-0004.txt",
+   "sha256": "9da5339cc5a8e307d13534c7b44b67ad9259c3f5392c4a2461c24e81cdca60f4"
+  },
+  {
+   "contract_id": "A-0005",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0005.txt",
+   "sha256": "2f10cad86a65d18cf03d8a95718a405b1a1a2aefb0d46c09619effeda346ccda"
+  },
+  {
+   "contract_id": "A-0006",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0006.txt",
+   "sha256": "707fad0d4800bafbcf71decf4017aef1ed95d0ef589c4b505123a57fd2bb1736"
+  },
+  {
+   "contract_id": "A-0007",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0007.txt",
+   "sha256": "0275249c355821630c141bb44301ac3182a3143b34233d4145edcc1e39e60d63"
+  },
+  {
+   "contract_id": "A-0008",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0008.txt",
+   "sha256": "dfad7d450c057ccd4bb8ab95716b666cfd6c1afb849e4b4f5024e95f7eb9602b"
+  },
+  {
+   "contract_id": "A-0009",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0009.txt",
+   "sha256": "bf85d580f321fa3ec579c27c8a6dda5ddadbb786666c82c6bcba26f0a61e4207"
+  },
+  {
+   "contract_id": "A-0010",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0010.txt",
+   "sha256": "bb4f423655f659a659da153b340a6caba70db1f47260fbeb414dbc285a56289d"
+  },
+  {
+   "contract_id": "A-0011",
+   "entity": "A",
+   "style": 1,
+   "path": "contracts/legacy_a/A-0011.txt",
+   "sha256": "c4f4175014514bc7de3059aea1bfcecafef987192e4743e7e223d879138b452b"
+  },
+  {
+   "contract_id": "A-0012",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0012.txt",
+   "sha256": "87b11c642699d86d5916c7fc9205b53955724bb25a74dab1150dc2e193f78c3f"
+  },
+  {
+   "contract_id": "A-0013",
+   "entity": "A",
+   "style": 1,
+   "path": "contracts/legacy_a/A-0013.txt",
+   "sha256": "b38289309b6aedc9b6819eef8f918c04dd707ab45180452a4890ca6b962f0c7f"
+  },
+  {
+   "contract_id": "A-0014",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0014.txt",
+   "sha256": "6b085dc7205ddf7f63f82bdc192fcc5831414eda1d88c5d44bfb075daeb47af6"
+  },
+  {
+   "contract_id": "A-0015",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0015.txt",
+   "sha256": "8405a7e5c6be2f24d1c6ebb8935a11d74ff2744c1d2e3a5f314f03f51a20bec9"
+  },
+  {
+   "contract_id": "A-0016",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0016.txt",
+   "sha256": "66120af497c853b448d00112bbea1d415bbe2fa59ff0a0b0f78655d7e5d981b3"
+  },
+  {
+   "contract_id": "A-0017",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0017.txt",
+   "sha256": "c366aa3deedf450ce2b4141c6a4b8b0548312b689c5fcf6864ddb8056227517a"
+  },
+  {
+   "contract_id": "A-0018",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0018.txt",
+   "sha256": "8f5ed412d97c11c31b27754155d52648509df18391b927ee7994e6a69e24c48b"
+  },
+  {
+   "contract_id": "A-0019",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0019.txt",
+   "sha256": "1b9c1795a368291438b53a61faadd3108ec2f94d036cb0543350144168ce46d8"
+  },
+  {
+   "contract_id": "A-0020",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0020.txt",
+   "sha256": "03054d973967fd325a1412f316e1dd5274592457066e0b087469503b11ff9691"
+  },
+  {
+   "contract_id": "A-0021",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0021.txt",
+   "sha256": "b94794862fd77f513793d803962ad7133a6cc194ff5063d8ca1aee76c2bb3039"
+  },
+  {
+   "contract_id": "A-0022",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0022.txt",
+   "sha256": "e8f93917fa02bf9fcb6c01559f5149bdac28739a0c8acbb8486645a0121f29a9"
+  },
+  {
+   "contract_id": "A-0023",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0023.txt",
+   "sha256": "25ee6b31ce09ce7c60967c9ab03f0901e904a3bbfcc910012754f28e544f5f58"
+  },
+  {
+   "contract_id": "A-0024",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0024.txt",
+   "sha256": "103a2401ea7b3fd9c6f6defd5abce4379212b67154e7fda73cef783465c4b577"
+  },
+  {
+   "contract_id": "A-0025",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0025.txt",
+   "sha256": "33033c956e33a210c0d9da9fa42fb175a4e8c1f9398aef003c7f119514ed8ab0"
+  },
+  {
+   "contract_id": "A-0026",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0026.txt",
+   "sha256": "44a8d90f1fd8e43b9af3d5e379fe02e5db3dc639beefb354bc3e9522cc14389f"
+  },
+  {
+   "contract_id": "A-0027",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0027.txt",
+   "sha256": "c11278fd008dfd504fc78d1ca24301e170d0e4ccdf48bc39a6f45620170f9d11"
+  },
+  {
+   "contract_id": "A-0028",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0028.txt",
+   "sha256": "b0db2c8797ae49d7bc599b3bb46ac5a768011ccf2e99069270ee93aed5973c47"
+  },
+  {
+   "contract_id": "A-0029",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0029.txt",
+   "sha256": "640e8670044654f6fdfde366a976d3fbdbc0aeb4f9f3d1affcf7f497b5372c16"
+  },
+  {
+   "contract_id": "A-0030",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0030.txt",
+   "sha256": "c067a53f29b2b12f850eb5343f6bbdd193190c623c9aff68d2240846b0f72f50"
+  },
+  {
+   "contract_id": "A-0031",
+   "entity": "A",
+   "style": 1,
+   "path": "contracts/legacy_a/A-0031.txt",
+   "sha256": "116cf6777e7a52d77adfdb855bba4866e0b9132471eae47e94a8b546c4d00329"
+  },
+  {
+   "contract_id": "A-0032",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0032.txt",
+   "sha256": "1dadc8c28cc1f6d542f686bef98ec3c1017becdd039a58cddef26dcf237aa3e6"
+  },
+  {
+   "contract_id": "A-0033",
+   "entity": "A",
+   "style": 1,
+   "path": "contracts/legacy_a/A-0033.txt",
+   "sha256": "69b5426063bccf5d27cf3a271d7e5d880f741cc4dd10b0c06bf6f97c807b6520"
+  },
+  {
+   "contract_id": "A-0034",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0034.txt",
+   "sha256": "3485799b3d5cd8cb32270ff4fe1e2b02fbf66c1b9ac4b0dd24fc231e24a4926f"
+  },
+  {
+   "contract_id": "A-0035",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0035.txt",
+   "sha256": "5a06a3cf59b01e83ce413db0e1880f7f6fdf6d49ef1276c652f4eeb749881e4d"
+  },
+  {
+   "contract_id": "A-0036",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0036.txt",
+   "sha256": "23401e8eafe90cf2b28b9efe621523eae9041c0fad27183b9eccfe73b5f976ed"
+  },
+  {
+   "contract_id": "A-0037",
+   "entity": "A",
+   "style": 3,
+   "path": "contracts/legacy_a/A-0037.txt",
+   "sha256": "d70c7f010b0be1b2718aa9c034cdd27fbdbf062cab49fd43041ea5dabc9c8efc"
+  },
+  {
+   "contract_id": "A-0038",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0038.txt",
+   "sha256": "0f3ed8f3785c0af9ef2a985849e485b6fd38e87063a50c91c1ea8a78eabc24d7"
+  },
+  {
+   "contract_id": "A-0039",
+   "entity": "A",
+   "style": 1,
+   "path": "contracts/legacy_a/A-0039.txt",
+   "sha256": "7d4fdd8f99065998ccb27c2c4338198e877db67414ba7ccf0577879ac64ca6cf"
+  },
+  {
+   "contract_id": "A-0040",
+   "entity": "A",
+   "style": 0,
+   "path": "contracts/legacy_a/A-0040.txt",
+   "sha256": "01651260257c36207d745b88edc3b0267c5b11f0f8a4985fff0a8d2e00f15e9a"
+  },
+  {
+   "contract_id": "A-0041",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0041.txt",
+   "sha256": "e6cc78c0de029d741370826a36997230f61dcef1b7719d3e15e5606fcbdd68de"
+  },
+  {
+   "contract_id": "A-0042",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0042.txt",
+   "sha256": "e2fbb1ce3d48016549f0cb099c864d3f074229948d9488c5c13a5066deec0022"
+  },
+  {
+   "contract_id": "A-0043",
+   "entity": "A",
+   "style": 2,
+   "path": "contracts/legacy_a/A-0043.txt",
+   "sha256": "7a61012e12f3fa9cb6c368688789c435ae30fa7f8b978e9aa74dc16ef0fb981b"
+  },
+  {
+   "contract_id": "B-0001",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0001.txt",
+   "sha256": "f87cd4a5747f89023c7ad3466237c1184542e0f89a4f4da608740bae855b1134"
+  },
+  {
+   "contract_id": "B-0002",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0002.txt",
+   "sha256": "607850b317459fd7790452289d96aa5fa090c82c5506e5abe5a32add6b734903"
+  },
+  {
+   "contract_id": "B-0003",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0003.txt",
+   "sha256": "cf47b3a8c3631a5be97655307edbda194a5ebcdea14cceb90fe6fee5dfb8d47e"
+  },
+  {
+   "contract_id": "B-0004",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0004.txt",
+   "sha256": "29d8bf5bf05854eb72bc1277f33291f3e6835708d4e0b0543aeb985a835ae694"
+  },
+  {
+   "contract_id": "B-0005",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0005.txt",
+   "sha256": "0aeb39d689392bb93a5913b2ad5bc04823519ff145f69205633958c5d7484629"
+  },
+  {
+   "contract_id": "B-0006",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0006.txt",
+   "sha256": "3930254f9a0f209987d3eefd1823ef971e2f739d8ad8bc00fa23c65d04e883ef"
+  },
+  {
+   "contract_id": "B-0007",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0007.txt",
+   "sha256": "2bffe168609deb9a4c70131559f1bde515525a00da5898064b4044be3737fe7d"
+  },
+  {
+   "contract_id": "B-0008",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0008.txt",
+   "sha256": "e48a5eb60db9ebecb83ac47796a668e1d647950acc594f988cc76ae112355260"
+  },
+  {
+   "contract_id": "B-0009",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0009.txt",
+   "sha256": "286064ae6673e759d1959f011e308e9ac88d2add9d4b626f4e2d0f33ed5df182"
+  },
+  {
+   "contract_id": "B-0010",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0010.txt",
+   "sha256": "e026d6c1b98bcdbecfc0bbab9e67117d8b1e58ba3d5ba2be58c078a83faa2890"
+  },
+  {
+   "contract_id": "B-0011",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0011.txt",
+   "sha256": "d7b625d26a228905f37e2f93ea28c0f39f4875bd46458fecd9644c4654854dab"
+  },
+  {
+   "contract_id": "B-0012",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0012.txt",
+   "sha256": "b1313a758df79f31222cb47a7db30dc51263016ffd9574018ee3ae18b5a246b0"
+  },
+  {
+   "contract_id": "B-0013",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0013.txt",
+   "sha256": "75579196075498ce86b6ada58a4b2c66fe1dc042f949a65fd99c5e7a7b650c7d"
+  },
+  {
+   "contract_id": "B-0014",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0014.txt",
+   "sha256": "d4af353c699226d791a4559199a41c73ef80c88529d6c90304023f194a79f56f"
+  },
+  {
+   "contract_id": "B-0015",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0015.txt",
+   "sha256": "20cd21895b6d8dade573e3b6dbb58bd5c0f2b69fa6e77524033dc725e1be7025"
+  },
+  {
+   "contract_id": "B-0016",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0016.txt",
+   "sha256": "32c1ffdcedac19eef0257f1c2ea903acf9a8aa3f0b8d989299f2be6d67ff447d"
+  },
+  {
+   "contract_id": "B-0017",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0017.txt",
+   "sha256": "88731818defd48eaf47789360a22ef90878a2d66bd7e868c7733bf53d5e90655"
+  },
+  {
+   "contract_id": "B-0018",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0018.txt",
+   "sha256": "2bd4294f28493aa4ebd8eba379217c14accb67c6cc4b9d3162e55093912aa615"
+  },
+  {
+   "contract_id": "B-0019",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0019.txt",
+   "sha256": "910d6328bca4810f9f0a0b3cddce7d81e3ba431845fd2a26b16caac79948bd5d"
+  },
+  {
+   "contract_id": "B-0020",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0020.txt",
+   "sha256": "7a4290600c2450cd59438bd37ef0c2dd967312edad65336c0c5e5a279d1975d3"
+  },
+  {
+   "contract_id": "B-0021",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0021.txt",
+   "sha256": "dc4d5406c288430a509a88853522b5f56b58b8a9be708e45c1c30e29a66bb277"
+  },
+  {
+   "contract_id": "B-0022",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0022.txt",
+   "sha256": "f5ae6ceda2b496fc29d8586258690739945c988baec4214110356946651b066c"
+  },
+  {
+   "contract_id": "B-0023",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0023.txt",
+   "sha256": "421474a3d32b9cc110ef191d3c215e7ab47fcae07ec0792b6dc8d7373fc90ee0"
+  },
+  {
+   "contract_id": "B-0024",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0024.txt",
+   "sha256": "28bc206a807f0675434de9bf62e6746d41efaf68634d43dabba2b0321358dba4"
+  },
+  {
+   "contract_id": "B-0025",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0025.txt",
+   "sha256": "fc77d5cf1e40fdf996868440777a8d6528db5e6881c49b3ee85cf52efcb121c0"
+  },
+  {
+   "contract_id": "B-0026",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0026.txt",
+   "sha256": "e203c38b19df97fa1b5573e3a34131c6e6dd3baa09dbe716aaeeeead2216b502"
+  },
+  {
+   "contract_id": "B-0027",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0027.txt",
+   "sha256": "5f2f6872a2618f0a310dea1e717fe82f635d28e5b7a4ee8a6b053c40238af27d"
+  },
+  {
+   "contract_id": "B-0028",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0028.txt",
+   "sha256": "52aed7f1ec62e244315a7181fc5145035209ef341c440c04e28154094e7eb0e2"
+  },
+  {
+   "contract_id": "B-0029",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0029.txt",
+   "sha256": "e3af4c59f740b2a1c6f9247b7a301b6cc5ac714bc2aa7e012aa98bfeb1db024a"
+  },
+  {
+   "contract_id": "B-0030",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0030.txt",
+   "sha256": "4fcbace3bda03e26f15c7f86ed2c0b48f51b7655ff47c6700bfbd795b8122527"
+  },
+  {
+   "contract_id": "B-0031",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0031.txt",
+   "sha256": "9ce1d022bc80d4056621ccec1b6b2676a9eb2658f3bf8077029c4176cc7d2de9"
+  },
+  {
+   "contract_id": "B-0032",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0032.txt",
+   "sha256": "823548352d7110d795b00f2e2ea5ec3de33ddc26effef40c98ee32085ff26550"
+  },
+  {
+   "contract_id": "B-0033",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0033.txt",
+   "sha256": "a86f02b6d67186a47f6b55a9eb3fd12193fa50a95c8719b980f436f68de5594a"
+  },
+  {
+   "contract_id": "B-0034",
+   "entity": "B",
+   "style": 0,
+   "path": "contracts/legacy_b/B-0034.txt",
+   "sha256": "02e2ce92318f8bf7bffb8341fc7279c3cbd742b2ac0cb34ed60555baa18d4655"
+  },
+  {
+   "contract_id": "B-0035",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0035.txt",
+   "sha256": "4dbb7b16dd1ceb63867eaf583ca20722ba9f48dafd5e156fca14839318e1e3a3"
+  },
+  {
+   "contract_id": "B-0036",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0036.txt",
+   "sha256": "67e0f10171b813d98b0f77d83f5c2dd541f7eabb5b9d5873d212169d8485c3c4"
+  },
+  {
+   "contract_id": "B-0037",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0037.txt",
+   "sha256": "442ff171de68a06014f2cd54154067da552e25fbd7a63aaaa4b3e365147b6335"
+  },
+  {
+   "contract_id": "B-0038",
+   "entity": "B",
+   "style": 3,
+   "path": "contracts/legacy_b/B-0038.txt",
+   "sha256": "8be712a92faa6b674099fdba940d8b6670db36aaf502e2b0ddbb60d9d8ce7d1c"
+  },
+  {
+   "contract_id": "B-0039",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0039.txt",
+   "sha256": "766592b5c83d53b72dc0014f28917c9c690eb03a3e133c4e3e153ff022c86c5b"
+  },
+  {
+   "contract_id": "B-0040",
+   "entity": "B",
+   "style": 1,
+   "path": "contracts/legacy_b/B-0040.txt",
+   "sha256": "3dd203a989802fd9ac7fc8a2a0eaa06159fb30be97f285d88b6d17c2073842a6"
+  },
+  {
+   "contract_id": "B-0041",
+   "entity": "B",
+   "style": 2,
+   "path": "contracts/legacy_b/B-0041.txt",
+   "sha256": "2d89005d1e8c1d872778beb95822125cb06174b3a22e3fe71323d1c12f5f67d4"
+  }
+ ]
+}

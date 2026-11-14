@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Marlow Protective Services, Inc.",
+  "service_category": "facility_security",
+  "effective_date": "2024-03-29",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2370000.0,
+  "pricing": {
+   "unit": "guard-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 38.44
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 36.07
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 34.36
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    180
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    180
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    180
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    180
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    180
+   ]
+  ],
+  "initial_term_months": [
+   [
+    182,
+    291
+   ]
+  ],
+  "auto_renew": [
+   [
+    182,
+    291
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    182,
+    291
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    182,
+    291
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    293,
+    347
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    293,
+    347
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    293,
+    347
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    349,
+    448
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    349,
+    448
+   ]
+  ],
+  "pricing": [
+   [
+    450,
+    679
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    681,
+    777
+   ]
+  ],
+  "change_of_control": [
+   [
+    681,
+    777
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    681,
+    777
+   ]
+  ],
+  "mfn": [
+   [
+    681,
+    777
+   ]
+  ]
+ },
+ "vendor_id": "V-facility_security-0",
+ "base_terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Marlow Protective Services, Inc.",
+  "service_category": "facility_security",
+  "effective_date": "2024-03-29",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2370000.0,
+  "pricing": {
+   "unit": "guard-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 38.44
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 36.07
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 34.36
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

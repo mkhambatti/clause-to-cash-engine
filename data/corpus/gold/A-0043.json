@@ -1,0 +1,213 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Calloway Insights, Inc.",
+  "service_category": "audience_research",
+  "effective_date": "2021-04-12",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 3470000.0,
+  "pricing": {
+   "unit": "seat-year",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 240.0,
+     "unit_price": 22484.0
+    },
+    {
+     "lower": 240.0,
+     "upper": 730.0,
+     "unit_price": 21707.0
+    },
+    {
+     "lower": 730.0,
+     "upper": null,
+     "unit_price": 20365.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": true,
+  "mfn": true,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    167
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    167
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    167
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    167
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    167
+   ]
+  ],
+  "initial_term_months": [
+   [
+    169,
+    277
+   ]
+  ],
+  "auto_renew": [
+   [
+    169,
+    277
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    169,
+    277
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    169,
+    277
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    279,
+    372
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    279,
+    372
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    279,
+    372
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    374,
+    471
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    374,
+    471
+   ]
+  ],
+  "pricing": [
+   [
+    473,
+    686
+   ],
+   [
+    1140,
+    1434
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    688,
+    829
+   ]
+  ],
+  "change_of_control": [
+   [
+    688,
+    829
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    688,
+    829
+   ]
+  ],
+  "mfn": [
+   [
+    688,
+    829
+   ]
+  ]
+ },
+ "vendor_id": "V-audience_research-1",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Calloway Insights, Inc.",
+  "service_category": "audience_research",
+  "effective_date": "2021-04-12",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 30,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 3470000.0,
+  "pricing": {
+   "unit": "seat-year",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 240.0,
+     "unit_price": 25683.0
+    },
+    {
+     "lower": 240.0,
+     "upper": 730.0,
+     "unit_price": 24795.0
+    },
+    {
+     "lower": 730.0,
+     "upper": null,
+     "unit_price": 23262.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": true,
+  "mfn": true,
+  "governing_law": "England and Wales"
+ }
+}

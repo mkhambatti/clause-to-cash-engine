@@ -1,0 +1,37 @@
+Services Agreement
+
+This agreement is signed on 26th November 2025 between Northgate Payments Limited ("we", "us") and Halyard Networks Corporation ("the Customer"). The service, in plain words: charging subscribers' cards each month.
+
+The relationship runs for three years counting from signature.
+
+Unless one side tells the other at least 120 days before the anniversary that it wants out, the deal rolls over for another two years.
+
+Neither side gets to cancel early without cause.
+
+Pricing steps down as volume grows: the first 12,000,000 transaction cost $0.2909 each, the next 25,000,000 transaction cost $0.2764 each, and anything beyond 37,000,000 transaction costs $0.2605 each.
+
+There is no spend floor.
+
+Prices go up 3.5% every year on the anniversary.
+
+Invoices are due 30 days after receipt.
+
+Only the Customer itself may use this arrangement; its sister companies cannot.
+
+The contract cannot be transferred, including to an acquirer, unless the other side agrees.
+
+The Customer remains free to use other suppliers.
+
+We promise the prices here are as good as any comparable client gets.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+England and Wales law governs.
+
+Signed by both sides.

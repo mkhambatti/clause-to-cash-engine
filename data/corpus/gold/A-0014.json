@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Marlow Satcom, Inc.",
+  "service_category": "satellite_distribution",
+  "effective_date": "2023-12-03",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 25.0,
+  "min_annual_commit_usd": 7680000.0,
+  "pricing": {
+   "unit": "transponder-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 260.0,
+     "unit_price": 40375.0
+    },
+    {
+     "lower": 260.0,
+     "upper": 780.0,
+     "unit_price": 37401.0
+    },
+    {
+     "lower": 780.0,
+     "upper": null,
+     "unit_price": 35241.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    165
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    165
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    165
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    165
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    165
+   ]
+  ],
+  "initial_term_months": [
+   [
+    167,
+    276
+   ]
+  ],
+  "auto_renew": [
+   [
+    167,
+    276
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    167,
+    276
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    167,
+    276
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    278,
+    371
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    278,
+    371
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    278,
+    371
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    373,
+    472
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    373,
+    472
+   ]
+  ],
+  "pricing": [
+   [
+    474,
+    711
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    713,
+    835
+   ]
+  ],
+  "change_of_control": [
+   [
+    713,
+    835
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    713,
+    835
+   ]
+  ],
+  "mfn": [
+   [
+    713,
+    835
+   ]
+  ]
+ },
+ "vendor_id": "V-satellite_distribution-2",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Marlow Satcom, Inc.",
+  "service_category": "satellite_distribution",
+  "effective_date": "2023-12-03",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 25.0,
+  "min_annual_commit_usd": 7680000.0,
+  "pricing": {
+   "unit": "transponder-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 260.0,
+     "unit_price": 40375.0
+    },
+    {
+     "lower": 260.0,
+     "upper": 780.0,
+     "unit_price": 37401.0
+    },
+    {
+     "lower": 780.0,
+     "upper": null,
+     "unit_price": 35241.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

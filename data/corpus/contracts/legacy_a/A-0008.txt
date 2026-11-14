@@ -1,0 +1,47 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is dated as of November 25, 2024 (the "Effective Date") by and between Meridian Studios, Inc. ("Customer") and Halden Playback Labs LLC, a California corporation ("Vendor").
+
+1. Services. Vendor shall provide video player SDK and playback analytics services (the "Services") to Customer in accordance with this Agreement.
+
+2.1 Term. This Agreement commences on the Effective Date and continues for an initial term of forty-eight (48) months (the "Initial Term").
+
+2.2 Renewal. This Agreement will not renew automatically; any renewal requires a written amendment signed by both parties.
+
+2.3 Termination for Convenience. Neither party may terminate this Agreement for convenience.
+
+3.1 Fees. Customer shall pay the fees set forth in Schedule A.
+
+3.2 Fee Adjustments. Fees will increase by five percent (5%) on each anniversary of the Effective Date.
+
+3.3 Minimum Commitment. There is no minimum purchase commitment under this Agreement.
+
+3.4 Payment Terms. Customer will pay undisputed invoices within thirty (30) days of receipt.
+
+4.1 Affiliates. Customer's Affiliates may purchase Services under this Agreement at the rates set forth in Schedule A, and all such purchases will count toward Annual Volume.
+
+5.1 Assignment. Neither party may assign this Agreement without the other party's prior written consent. If Customer undergoes a change of control, Vendor may terminate this Agreement upon thirty (30) days' written notice.
+
+6.2 Pricing Protection. Vendor makes no representation regarding prices charged to its other customers.
+
+7. Confidentiality. Each party's confidentiality obligations survive for three (3) years after termination of this Agreement.
+
+7. Indemnification. Vendor will indemnify Customer, its Affiliates, and their respective officers and directors against third-party claims arising from Vendor's breach of this Agreement.
+
+7. Limitation of Liability. Each party's total liability will not exceed the fees paid in the twelve (12) months preceding the claim. This Section states each party's exclusive remedy for such claims.
+
+7. Service Levels. Vendor will maintain 99.9% availability and will issue service credits of ten percent (10%) of the monthly fees for any month in which availability falls below 99.5%.
+
+7. Notices. Notices are deemed given five (5) days after mailing.
+
+8. Governing Law. This Agreement is governed by the laws of the State of New York, without regard to conflict of law principles.
+
+SCHEDULE A - PRICING
+Unit: million-hours
+Tier 1: 0 to 470 million-hours per year at $5,101 per million-hours
+Tier 2: 470 to 1,400 million-hours per year at $4,846 per million-hours
+Tier 3: Above 1,400 million-hours per year at $4,473 per million-hours
+Tiered pricing applies on an all-units basis: the rate for the tier in which total Annual Volume falls applies to all units.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+Customer: ____________________  Vendor: ____________________

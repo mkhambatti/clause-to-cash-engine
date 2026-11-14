@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Quillon IT Services Corp.",
+  "service_category": "it_managed_services",
+  "effective_date": "2021-10-18",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 24480000.0,
+  "pricing": {
+   "unit": "ticket",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 31.85
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 30.49
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 28.22
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    152
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    152
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    152
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    152
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    152
+   ]
+  ],
+  "initial_term_months": [
+   [
+    154,
+    263
+   ]
+  ],
+  "auto_renew": [
+   [
+    154,
+    263
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    154,
+    263
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    154,
+    263
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    265,
+    358
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    265,
+    358
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    265,
+    358
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    360,
+    458
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    360,
+    458
+   ]
+  ],
+  "pricing": [
+   [
+    460,
+    681
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    683,
+    829
+   ]
+  ],
+  "change_of_control": [
+   [
+    683,
+    829
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    683,
+    829
+   ]
+  ],
+  "mfn": [
+   [
+    683,
+    829
+   ]
+  ]
+ },
+ "vendor_id": "V-it_managed_services-2",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Quillon IT Services Corp.",
+  "service_category": "it_managed_services",
+  "effective_date": "2021-10-18",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 24480000.0,
+  "pricing": {
+   "unit": "ticket",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 31.85
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 30.49
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 28.22
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ }
+}

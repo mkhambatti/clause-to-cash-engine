@@ -1,0 +1,207 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Juniper Data Services, Inc.",
+  "service_category": "metadata_enrichment",
+  "effective_date": "2023-06-03",
+  "initial_term_months": 60,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1010000.0,
+  "pricing": {
+   "unit": "title",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 12.91
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 12.26
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 11.85
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    167
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    167
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    167
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    167
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    167
+   ]
+  ],
+  "initial_term_months": [
+   [
+    169,
+    236
+   ]
+  ],
+  "auto_renew": [
+   [
+    169,
+    236
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    169,
+    236
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    169,
+    236
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    238,
+    292
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    238,
+    292
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    238,
+    292
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    294,
+    393
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    294,
+    393
+   ]
+  ],
+  "pricing": [
+   [
+    395,
+    609
+   ],
+   [
+    1050,
+    1345
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    611,
+    739
+   ]
+  ],
+  "change_of_control": [
+   [
+    611,
+    739
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    611,
+    739
+   ]
+  ],
+  "mfn": [
+   [
+    611,
+    739
+   ]
+  ]
+ },
+ "vendor_id": "V-metadata_enrichment-2",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Juniper Data Services, Inc.",
+  "service_category": "metadata_enrichment",
+  "effective_date": "2023-06-03",
+  "initial_term_months": 60,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1010000.0,
+  "pricing": {
+   "unit": "title",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 14.63
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 13.9
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 13.44
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

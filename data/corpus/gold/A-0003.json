@@ -1,0 +1,185 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Arden Archive Systems Corp.",
+  "service_category": "cloud_storage",
+  "effective_date": "2025-09-25",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 5940000.0,
+  "pricing": {
+   "unit": "PB-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 410.0,
+     "unit_price": 21952.0
+    },
+    {
+     "lower": 410.0,
+     "upper": 1200.0,
+     "unit_price": 21007.0
+    },
+    {
+     "lower": 1200.0,
+     "upper": null,
+     "unit_price": 19992.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    249
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    249
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    249
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    249
+   ]
+  ],
+  "initial_term_months": [
+   [
+    251,
+    313
+   ]
+  ],
+  "auto_renew": [
+   [
+    315,
+    446
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    315,
+    446
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    315,
+    446
+   ]
+  ],
+  "pricing": [
+   [
+    448,
+    621
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    623,
+    720
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    722,
+    768
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    811,
+    891
+   ]
+  ],
+  "change_of_control": [
+   [
+    893,
+    984
+   ]
+  ],
+  "mfn": [
+   [
+    986,
+    1035
+   ]
+  ],
+  "governing_law": [
+   [
+    1373,
+    1396
+   ]
+  ]
+ },
+ "vendor_id": "V-cloud_storage-0",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Arden Archive Systems Corp.",
+  "service_category": "cloud_storage",
+  "effective_date": "2025-09-25",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 5940000.0,
+  "pricing": {
+   "unit": "PB-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 410.0,
+     "unit_price": 21952.0
+    },
+    {
+     "lower": 410.0,
+     "upper": 1200.0,
+     "unit_price": 21007.0
+    },
+    {
+     "lower": 1200.0,
+     "upper": null,
+     "unit_price": 19992.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

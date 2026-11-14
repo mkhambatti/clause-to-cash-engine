@@ -1,0 +1,52 @@
+ORDER FORM
+
+Customer: Halyard Digital Ventures LLC
+Vendor: JUNIPER DATA SERVICES, INC.
+Effective Date: 2023-06-03
+Services: Metadata Services
+Governing Law: California
+
+TERM & RENEWAL
+Term: 60 months from Effective Date
+Auto-Renewal: No
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $1,010,000
+Annual Price Increase: None
+Payment Terms: Net 60
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (title) | To (title) | Price per title |
+|------|------|------|------|
+| 1 | 0 | 100,000 | $14.63 |
+| 2 | 100,000 | 310,000 | $13.90 |
+| 3 | 310,000 | and above | $13.44 |
+
+OTHER TERMS
+Affiliate Purchasing: Not permitted
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________
+
+AMENDMENT 1
+
+Effective Date of Amendment: 2026-01-19
+Replacement Pricing (supersedes prior schedule):
+Tier Mode: All-Units
+| Tier | From (title) | To (title) | Price per title |
+|------|------|------|------|
+| 1 | 0 | 100,000 | $12.91 |
+| 2 | 100,000 | 310,000 | $12.26 |
+| 3 | 310,000 | and above | $11.85 |

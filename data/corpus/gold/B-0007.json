@@ -1,0 +1,195 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Garnet AdStitch Inc.",
+  "service_category": "ssai_ad_serving",
+  "effective_date": "2026-02-13",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "million-impressions",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 240000.0,
+     "unit_price": 41.09
+    },
+    {
+     "lower": 240000.0,
+     "upper": 710000.0,
+     "unit_price": 39.71
+    },
+    {
+     "lower": 710000.0,
+     "upper": null,
+     "unit_price": 36.67
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    291
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    291
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    291
+   ]
+  ],
+  "service_category": [
+   [
+    293,
+    479
+   ]
+  ],
+  "initial_term_months": [
+   [
+    481,
+    691
+   ]
+  ],
+  "auto_renew": [
+   [
+    693,
+    1005
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    693,
+    1005
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    693,
+    1005
+   ]
+  ],
+  "pricing": [
+   [
+    1007,
+    1076
+   ],
+   [
+    3387,
+    3978
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1101,
+    1181
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1183,
+    1368
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1465,
+    1722
+   ]
+  ],
+  "change_of_control": [
+   [
+    1724,
+    1977
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1979,
+    2085
+   ]
+  ],
+  "mfn": [
+   [
+    2110,
+    2359
+   ]
+  ],
+  "governing_law": [
+   [
+    3209,
+    3385
+   ]
+  ]
+ },
+ "vendor_id": "V-ssai_ad_serving-2",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Garnet AdStitch Inc.",
+  "service_category": "ssai_ad_serving",
+  "effective_date": "2026-02-13",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "million-impressions",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 240000.0,
+     "unit_price": 41.09
+    },
+    {
+     "lower": 240000.0,
+     "upper": 710000.0,
+     "unit_price": 39.71
+    },
+    {
+     "lower": 710000.0,
+     "upper": null,
+     "unit_price": 36.67
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 2.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ }
+}

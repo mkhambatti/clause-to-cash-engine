@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Ironbark Relationship Software Inc.",
+  "service_category": "crm_saas",
+  "effective_date": "2023-05-29",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 115.92
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 108.04
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 102.23
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    174
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    174
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    174
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    174
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    174
+   ]
+  ],
+  "initial_term_months": [
+   [
+    176,
+    285
+   ]
+  ],
+  "auto_renew": [
+   [
+    176,
+    285
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    176,
+    285
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    176,
+    285
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    287,
+    381
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    287,
+    381
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    287,
+    381
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    383,
+    474
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    383,
+    474
+   ]
+  ],
+  "pricing": [
+   [
+    476,
+    704
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    706,
+    876
+   ]
+  ],
+  "change_of_control": [
+   [
+    706,
+    876
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    706,
+    876
+   ]
+  ],
+  "mfn": [
+   [
+    706,
+    876
+   ]
+  ]
+ },
+ "vendor_id": "V-crm_saas-0",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Ironbark Relationship Software Inc.",
+  "service_category": "crm_saas",
+  "effective_date": "2023-05-29",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 1,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 75.0,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "user-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 22000.0,
+     "unit_price": 115.92
+    },
+    {
+     "lower": 22000.0,
+     "upper": 66000.0,
+     "unit_price": 108.04
+    },
+    {
+     "lower": 66000.0,
+     "upper": null,
+     "unit_price": 102.23
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ }
+}

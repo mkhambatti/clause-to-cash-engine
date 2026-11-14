@@ -1,0 +1,41 @@
+ORDER FORM
+
+Customer: Meridian Pictures Corporation
+Vendor: GARNET ADSTITCH, LLC
+Effective Date: 2023-10-30
+Services: SSAI
+Governing Law: England and Wales
+
+TERM & RENEWAL
+Term: 48 months from Effective Date
+Auto-Renewal: No
+
+TERMINATION
+Termination for Convenience: Customer - 180 days notice; ETF 75% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $17,810,000
+Annual Price Increase: None
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (million-impressions) | To (million-impressions) | Price per million-impressions |
+|------|------|------|------|
+| 1 | 0 | 240,000 | $41.09 |
+| 2 | 240,000 | 710,000 | $39.71 |
+| 3 | 710,000 | and above | $36.67 |
+
+OTHER TERMS
+Affiliate Purchasing: Not permitted
+Assignment / Change of Control: Free assignment to successors
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

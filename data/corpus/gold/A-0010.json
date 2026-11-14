@@ -1,0 +1,189 @@
+{
+ "terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Bexley Identity Systems LLC",
+  "service_category": "identity_auth",
+  "effective_date": "2025-12-22",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 3,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1270000.0,
+  "pricing": {
+   "unit": "MAU-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 92000000.0,
+     "unit_price": 0.0222
+    },
+    {
+     "lower": 92000000.0,
+     "upper": 280000000.0,
+     "unit_price": 0.021
+    },
+    {
+     "lower": 280000000.0,
+     "upper": null,
+     "unit_price": 0.0198
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    251
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    251
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    251
+   ]
+  ],
+  "service_category": [
+   [
+    253,
+    396
+   ]
+  ],
+  "initial_term_months": [
+   [
+    398,
+    537
+   ]
+  ],
+  "auto_renew": [
+   [
+    539,
+    818
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    539,
+    818
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    539,
+    818
+   ]
+  ],
+  "pricing": [
+   [
+    820,
+    882
+   ],
+   [
+    2643,
+    3020
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    884,
+    933
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    935,
+    1145
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1240,
+    1414
+   ]
+  ],
+  "change_of_control": [
+   [
+    1416,
+    1631
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1633,
+    1744
+   ]
+  ],
+  "governing_law": [
+   [
+    2517,
+    2641
+   ]
+  ]
+ },
+ "vendor_id": "V-identity_auth-1",
+ "base_terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Bexley Identity Systems LLC",
+  "service_category": "identity_auth",
+  "effective_date": "2025-12-22",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 3,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1270000.0,
+  "pricing": {
+   "unit": "MAU-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 92000000.0,
+     "unit_price": 0.0222
+    },
+    {
+     "lower": 92000000.0,
+     "upper": 280000000.0,
+     "unit_price": 0.021
+    },
+    {
+     "lower": 280000000.0,
+     "upper": null,
+     "unit_price": 0.0198
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ }
+}

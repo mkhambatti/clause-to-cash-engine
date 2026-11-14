@@ -1,0 +1,191 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Northgate Subtitle Services Corp.",
+  "service_category": "subtitling",
+  "effective_date": "2021-04-05",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1510000.0,
+  "pricing": {
+   "unit": "finished-minute",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 320000.0,
+     "unit_price": 8.77
+    },
+    {
+     "lower": 320000.0,
+     "upper": 970000.0,
+     "unit_price": 8.3
+    },
+    {
+     "lower": 970000.0,
+     "upper": null,
+     "unit_price": 7.87
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    227
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    227
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    227
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    227
+   ]
+  ],
+  "initial_term_months": [
+   [
+    229,
+    291
+   ]
+  ],
+  "auto_renew": [
+   [
+    293,
+    427
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    293,
+    427
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    293,
+    427
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    429,
+    477
+   ]
+  ],
+  "pricing": [
+   [
+    479,
+    733
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    735,
+    832
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    834,
+    880
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    923,
+    1003
+   ]
+  ],
+  "change_of_control": [
+   [
+    1005,
+    1086
+   ]
+  ],
+  "mfn": [
+   [
+    1088,
+    1137
+   ]
+  ],
+  "governing_law": [
+   [
+    1475,
+    1496
+   ]
+  ]
+ },
+ "vendor_id": "V-subtitling-0",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Northgate Subtitle Services Corp.",
+  "service_category": "subtitling",
+  "effective_date": "2021-04-05",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 180,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 1510000.0,
+  "pricing": {
+   "unit": "finished-minute",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 320000.0,
+     "unit_price": 8.77
+    },
+    {
+     "lower": 320000.0,
+     "upper": 970000.0,
+     "unit_price": 8.3
+    },
+    {
+     "lower": 970000.0,
+     "upper": null,
+     "unit_price": 7.87
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "New York"
+ }
+}

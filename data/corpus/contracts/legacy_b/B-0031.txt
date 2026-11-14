@@ -1,0 +1,58 @@
+ORDER FORM
+
+Customer: Halyard Networks Corporation
+Vendor: OPALINE CYBER DEFENSE CORP.
+Effective Date: 2023-12-27
+Services: Security Operations
+Governing Law: New York
+
+TERM & RENEWAL
+Term: 60 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 30 days
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $2,670,000
+Annual Price Increase: None
+Payment Terms: Net 45
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (endpoint-month) | To (endpoint-month) | Price per endpoint-month |
+|------|------|------|------|
+| 1 | 0 | 910,000 | $4.69 |
+| 2 | 910,000 | 2,700,000 | $4.39 |
+| 3 | 2,700,000 | and above | $4.23 |
+
+OTHER TERMS
+Affiliate Purchasing: Not permitted
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: Yes
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________
+
+AMENDMENT 1
+
+Effective Date of Amendment: 2026-05-29
+Non-Renewal Notice (amended): 90 days
+
+AMENDMENT 2
+
+Effective Date of Amendment: 2026-06-02
+Replacement Pricing (supersedes prior schedule):
+Tier Mode: All-Units
+| Tier | From (endpoint-month) | To (endpoint-month) | Price per endpoint-month |
+|------|------|------|------|
+| 1 | 0 | 910,000 | $4.30 |
+| 2 | 910,000 | 2,700,000 | $4.03 |
+| 3 | 2,700,000 | and above | $3.89 |

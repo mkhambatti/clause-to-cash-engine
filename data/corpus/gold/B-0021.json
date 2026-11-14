@@ -1,0 +1,193 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Arden Subtitle Services Limited",
+  "service_category": "subtitling",
+  "effective_date": "2021-05-06",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "finished-minute",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 320000.0,
+     "unit_price": 8.61
+    },
+    {
+     "lower": 320000.0,
+     "upper": 970000.0,
+     "unit_price": 7.98
+    },
+    {
+     "lower": 970000.0,
+     "upper": null,
+     "unit_price": 7.72
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    229
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    229
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    229
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    229
+   ]
+  ],
+  "initial_term_months": [
+   [
+    231,
+    293
+   ]
+  ],
+  "auto_renew": [
+   [
+    295,
+    426
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    295,
+    426
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    295,
+    426
+   ],
+   [
+    1395,
+    1429
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    428,
+    476
+   ]
+  ],
+  "pricing": [
+   [
+    478,
+    676
+   ],
+   [
+    1473,
+    1677
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    678,
+    702
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    745,
+    824
+   ]
+  ],
+  "change_of_control": [
+   [
+    826,
+    917
+   ]
+  ],
+  "mfn": [
+   [
+    919,
+    968
+   ]
+  ],
+  "governing_law": [
+   [
+    1306,
+    1329
+   ]
+  ]
+ },
+ "vendor_id": "V-subtitling-2",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Arden Subtitle Services Limited",
+  "service_category": "subtitling",
+  "effective_date": "2021-05-06",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "finished-minute",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 320000.0,
+     "unit_price": 9.78
+    },
+    {
+     "lower": 320000.0,
+     "upper": 970000.0,
+     "unit_price": 9.07
+    },
+    {
+     "lower": 970000.0,
+     "upper": null,
+     "unit_price": 8.77
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

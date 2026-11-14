@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Halyard Networks Corporation
+Vendor: IRONBARK FIBER NETWORKS CORP.
+Effective Date: 2022-06-26
+Services: Fiber Transport
+Governing Law: Delaware
+
+TERM & RENEWAL
+Term: 12 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 180 days
+
+TERMINATION
+Termination for Convenience: Customer - 60 days notice; ETF 25% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $2,750,000
+Annual Price Increase: 2%
+Payment Terms: Net 60
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (circuit-month) | To (circuit-month) | Price per circuit-month |
+|------|------|------|------|
+| 1 | 0 | 700 | $6,322 |
+| 2 | 700 | 2,100 | $5,995 |
+| 3 | 2,100 | and above | $5,579 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed
+Assignment / Change of Control: Consent required
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

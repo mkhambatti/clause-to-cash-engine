@@ -1,0 +1,197 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Arden People Systems, Inc.",
+  "service_category": "hris_saas",
+  "effective_date": "2025-07-03",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2240000.0,
+  "pricing": {
+   "unit": "employee-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 12.97
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 11.95
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 11.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    241
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    241
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    241
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    241
+   ]
+  ],
+  "initial_term_months": [
+   [
+    243,
+    303
+   ]
+  ],
+  "auto_renew": [
+   [
+    305,
+    436
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    305,
+    436
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    305,
+    436
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    438,
+    486
+   ]
+  ],
+  "pricing": [
+   [
+    488,
+    686
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    688,
+    785
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    787,
+    833
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    876,
+    955
+   ]
+  ],
+  "change_of_control": [
+   [
+    957,
+    1038
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1040,
+    1089
+   ]
+  ],
+  "mfn": [
+   [
+    1091,
+    1140
+   ]
+  ],
+  "governing_law": [
+   [
+    1478,
+    1499
+   ]
+  ]
+ },
+ "vendor_id": "V-hris_saas-1",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Arden People Systems, Inc.",
+  "service_category": "hris_saas",
+  "effective_date": "2025-07-03",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2240000.0,
+  "pricing": {
+   "unit": "employee-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 12.97
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 11.95
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 11.56
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "prohibited",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

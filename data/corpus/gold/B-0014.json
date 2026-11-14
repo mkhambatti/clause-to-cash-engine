@@ -1,0 +1,189 @@
+{
+ "terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Umbra Broadcast Services Limited",
+  "service_category": "playout_mcr",
+  "effective_date": "2026-01-18",
+  "initial_term_months": 24,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 8720000.0,
+  "pricing": {
+   "unit": "channel-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 710.0,
+     "unit_price": 8810.0
+    },
+    {
+     "lower": 710.0,
+     "upper": 2100.0,
+     "unit_price": 8488.0
+    },
+    {
+     "lower": 2100.0,
+     "upper": null,
+     "unit_price": 7842.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    267
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    267
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    267
+   ]
+  ],
+  "service_category": [
+   [
+    269,
+    410
+   ]
+  ],
+  "initial_term_months": [
+   [
+    412,
+    551
+   ]
+  ],
+  "auto_renew": [
+   [
+    553,
+    675
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    553,
+    675
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    553,
+    675
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    677,
+    769
+   ]
+  ],
+  "pricing": [
+   [
+    771,
+    833
+   ],
+   [
+    2662,
+    3038
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    835,
+    939
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    941,
+    1151
+   ]
+  ],
+  "change_of_control": [
+   [
+    1246,
+    1461
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1463,
+    1574
+   ]
+  ],
+  "mfn": [
+   [
+    1576,
+    1759
+   ]
+  ],
+  "governing_law": [
+   [
+    2532,
+    2660
+   ]
+  ]
+ },
+ "vendor_id": "V-playout_mcr-0",
+ "base_terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Umbra Broadcast Services Limited",
+  "service_category": "playout_mcr",
+  "effective_date": "2026-01-18",
+  "initial_term_months": 24,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 8720000.0,
+  "pricing": {
+   "unit": "channel-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 710.0,
+     "unit_price": 8810.0
+    },
+    {
+     "lower": 710.0,
+     "upper": 2100.0,
+     "unit_price": 8488.0
+    },
+    {
+     "lower": 2100.0,
+     "upper": null,
+     "unit_price": 7842.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "Delaware"
+ }
+}

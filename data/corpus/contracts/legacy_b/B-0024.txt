@@ -1,0 +1,39 @@
+Services Agreement
+
+This agreement is signed on 9th July 2024 between Solstice Render Cloud LLC ("we", "us") and Halyard Networks Corporation ("the Customer"). The service, in plain words: crunching frames for effects shots on a big pool of cores.
+
+The relationship runs for five years counting from signature.
+
+Unless one side tells the other at least 60 days before the anniversary that it wants out, the deal rolls over for another year.
+
+Neither side gets to cancel early without cause.
+
+Pricing steps down as volume grows: the first 200,000,000 core-hour cost $0.0580 each, the next 390,000,000 core-hour cost $0.0553 each, and anything beyond 590,000,000 core-hour costs $0.0536 each.
+
+Prices go up 2% every year on the anniversary.
+
+Invoices are due 30 days after receipt.
+
+Sister companies of the Customer can only buy under this deal if we agree first.
+
+The contract cannot be transferred, including to an acquirer, unless the other side agrees.
+
+The Customer remains free to use other suppliers.
+
+We make no promises about what other clients pay.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+New York law governs.
+
+Signed by both sides.
+
+Side Letter 1 - dated 4th November 2025
+
+The opt-out window is now 45 days.

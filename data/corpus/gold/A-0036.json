@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Kestrel Travel Systems Inc.",
+  "service_category": "travel_expense",
+  "effective_date": "2024-10-29",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 2.99
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 2.75
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 2.64
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    158
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    158
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    158
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    158
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    158
+   ]
+  ],
+  "initial_term_months": [
+   [
+    160,
+    268
+   ]
+  ],
+  "auto_renew": [
+   [
+    160,
+    268
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    160,
+    268
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    160,
+    268
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    270,
+    324
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    270,
+    324
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    270,
+    324
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    326,
+    417
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    326,
+    417
+   ]
+  ],
+  "pricing": [
+   [
+    419,
+    652
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    654,
+    799
+   ]
+  ],
+  "change_of_control": [
+   [
+    654,
+    799
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    654,
+    799
+   ]
+  ],
+  "mfn": [
+   [
+    654,
+    799
+   ]
+  ]
+ },
+ "vendor_id": "V-travel_expense-2",
+ "base_terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Kestrel Travel Systems Inc.",
+  "service_category": "travel_expense",
+  "effective_date": "2024-10-29",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "transaction",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 450000.0,
+     "unit_price": 2.99
+    },
+    {
+     "lower": 450000.0,
+     "upper": 1400000.0,
+     "unit_price": 2.75
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 2.64
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 5.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

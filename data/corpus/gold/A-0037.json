@@ -1,0 +1,185 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Marlow Protective Services Inc.",
+  "service_category": "facility_security",
+  "effective_date": "2021-03-29",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 4850000.0,
+  "pricing": {
+   "unit": "guard-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 38.44
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 36.07
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 34.36
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    234
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    234
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    234
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    234
+   ]
+  ],
+  "initial_term_months": [
+   [
+    236,
+    296
+   ]
+  ],
+  "auto_renew": [
+   [
+    298,
+    431
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    298,
+    431
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    298,
+    431
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    433,
+    481
+   ]
+  ],
+  "pricing": [
+   [
+    483,
+    669
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    671,
+    768
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    811,
+    914
+   ]
+  ],
+  "change_of_control": [
+   [
+    916,
+    1007
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1009,
+    1058
+   ]
+  ],
+  "governing_law": [
+   [
+    1396,
+    1419
+   ]
+  ]
+ },
+ "vendor_id": "V-facility_security-0",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Marlow Protective Services Inc.",
+  "service_category": "facility_security",
+  "effective_date": "2021-03-29",
+  "initial_term_months": 24,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 90,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 4850000.0,
+  "pricing": {
+   "unit": "guard-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 100000.0,
+     "unit_price": 38.44
+    },
+    {
+     "lower": 100000.0,
+     "upper": 310000.0,
+     "unit_price": 36.07
+    },
+    {
+     "lower": 310000.0,
+     "upper": null,
+     "unit_price": 34.36
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

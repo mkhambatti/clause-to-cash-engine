@@ -1,0 +1,37 @@
+Services Agreement
+
+This agreement is signed on 10th February 2021 between Arden People Systems Limited ("we", "us") and Halyard Digital Ventures LLC ("the Customer"). The service, in plain words: software that runs paychecks and employee records.
+
+The relationship runs for one year counting from signature.
+
+Unless one side tells the other at least 90 days before the anniversary that it wants out, the deal rolls over for another year.
+
+Pricing steps down with volume, applied to everything: up to 210,000 employee-month a year each employee-month costs $12.97; once volume passes 210,000 every employee-month is repriced at $11.95; past 620,000 it drops to $11.56 for every employee-month.
+
+There is no spend floor.
+
+Invoices are due 60 days after receipt.
+
+Sister companies of the Customer can also buy at these rates, and their volume counts toward the tiers.
+
+If either side is acquired or merges, the contract simply moves to the new owner.
+
+The Customer remains free to use other suppliers.
+
+We make no promises about what other clients pay.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+New York law governs.
+
+Signed by both sides.
+
+Side Letter 1 - dated 25th November 2021
+
+The opt-out window is now three months.

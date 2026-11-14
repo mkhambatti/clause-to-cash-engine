@@ -1,0 +1,201 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Kestrel Cyber Defense LLC",
+  "service_category": "soc_services",
+  "effective_date": "2025-11-14",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2070000.0,
+  "pricing": {
+   "unit": "endpoint-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 910000.0,
+     "unit_price": 4.49
+    },
+    {
+     "lower": 910000.0,
+     "upper": 2700000.0,
+     "unit_price": 4.32
+    },
+    {
+     "lower": 2700000.0,
+     "upper": null,
+     "unit_price": 4.01
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    298
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    298
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    298
+   ]
+  ],
+  "service_category": [
+   [
+    300,
+    499
+   ]
+  ],
+  "initial_term_months": [
+   [
+    501,
+    712
+   ]
+  ],
+  "auto_renew": [
+   [
+    714,
+    1025
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    714,
+    1025
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    714,
+    1025
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    1027,
+    1183
+   ]
+  ],
+  "pricing": [
+   [
+    1208,
+    1277
+   ],
+   [
+    3513,
+    4070
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1279,
+    1441
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1443,
+    1630
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1727,
+    1850
+   ]
+  ],
+  "change_of_control": [
+   [
+    1852,
+    2101
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    2126,
+    2232
+   ]
+  ],
+  "mfn": [
+   [
+    2234,
+    2483
+   ]
+  ],
+  "governing_law": [
+   [
+    3333,
+    3511
+   ]
+  ]
+ },
+ "vendor_id": "V-soc_services-0",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Kestrel Cyber Defense LLC",
+  "service_category": "soc_services",
+  "effective_date": "2025-11-14",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 2070000.0,
+  "pricing": {
+   "unit": "endpoint-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 910000.0,
+     "unit_price": 4.49
+    },
+    {
+     "lower": 910000.0,
+     "upper": 2700000.0,
+     "unit_price": 4.32
+    },
+    {
+     "lower": 2700000.0,
+     "upper": null,
+     "unit_price": 4.01
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ }
+}

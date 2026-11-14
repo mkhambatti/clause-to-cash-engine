@@ -1,0 +1,183 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Solstice Talent Solutions LLC",
+  "service_category": "temp_staffing",
+  "effective_date": "2023-05-11",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 15490000.0,
+  "pricing": {
+   "unit": "hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470000.0,
+     "unit_price": 42.29
+    },
+    {
+     "lower": 470000.0,
+     "upper": 1400000.0,
+     "unit_price": 39.3
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 37.18
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    296
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    296
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    296
+   ]
+  ],
+  "service_category": [
+   [
+    298,
+    489
+   ]
+  ],
+  "initial_term_months": [
+   [
+    491,
+    701
+   ]
+  ],
+  "auto_renew": [
+   [
+    703,
+    1014
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    703,
+    1014
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    703,
+    1014
+   ]
+  ],
+  "pricing": [
+   [
+    1016,
+    1085
+   ],
+   [
+    2861,
+    3370
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1110,
+    1273
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1275,
+    1368
+   ]
+  ],
+  "change_of_control": [
+   [
+    1465,
+    1718
+   ]
+  ],
+  "mfn": [
+   [
+    1720,
+    1833
+   ]
+  ],
+  "governing_law": [
+   [
+    2683,
+    2859
+   ]
+  ]
+ },
+ "vendor_id": "V-temp_staffing-1",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Solstice Talent Solutions LLC",
+  "service_category": "temp_staffing",
+  "effective_date": "2023-05-11",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 6,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 15490000.0,
+  "pricing": {
+   "unit": "hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 470000.0,
+     "unit_price": 42.29
+    },
+    {
+     "lower": 470000.0,
+     "upper": 1400000.0,
+     "unit_price": 39.3
+    },
+    {
+     "lower": 1400000.0,
+     "upper": null,
+     "unit_price": 37.18
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

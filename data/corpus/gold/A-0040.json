@@ -1,0 +1,183 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Arden Legal Technologies Corporation",
+  "service_category": "ediscovery_hosting",
+  "effective_date": "2022-12-05",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "GB-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 14.69
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 13.6
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 12.53
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    259
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    259
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    259
+   ]
+  ],
+  "service_category": [
+   [
+    261,
+    397
+   ]
+  ],
+  "initial_term_months": [
+   [
+    399,
+    532
+   ]
+  ],
+  "auto_renew": [
+   [
+    534,
+    806
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    534,
+    806
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    534,
+    806
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    808,
+    900
+   ]
+  ],
+  "pricing": [
+   [
+    902,
+    964
+   ],
+   [
+    2344,
+    2697
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    966,
+    1015
+   ]
+  ],
+  "change_of_control": [
+   [
+    1111,
+    1326
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1328,
+    1439
+   ]
+  ],
+  "governing_law": [
+   [
+    2212,
+    2342
+   ]
+  ]
+ },
+ "vendor_id": "V-ediscovery_hosting-0",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Arden Legal Technologies Corporation",
+  "service_category": "ediscovery_hosting",
+  "effective_date": "2022-12-05",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "GB-month",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 210000.0,
+     "unit_price": 14.69
+    },
+    {
+     "lower": 210000.0,
+     "upper": 620000.0,
+     "unit_price": 13.6
+    },
+    {
+     "lower": 620000.0,
+     "upper": null,
+     "unit_price": 12.53
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

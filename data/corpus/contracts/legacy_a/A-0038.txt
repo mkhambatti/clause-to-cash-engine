@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Studios, Inc.
+Vendor: SOLSTICE TALENT SOLUTIONS, LLC
+Effective Date: 2024-07-07
+Services: Staffing
+Governing Law: California
+
+TERM & RENEWAL
+Term: 24 months from Effective Date
+Auto-Renewal: Yes - 24 months
+Non-Renewal Notice: 3 months
+
+TERMINATION
+Termination for Convenience: Customer - 60 days notice; ETF 75% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $15,600,000
+Annual Price Increase: 5%
+Payment Terms: Net 60
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (hour) | To (hour) | Price per hour |
+|------|------|------|------|
+| 1 | 0 | 470,000 | $42.29 |
+| 2 | 470,000 | 1,400,000 | $39.30 |
+| 3 | 1,400,000 | and above | $37.18 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed with Vendor consent
+Assignment / Change of Control: Consent required
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

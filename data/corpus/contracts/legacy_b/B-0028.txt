@@ -1,0 +1,33 @@
+Services Agreement
+
+This agreement is signed on 9th November 2023 between Dunmore Relationship Software, Inc. ("we", "us") and Halyard Digital Ventures LLC ("the Customer"). The service, in plain words: tracking advertiser and distributor relationships in the vendor's app.
+
+The relationship runs for three years counting from signature.
+
+There is no evergreen: if the parties want to keep going after the initial period they will have to sign something new.
+
+The Customer can walk away early on 30 days' notice, but owes half of what is left on the commitment.
+
+Pricing steps down with volume, applied to everything: up to 22,000 user-month a year each user-month costs $116.74; once volume passes 22,000 every user-month is repriced at $109.10; past 66,000 it drops to $100.84 for every user-month.
+
+The Customer is on the hook for at least US$2.01 million a year whether or not it uses that much.
+
+Prices are locked for the whole relationship.
+
+Invoices are due 30 days after receipt.
+
+The contract binds both sides and whoever follows them.
+
+We promise the prices here are as good as any comparable client gets.
+
+Confidential information stays confidential for three years after the agreement ends.
+
+Each side's liability is capped at twelve months of fees and that is the exclusive remedy.
+
+We will credit 10% of the monthly fee if uptime drops below 99.5%.
+
+The Customer indemnifies us and our affiliates against claims arising from its content.
+
+England and Wales law governs.
+
+Signed by both sides.

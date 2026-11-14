@@ -1,0 +1,201 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Arden Fiber Networks Corp.",
+  "service_category": "fiber_transport",
+  "effective_date": "2022-09-18",
+  "initial_term_months": 60,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 2410000.0,
+  "pricing": {
+   "unit": "circuit-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 700.0,
+     "unit_price": 6078.0
+    },
+    {
+     "lower": 700.0,
+     "upper": 2100.0,
+     "unit_price": 5668.0
+    },
+    {
+     "lower": 2100.0,
+     "upper": null,
+     "unit_price": 5301.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    257
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    257
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    257
+   ]
+  ],
+  "service_category": [
+   [
+    259,
+    392
+   ]
+  ],
+  "initial_term_months": [
+   [
+    394,
+    527
+   ]
+  ],
+  "auto_renew": [
+   [
+    529,
+    651
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    529,
+    651
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    529,
+    651
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    653,
+    944
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    653,
+    944
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    653,
+    944
+   ]
+  ],
+  "pricing": [
+   [
+    946,
+    1008
+   ],
+   [
+    2839,
+    3199
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1010,
+    1220
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1316,
+    1490
+   ]
+  ],
+  "change_of_control": [
+   [
+    1492,
+    1707
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1709,
+    1831
+   ]
+  ],
+  "mfn": [
+   [
+    1833,
+    1936
+   ]
+  ],
+  "governing_law": [
+   [
+    2709,
+    2837
+   ]
+  ]
+ },
+ "vendor_id": "V-fiber_transport-0",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Arden Fiber Networks Corp.",
+  "service_category": "fiber_transport",
+  "effective_date": "2022-09-18",
+  "initial_term_months": 60,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 50.0,
+  "min_annual_commit_usd": 2410000.0,
+  "pricing": {
+   "unit": "circuit-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 700.0,
+     "unit_price": 6078.0
+    },
+    {
+     "lower": 700.0,
+     "upper": 2100.0,
+     "unit_price": 5668.0
+    },
+    {
+     "lower": 2100.0,
+     "upper": null,
+     "unit_price": 5301.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

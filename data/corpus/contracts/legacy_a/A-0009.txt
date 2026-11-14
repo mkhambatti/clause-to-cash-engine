@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Studios, Inc.
+Vendor: UMBRA IDENTITY, LTD.
+Effective Date: 2023-03-09
+Services: Identity Platform
+Governing Law: Delaware
+
+TERM & RENEWAL
+Term: 36 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 120 days
+
+TERMINATION
+Termination for Convenience: Customer - 90 days notice; ETF 50% of remaining fees
+
+COMMERCIALS
+Annual Minimum Commitment: $2,230,000
+Annual Price Increase: 3%
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (MAU-month) | To (MAU-month) | Price per MAU-month |
+|------|------|------|------|
+| 1 | 0 | 92,000,000 | $0.0229 |
+| 2 | 92,000,000 | 280,000,000 | $0.0214 |
+| 3 | 280,000,000 | and above | $0.0201 |
+
+OTHER TERMS
+Affiliate Purchasing: Not permitted
+Assignment / Change of Control: Not addressed
+Exclusive Requirements: No
+MFN: Yes
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

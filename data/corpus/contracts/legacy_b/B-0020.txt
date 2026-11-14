@@ -1,0 +1,41 @@
+ORDER FORM
+
+Customer: Halyard Broadcasting Group, Inc.
+Vendor: NORTHGATE SUBTITLE SERVICES CORP.
+Effective Date: 2026-01-24
+Services: Subtitling
+Governing Law: England and Wales
+
+TERM & RENEWAL
+Term: 12 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 120 days
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: $2,210,000
+Annual Price Increase: None
+Payment Terms: Net 30
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (finished-minute) | To (finished-minute) | Price per finished-minute |
+|------|------|------|------|
+| 1 | 0 | 320,000 | $8.77 |
+| 2 | 320,000 | 970,000 | $8.30 |
+| 3 | 970,000 | and above | $7.87 |
+
+OTHER TERMS
+Assignment / Change of Control: Free assignment to successors
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

@@ -1,0 +1,207 @@
+{
+ "terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Solstice Edge Networks, Ltd.",
+  "service_category": "cdn_delivery",
+  "effective_date": "2025-05-31",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "PB",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 3300.0,
+     "unit_price": 6036.0
+    },
+    {
+     "lower": 3300.0,
+     "upper": 10000.0,
+     "unit_price": 5607.0
+    },
+    {
+     "lower": 10000.0,
+     "upper": null,
+     "unit_price": 5412.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    253
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    253
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    253
+   ]
+  ],
+  "service_category": [
+   [
+    255,
+    392
+   ]
+  ],
+  "initial_term_months": [
+   [
+    394,
+    532
+   ]
+  ],
+  "auto_renew": [
+   [
+    534,
+    656
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    534,
+    656
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    534,
+    656
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    658,
+    957
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    658,
+    957
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    658,
+    957
+   ]
+  ],
+  "pricing": [
+   [
+    959,
+    1021
+   ],
+   [
+    2788,
+    3093
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1023,
+    1127
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1129,
+    1214
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1310,
+    1432
+   ]
+  ],
+  "change_of_control": [
+   [
+    1434,
+    1656
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1658,
+    1780
+   ]
+  ],
+  "mfn": [
+   [
+    1782,
+    1885
+   ]
+  ],
+  "governing_law": [
+   [
+    2658,
+    2786
+   ]
+  ]
+ },
+ "vendor_id": "V-cdn_delivery-0",
+ "base_terms": {
+  "customer_party": "Halyard Networks Corporation",
+  "vendor_party": "Solstice Edge Networks, Ltd.",
+  "service_category": "cdn_delivery",
+  "effective_date": "2025-05-31",
+  "initial_term_months": 36,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": true,
+  "tfc_notice_days": 90,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "PB",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 3300.0,
+     "unit_price": 6036.0
+    },
+    {
+     "lower": 3300.0,
+     "upper": 10000.0,
+     "unit_price": 5607.0
+    },
+    {
+     "lower": 10000.0,
+     "upper": null,
+     "unit_price": 5412.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "vendor_termination_right",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

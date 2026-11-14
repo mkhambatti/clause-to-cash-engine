@@ -1,0 +1,55 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement (this "Agreement") is dated as of December 13, 2022 (the "Effective Date") by and between Halyard Digital Ventures LLC ("Customer") and Opaline Language Studios, LLC, a New York corporation ("Vendor").
+
+1. Services. Vendor shall provide dubbing and localization services (the "Services") to Customer in accordance with this Agreement.
+
+2.1 Term. This Agreement commences on the Effective Date and continues for an initial term of forty-eight (48) months (the "Initial Term").
+
+2.2 Renewal. This Agreement will not renew automatically; any renewal requires a written amendment signed by both parties.
+
+3.1 Fees. Customer shall pay the fees set forth in Schedule A.
+
+3.3 Minimum Commitment. Customer commits to purchase not less than $9,210,000 of Services in each contract year (the "Annual Minimum Commitment"). Any shortfall will be invoiced at the end of the contract year.
+
+3.4 Payment Terms. Customer will pay undisputed invoices within forty-five (45) days of receipt.
+
+5.1 Assignment. Neither party may assign this Agreement, whether by operation of law, change of control, or otherwise, without the other party's prior written consent, which will not be unreasonably withheld.
+
+6.1 Exclusivity. Nothing in this Agreement obligates Customer to purchase the Services exclusively from Vendor.
+
+7. Confidentiality. Each party's confidentiality obligations survive for three (3) years after termination of this Agreement.
+
+7. Indemnification. Vendor will indemnify Customer, its Affiliates, and their respective officers and directors against third-party claims arising from Vendor's breach of this Agreement.
+
+7. Limitation of Liability. Each party's total liability will not exceed the fees paid in the twelve (12) months preceding the claim. This Section states each party's exclusive remedy for such claims.
+
+7. Service Levels. Vendor will maintain 99.9% availability and will issue service credits of ten percent (10%) of the monthly fees for any month in which availability falls below 99.5%.
+
+7. Notices. Notices are deemed given five (5) days after mailing.
+
+8. Governing Law. This Agreement is governed by the laws of England and Wales, without regard to conflict of law principles.
+
+SCHEDULE A - PRICING
+Unit: finished-minute
+Tier 1: 0 to 91,000 finished-minute per year at $85.59 per finished-minute
+Tier 2: 91,000 to 270,000 finished-minute per year at $82.94 per finished-minute
+Tier 3: Above 270,000 finished-minute per year at $76.89 per finished-minute
+Tiered pricing applies on an all-units basis: the rate for the tier in which total Annual Volume falls applies to all units.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+Customer: ____________________  Vendor: ____________________
+
+AMENDMENT NO. 1 TO MASTER SERVICES AGREEMENT
+
+This Amendment No. 1 is entered into as of June 13, 2023. Section 2.1 (Term) is amended by extending the Initial Term by twelve (12) months. Except as modified hereby, all terms of the Agreement remain in full force and effect.
+
+AMENDMENT NO. 2 TO MASTER SERVICES AGREEMENT
+
+This Amendment No. 2 is entered into as of May 6, 2025. Schedule A is deleted in its entirety and replaced with the following:
+Unit: finished-minute
+Tier 1: 0 to 91,000 finished-minute per year at $75.35 per finished-minute
+Tier 2: 91,000 to 270,000 finished-minute per year at $73.02 per finished-minute
+Tier 3: Above 270,000 finished-minute per year at $67.69 per finished-minute
+Tiered pricing applies on an all-units basis: the rate for the tier in which total Annual Volume falls applies to all units.
+Except as modified hereby, all terms of the Agreement remain in full force and effect.

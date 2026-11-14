@@ -1,0 +1,195 @@
+{
+ "terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Arden Archive Systems, LLC",
+  "service_category": "cloud_storage",
+  "effective_date": "2022-06-21",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 7270000.0,
+  "pricing": {
+   "unit": "PB-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 410.0,
+     "unit_price": 21952.0
+    },
+    {
+     "lower": 410.0,
+     "upper": 1200.0,
+     "unit_price": 21007.0
+    },
+    {
+     "lower": 1200.0,
+     "upper": null,
+     "unit_price": 19992.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    27,
+    299
+   ]
+  ],
+  "customer_party": [
+   [
+    27,
+    299
+   ]
+  ],
+  "vendor_party": [
+   [
+    27,
+    299
+   ]
+  ],
+  "service_category": [
+   [
+    301,
+    486
+   ]
+  ],
+  "initial_term_months": [
+   [
+    488,
+    698
+   ]
+  ],
+  "auto_renew": [
+   [
+    700,
+    1015
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    700,
+    1015
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    700,
+    1015
+   ]
+  ],
+  "pricing": [
+   [
+    1017,
+    1086
+   ],
+   [
+    3253,
+    3758
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    1111,
+    1273
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    1275,
+    1368
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    1469,
+    1726
+   ]
+  ],
+  "change_of_control": [
+   [
+    1728,
+    1977
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1979,
+    2085
+   ]
+  ],
+  "mfn": [
+   [
+    2110,
+    2223
+   ]
+  ],
+  "governing_law": [
+   [
+    3073,
+    3251
+   ]
+  ]
+ },
+ "vendor_id": "V-cloud_storage-0",
+ "base_terms": {
+  "customer_party": "Halyard Broadcasting Group, Inc.",
+  "vendor_party": "Arden Archive Systems, LLC",
+  "service_category": "cloud_storage",
+  "effective_date": "2022-06-21",
+  "initial_term_months": 48,
+  "auto_renew": true,
+  "renewal_term_months": 24,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 7270000.0,
+  "pricing": {
+   "unit": "PB-month",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 410.0,
+     "unit_price": 21952.0
+    },
+    {
+     "lower": 410.0,
+     "upper": 1200.0,
+     "unit_price": 21007.0
+    },
+    {
+     "lower": 1200.0,
+     "upper": null,
+     "unit_price": 19992.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "California"
+ }
+}

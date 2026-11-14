@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Tidewater Shield Technologies Corporation",
+  "service_category": "drm_licensing",
+  "effective_date": "2024-01-17",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 2970000.0,
+  "pricing": {
+   "unit": "million-licenses",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 13000.0,
+     "unit_price": 248.39
+    },
+    {
+     "lower": 13000.0,
+     "upper": 38000.0,
+     "unit_price": 228.89
+    },
+    {
+     "lower": 38000.0,
+     "upper": null,
+     "unit_price": 218.5
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    20,
+    275
+   ]
+  ],
+  "customer_party": [
+   [
+    20,
+    275
+   ]
+  ],
+  "vendor_party": [
+   [
+    20,
+    275
+   ]
+  ],
+  "service_category": [
+   [
+    20,
+    275
+   ]
+  ],
+  "initial_term_months": [
+   [
+    277,
+    336
+   ]
+  ],
+  "auto_renew": [
+   [
+    338,
+    466
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    338,
+    466
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    338,
+    466
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    468,
+    569
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    468,
+    569
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    468,
+    569
+   ]
+  ],
+  "pricing": [
+   [
+    571,
+    775
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    777,
+    874
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    876,
+    922
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    965,
+    1068
+   ]
+  ],
+  "change_of_control": [
+   [
+    1070,
+    1161
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    1163,
+    1212
+   ]
+  ],
+  "mfn": [
+   [
+    1214,
+    1263
+   ]
+  ],
+  "governing_law": [
+   [
+    1601,
+    1622
+   ]
+  ]
+ },
+ "vendor_id": "V-drm_licensing-2",
+ "base_terms": {
+  "customer_party": "Meridian Pictures Corporation",
+  "vendor_party": "Tidewater Shield Technologies Corporation",
+  "service_category": "drm_licensing",
+  "effective_date": "2024-01-17",
+  "initial_term_months": 12,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 30,
+   "unit": "days"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 180,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 2970000.0,
+  "pricing": {
+   "unit": "million-licenses",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 13000.0,
+     "unit_price": 248.39
+    },
+    {
+     "lower": 13000.0,
+     "upper": 38000.0,
+     "unit_price": 228.89
+    },
+    {
+     "lower": 38000.0,
+     "upper": null,
+     "unit_price": 218.5
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "consent_required",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "Delaware"
+ }
+}

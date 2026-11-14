@@ -1,0 +1,203 @@
+{
+ "terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Solstice Encode Corporation",
+  "service_category": "transcoding",
+  "effective_date": "2026-05-16",
+  "initial_term_months": 12,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "output-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 6500000.0,
+     "unit_price": 0.8502
+    },
+    {
+     "lower": 6500000.0,
+     "upper": 19000000.0,
+     "unit_price": 0.8048
+    },
+    {
+     "lower": 19000000.0,
+     "upper": null,
+     "unit_price": 0.7506
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    161
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    161
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    161
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    161
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    161
+   ]
+  ],
+  "initial_term_months": [
+   [
+    163,
+    230
+   ]
+  ],
+  "auto_renew": [
+   [
+    163,
+    230
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    163,
+    230
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    163,
+    230
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    232,
+    286
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    232,
+    286
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    232,
+    286
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    288,
+    379
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    288,
+    379
+   ]
+  ],
+  "pricing": [
+   [
+    381,
+    626
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    628,
+    721
+   ]
+  ],
+  "change_of_control": [
+   [
+    628,
+    721
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    628,
+    721
+   ]
+  ],
+  "mfn": [
+   [
+    628,
+    721
+   ]
+  ]
+ },
+ "vendor_id": "V-transcoding-0",
+ "base_terms": {
+  "customer_party": "Halyard Digital Ventures LLC",
+  "vendor_party": "Solstice Encode Corporation",
+  "service_category": "transcoding",
+  "effective_date": "2026-05-16",
+  "initial_term_months": 12,
+  "auto_renew": false,
+  "renewal_term_months": null,
+  "nonrenewal_notice": null,
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": null,
+  "pricing": {
+   "unit": "output-hour",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 6500000.0,
+     "unit_price": 0.8502
+    },
+    {
+     "lower": 6500000.0,
+     "upper": 19000000.0,
+     "unit_price": 0.8048
+    },
+    {
+     "lower": 19000000.0,
+     "upper": null,
+     "unit_price": 0.7506
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": 3.0,
+  "affiliate_purchasing": "silent",
+  "change_of_control": "silent",
+  "exclusive_requirements": false,
+  "mfn": true,
+  "governing_law": "California"
+ }
+}

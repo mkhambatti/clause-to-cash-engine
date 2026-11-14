@@ -1,0 +1,213 @@
+{
+ "terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Solstice Edge Networks, Ltd.",
+  "service_category": "cdn_delivery",
+  "effective_date": "2022-09-22",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 27980000.0,
+  "pricing": {
+   "unit": "PB",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 3300.0,
+     "unit_price": 5383.0
+    },
+    {
+     "lower": 3300.0,
+     "upper": 10000.0,
+     "unit_price": 5000.0
+    },
+    {
+     "lower": 10000.0,
+     "upper": null,
+     "unit_price": 4826.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    164
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    164
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    164
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    164
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    164
+   ]
+  ],
+  "initial_term_months": [
+   [
+    166,
+    275
+   ]
+  ],
+  "auto_renew": [
+   [
+    166,
+    275
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    166,
+    275
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    166,
+    275
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    277,
+    371
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    277,
+    371
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    277,
+    371
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    373,
+    473
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    373,
+    473
+   ]
+  ],
+  "pricing": [
+   [
+    475,
+    674
+   ],
+   [
+    1125,
+    1405
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    676,
+    814
+   ]
+  ],
+  "change_of_control": [
+   [
+    676,
+    814
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    676,
+    814
+   ]
+  ],
+  "mfn": [
+   [
+    676,
+    814
+   ]
+  ]
+ },
+ "vendor_id": "V-cdn_delivery-0",
+ "base_terms": {
+  "customer_party": "Meridian Streaming LLC",
+  "vendor_party": "Solstice Edge Networks, Ltd.",
+  "service_category": "cdn_delivery",
+  "effective_date": "2022-09-22",
+  "initial_term_months": 36,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 2,
+   "unit": "months"
+  },
+  "termination_for_convenience": true,
+  "tfc_notice_days": 60,
+  "early_termination_fee_pct": 100.0,
+  "min_annual_commit_usd": 27980000.0,
+  "pricing": {
+   "unit": "PB",
+   "tier_mode": "graduated",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 3300.0,
+     "unit_price": 6036.0
+    },
+    {
+     "lower": 3300.0,
+     "upper": 10000.0,
+     "unit_price": 5607.0
+    },
+    {
+     "lower": 10000.0,
+     "upper": null,
+     "unit_price": 5412.0
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "allowed",
+  "change_of_control": "free",
+  "exclusive_requirements": false,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ }
+}

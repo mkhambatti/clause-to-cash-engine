@@ -1,0 +1,42 @@
+ORDER FORM
+
+Customer: Meridian Streaming LLC
+Vendor: KESTREL TRAVEL SYSTEMS INC.
+Effective Date: 2024-10-29
+Services: Travel & Expense
+Governing Law: Delaware
+
+TERM & RENEWAL
+Term: 60 months from Effective Date
+Auto-Renewal: Yes - 12 months
+Non-Renewal Notice: 90 days
+
+TERMINATION
+Termination for Convenience: Not permitted
+
+COMMERCIALS
+Annual Minimum Commitment: None
+Annual Price Increase: 5%
+Payment Terms: Net 60
+
+PRICING
+Tier Mode: All-Units
+| Tier | From (transaction) | To (transaction) | Price per transaction |
+|------|------|------|------|
+| 1 | 0 | 450,000 | $2.99 |
+| 2 | 450,000 | 1,400,000 | $2.75 |
+| 3 | 1,400,000 | and above | $2.64 |
+
+OTHER TERMS
+Affiliate Purchasing: Allowed with Vendor consent
+Assignment / Change of Control: Consent required
+Exclusive Requirements: No
+MFN: No
+
+GENERAL
+SLA: 99.9% availability; service credit 10% of monthly fees below 99.5%
+Confidentiality: survives 3 years after termination
+Liability Cap: 12 months of fees (exclusive remedy)
+Indemnity: Vendor indemnifies Customer and its Affiliates for third-party claims
+
+Signed: ____________________

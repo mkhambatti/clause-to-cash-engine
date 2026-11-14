@@ -1,0 +1,209 @@
+{
+ "terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Solstice Render Cloud Inc.",
+  "service_category": "render_services",
+  "effective_date": "2025-07-22",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 9430000.0,
+  "pricing": {
+   "unit": "core-hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000000.0,
+     "unit_price": 0.058
+    },
+    {
+     "lower": 200000000.0,
+     "upper": 590000000.0,
+     "unit_price": 0.0553
+    },
+    {
+     "lower": 590000000.0,
+     "upper": null,
+     "unit_price": 0.0536
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ },
+ "spans": {
+  "effective_date": [
+   [
+    12,
+    163
+   ]
+  ],
+  "customer_party": [
+   [
+    12,
+    163
+   ]
+  ],
+  "vendor_party": [
+   [
+    12,
+    163
+   ]
+  ],
+  "service_category": [
+   [
+    12,
+    163
+   ]
+  ],
+  "governing_law": [
+   [
+    12,
+    163
+   ]
+  ],
+  "initial_term_months": [
+   [
+    165,
+    274
+   ]
+  ],
+  "auto_renew": [
+   [
+    165,
+    274
+   ]
+  ],
+  "renewal_term_months": [
+   [
+    165,
+    274
+   ]
+  ],
+  "nonrenewal_notice": [
+   [
+    165,
+    274
+   ]
+  ],
+  "termination_for_convenience": [
+   [
+    276,
+    330
+   ]
+  ],
+  "tfc_notice_days": [
+   [
+    276,
+    330
+   ]
+  ],
+  "early_termination_fee_pct": [
+   [
+    276,
+    330
+   ]
+  ],
+  "min_annual_commit_usd": [
+   [
+    332,
+    431
+   ]
+  ],
+  "annual_escalator_pct": [
+   [
+    332,
+    431
+   ]
+  ],
+  "pricing": [
+   [
+    433,
+    678
+   ]
+  ],
+  "affiliate_purchasing": [
+   [
+    680,
+    839
+   ]
+  ],
+  "change_of_control": [
+   [
+    680,
+    839
+   ]
+  ],
+  "exclusive_requirements": [
+   [
+    680,
+    839
+   ]
+  ],
+  "mfn": [
+   [
+    680,
+    839
+   ]
+  ]
+ },
+ "vendor_id": "V-render_services-2",
+ "base_terms": {
+  "customer_party": "Meridian Studios, Inc.",
+  "vendor_party": "Solstice Render Cloud Inc.",
+  "service_category": "render_services",
+  "effective_date": "2025-07-22",
+  "initial_term_months": 60,
+  "auto_renew": true,
+  "renewal_term_months": 12,
+  "nonrenewal_notice": {
+   "amount": 120,
+   "unit": "days"
+  },
+  "termination_for_convenience": false,
+  "tfc_notice_days": null,
+  "early_termination_fee_pct": null,
+  "min_annual_commit_usd": 9430000.0,
+  "pricing": {
+   "unit": "core-hour",
+   "tier_mode": "all_units",
+   "tiers": [
+    {
+     "lower": 0.0,
+     "upper": 200000000.0,
+     "unit_price": 0.058
+    },
+    {
+     "lower": 200000000.0,
+     "upper": 590000000.0,
+     "unit_price": 0.0553
+    },
+    {
+     "lower": 590000000.0,
+     "upper": null,
+     "unit_price": 0.0536
+    }
+   ],
+   "currency": "USD"
+  },
+  "annual_escalator_pct": null,
+  "affiliate_purchasing": "consent_required",
+  "change_of_control": "free",
+  "exclusive_requirements": true,
+  "mfn": false,
+  "governing_law": "England and Wales"
+ }
+}
